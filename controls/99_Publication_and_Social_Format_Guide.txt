@@ -1,0 +1,166 @@
+99_Publication_and_Social_Format_Guide
+Node-Based Budget Framework (NBBF)
+
+Version: 1.0
+Date: 2026-02-01
+Status: Non-Authoritative Companion Document
+Scope: Public presentation, social media formatting, and external linking
+
+--------------------------------------------------
+
+1. Purpose
+
+This document defines the standardized format for publishing, sharing,
+and referencing Node-Based Budget Framework (NBBF) content in public,
+social media, and educational contexts.
+
+Its purpose is to:
+- Enable clear, consistent public communication
+- Preserve precision while increasing reach
+- Prevent dilution, paraphrase drift, or misrepresentation
+- Ensure every public reference points back to authoritative source material
+
+This document does not create authority.
+It governs presentation only.
+
+--------------------------------------------------
+
+2. Authority Relationship
+
+The authoritative documents of NBBF are those numbered 00–11.
+
+This guide:
+- Does not override
+- Does not reinterpret
+- Does not modify
+
+Any conflict between this guide and an authoritative document
+is resolved in favor of the authoritative document.
+
+--------------------------------------------------
+
+3. Canonical Section Identification
+
+All NBBF content must be referenced using the canonical format:
+
+NBBF <DocumentNumber>.<SectionNumber>
+
+Examples:
+- NBBF 06.1
+- NBBF 06.7
+- NBBF 02.16
+
+Section identifiers are stable and may not be renumbered
+without updating the authoritative source document.
+
+--------------------------------------------------
+
+4. Standard Social Media Block Format
+
+Public-facing excerpts must use the following structure:
+
+NBBF <XX.Y>. <Section Title>
+
+<2–3 sentence plain-English summary of the rule or principle>
+
+Key rules:
+- Bullet
+- Bullet
+- Bullet
+
+Reference:
+https://BlueprintLiberty.com/NBBF/<XX>#<XX.Y>
+
+No additional commentary may be inserted inside the block.
+
+--------------------------------------------------
+
+5. Linking Rules
+
+Every public excerpt must include:
+- A direct reference URL
+- The document number
+- The section number
+
+Links must point to:
+- The authoritative document
+- The exact section anchor where possible
+
+If section anchors are unavailable, links must resolve
+to the document landing page.
+
+--------------------------------------------------
+
+6. Editing and Paraphrasing Rules
+
+Public excerpts:
+- May shorten language
+- May simplify sentence structure
+- May reduce word count
+
+Public excerpts may not:
+- Change meaning
+- Introduce new terms
+- Remove constraints
+- Add interpretation or opinion
+
+If meaning cannot be preserved through reduction,
+the section must be quoted verbatim.
+
+--------------------------------------------------
+
+7. Platform Independence
+
+This format is platform-neutral and applies equally to:
+- Websites
+- Blogs
+- X / Twitter
+- Threads
+- Truth Social
+- Gettr
+- Presentations
+- Educational materials
+
+Platform-specific truncation does not permit content alteration.
+
+--------------------------------------------------
+
+8. Attribution and Traceability
+
+All public uses of NBBF content must:
+- Retain the NBBF section identifier
+- Retain the reference link
+- Preserve traceability to source documents
+
+Screenshots, images, or excerpts without reference
+are considered incomplete representations.
+
+--------------------------------------------------
+
+9. Derivative Content Rule
+
+Derivative content may:
+- Explain
+- Illustrate
+- Teach
+
+Derivative content may not:
+- Redefine
+- Substitute for
+- Override
+
+Derivative content must always link back
+to the authoritative NBBF source.
+
+--------------------------------------------------
+
+10. Publication North Star
+
+Clarity over virality.
+Precision over persuasion.
+Structure over slogans.
+
+Every share should strengthen understanding,
+not weaken authority.
+
+This guide is binding for publication only.

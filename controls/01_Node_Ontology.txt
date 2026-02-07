@@ -1,0 +1,331 @@
+01_Node_Ontology
+Node-Based Budget Framework (NBBF)
+
+Version: 1.1
+Date: 2026-02-01
+Status: Authoritative Control Document
+Scope: Definition, classification, and structural constraints of all budget nodes
+
+--------------------------------------------------
+
+1. Purpose
+
+This document defines the formal ontology of the Node-Based Budget Framework.
+
+It establishes:
+- What constitutes a budget node
+- The classification of nodes by decision authority
+- Mandatory ownership, authority, cost, signaling, and exit requirements
+- Structural constraints that prevent pooling, drift, concealment, and hostage budgeting
+
+No budget authority, execution authority, or funded obligation may exist
+outside this ontology.
+
+--------------------------------------------------
+
+2. Core Axiom — Human Authority
+
+2.1 Human Node (Root Authority)
+
+All nodes ultimately descend from a Human Node.
+
+A Human Node is a real, named individual who:
+- Bears legal responsibility
+- Bears budget responsibility
+- Publicly defends tradeoffs
+- Exercises judgment under uncertainty
+- Can authorize continuation, modification, or termination
+- Can say “stop”
+
+Automation, committees, algorithms, and agencies may assist,
+but they may not replace human ownership or defense.
+
+--------------------------------------------------
+
+3. Definition of a Node
+
+A Node is the smallest indivisible unit of budget authority or obligation.
+
+A node is:
+- A bounded decision or obligation
+- With a single accountable owner
+- A defined purpose
+- Explicit inputs and outputs
+- Measurable cost or resource claim
+- Explicit exit conditions
+- An associated signaling surface
+
+A node is not:
+- A department
+- A political category
+- A pooled fund
+- A placeholder for future discretion
+
+--------------------------------------------------
+
+4. Node Classes by Decision Authority
+
+Not all nodes are subject to Congressional vote.
+
+Nodes are classified by **decision authority**, not merely by depth.
+
+--------------------------------------------------
+
+4.1 Decision Nodes (Voting Nodes)
+
+Decision Nodes are nodes that require affirmative Congressional authorization.
+
+Characteristics:
+- Subject to Congressional vote
+- Establish scope, ceilings, and constraints
+- Allocate authority downward to child nodes
+- Fewer in number and higher in the tree
+- Collapse all dependent child nodes upon failure
+
+Typical Decision Nodes include:
+- Root Nodes
+- Major Branch Nodes
+- Program Nodes designated by statute or rule
+
+Congress votes on decisions, not on execution details.
+
+--------------------------------------------------
+
+4.2 Assembly and Detail Nodes (Non-Voting Nodes)
+
+Assembly and Detail Nodes decompose approved decisions into executable structure.
+
+Characteristics:
+- Not voted on individually by Congress
+- Exist to expose cost structure, obligations, and execution detail
+- Owned and defended by executive or operational owners
+- Automatically collapse if the parent Decision Node loses authority
+- Cannot expand scope beyond parent constraints
+
+Typical Assembly and Detail Nodes include:
+- Operational Nodes
+- Support Nodes
+- Cost decomposition nodes
+- Execution and logistics nodes
+
+Visibility does not imply voting authority.
+
+--------------------------------------------------
+
+5. Required Properties of Every Node
+
+Every node must explicitly declare the following properties.
+
+--------------------------------------------------
+
+5.1 Identity
+- Unique Node ID
+- Plain-language Node Name
+- Node Type
+- Node Class (Decision or Assembly/Detail)
+
+--------------------------------------------------
+
+5.2 Ownership
+- Single Human Owner (name and role)
+- Parent node in the authority chain
+
+--------------------------------------------------
+
+5.3 Constitutional Authority
+- Enumerated constitutional authority citation, or
+- Explicit designation as non-enumerated authority
+- Scope limitation statement
+
+--------------------------------------------------
+
+5.4 Cost and Resources
+- Four-month funding request or allocation
+- Unit cost assumptions
+- Acceptable variance thresholds
+
+--------------------------------------------------
+
+5.5 Inputs
+- Resources consumed
+- Preconditions required
+
+--------------------------------------------------
+
+5.6 Outputs and Obligations
+- Deliverables, capabilities, or services promised
+- Observable expectations downstream
+
+--------------------------------------------------
+
+5.7 Performance Metrics
+- Objective performance indicators
+- Reporting cadence aligned to the four-month cycle
+- Pass/fail criteria
+
+--------------------------------------------------
+
+5.8 Signaling and Reporting Surface
+
+Every node must declare:
+- Who is downstream of the node
+- What authorized outcomes are visible to them
+- The reporting channel for variance
+- The escalation path for unresolved variance
+
+Reporting rights may not be restricted by management hierarchy.
+
+--------------------------------------------------
+
+5.9 Exit Conditions
+- Automatic termination triggers
+- Review or suspension triggers
+- Clawback conditions
+
+A node missing any required property is invalid and ineligible for funding.
+
+--------------------------------------------------
+
+6. Allowed Node Types (Taxonomy)
+
+Only the following node types are permitted.
+
+--------------------------------------------------
+
+6.1 Root Node
+- Represents a constitutional authority domain
+- Provides scope boundaries
+- Holds no funding authority
+
+--------------------------------------------------
+
+6.2 Branch Node
+- Organizes related nodes
+- Holds no pooled funding
+- Exists for structure and navigation
+
+--------------------------------------------------
+
+6.3 Program Node
+- Represents a discrete government function
+- Must decompose into assembly/detail nodes
+- May not retain unallocated funds
+
+--------------------------------------------------
+
+6.4 Operational Node
+- Executes a specific activity
+- Holds direct cost and obligations
+- Primary unit of execution accountability
+
+--------------------------------------------------
+
+6.5 Support Node
+- Enables operational nodes
+- Justified only by dependent nodes
+- Automatically collapses if dependencies fail
+
+--------------------------------------------------
+
+6.6 Legacy Node
+- Represents pre-existing obligations
+- Scope is sealed and non-expansive
+- Subject to sunset and termination rules
+
+No other node types are allowed.
+
+--------------------------------------------------
+
+7. Structural Constraints (Non-Negotiable)
+
+--------------------------------------------------
+
+7.1 No Pooling
+- No node may fund multiple unrelated purposes
+- No aggregation of discretionary authority
+- No obscuring of cost attribution
+
+--------------------------------------------------
+
+7.2 Single Ownership
+- One node, one owner
+- Committees review; they do not own
+
+--------------------------------------------------
+
+7.3 Default Zero
+- All nodes default to zero funding
+- Funding exists only by affirmative approval
+- No baselines, auto-renewals, or silent extensions
+
+--------------------------------------------------
+
+7.4 Independence
+- Failure of one Decision Node does not affect others
+- No cascading failures
+- No hostage leverage across nodes
+
+--------------------------------------------------
+
+8. Node Lifecycle (High Level)
+
+--------------------------------------------------
+
+8.1 Creation
+- Fully specified before consideration
+- Publicly visible at the appropriate clearance level
+
+--------------------------------------------------
+
+8.2 Defense
+- Decision Nodes defended before Congress
+- Assembly/Detail Nodes defended by owners and auditors
+- Defense is recorded and archived
+
+--------------------------------------------------
+
+8.3 Funding
+- Approved on a four-month basis
+- Line-item approval at Decision Node level only
+
+--------------------------------------------------
+
+8.4 Monitoring
+- Performance tracked against declared metrics
+- Variance evaluated each cycle
+- Signals may be generated by any downstream human
+
+--------------------------------------------------
+
+8.5 Termination
+- Triggered automatically by exit conditions
+- Clean and isolated collapse of dependent nodes
+
+--------------------------------------------------
+
+9. Ontology Invariants
+
+The following conditions are always true:
+
+- No spending without defense
+- No authority without ownership
+- No ownership without exits
+- No exits without enforcement
+- No pooled power
+- No suppressed signals
+- No hostage budgeting
+
+--------------------------------------------------
+
+10. Ontology North Star
+
+Congress decides.
+Executives assemble and execute.
+Reality reports back.
+Failure exits cleanly.
+
+Every dollar has a name.
+Every promise has a signal.
+Every failure has an exit.
+
+This ontology is binding.

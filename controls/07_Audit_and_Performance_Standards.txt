@@ -1,0 +1,253 @@
+NBBF 07 — Audit and Performance Standards
+Node-Based Budget Framework (NBBF)
+
+Version: 1.0
+Date: 2026-02-01
+Status: Authoritative Standards Document (Publication Format)
+Scope: Audit discipline, performance measurement, variance handling, and enforcement
+
+--------------------------------------------------
+NBBF 07.1. Purpose
+
+The Audit and Performance Standards define how nodes are evaluated,
+challenged, corrected, or terminated under the Node-Based Budget Framework.
+
+Audits under NBBF are continuous, structural, and consequence-bearing.
+They exist to preserve taxpayer supremacy, not to generate reports.
+
+Key rules:
+- Continuous audit, not episodic theater
+- Performance is measurable
+- Failure produces consequences
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.1
+--------------------------------------------------
+
+NBBF 07.2. Audit Is Structural, Not Investigative
+
+Auditing under NBBF is embedded in system design.
+
+Audits are driven by:
+- Node structure
+- Signals and variance
+- Declared scope and ceilings
+
+Audits do not depend on whistleblowers, press exposure,
+or political initiative.
+
+Key rules:
+- Structure triggers audit
+- No discretionary initiation
+- No selective enforcement
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.2
+--------------------------------------------------
+
+NBBF 07.3. Continuous Performance Measurement
+
+All nodes are measured continuously against:
+- Declared scope
+- Authorized cost
+- Delivered outcomes
+- Time and readiness constraints
+
+Performance measurement is automatic and persistent.
+
+Key rules:
+- No grace periods
+- No narrative substitution
+- Metrics over explanations
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.3
+--------------------------------------------------
+
+NBBF 07.4. Variance Definition
+
+A **Variance** exists when:
+- Costs exceed authorization
+- Outcomes fall short of commitments
+- Scope is exceeded
+- Timelines are violated
+- Signals contradict reported status
+
+Variance is a system fact, not an accusation.
+
+Key rules:
+- Variance is objective
+- Intent is irrelevant
+- Delay is not mitigation
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.4
+--------------------------------------------------
+
+NBBF 07.5. Signal-Triggered Review
+
+Material variance automatically triggers review.
+
+Review thresholds are:
+- Declared at authorization
+- Consistent across similar nodes
+- Non-discretionary
+
+No authority may suppress or delay a triggered review.
+
+Key rules:
+- Automatic escalation
+- No managerial veto
+- Signals override status
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.5
+--------------------------------------------------
+
+NBBF 07.6. Audit Scope and Access
+
+Audits examine:
+- Node configuration
+- Financial flows
+- Operational execution
+- Signal integrity
+- Compliance with post-vote rules
+
+Audit access may be classified,
+but accountability may not be suspended.
+
+Key rules:
+- Full access to auditors
+- Classification limits visibility, not audit
+- No “need-to-know” obstruction
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.6
+--------------------------------------------------
+
+NBBF 07.7. Performance Tiers
+
+Nodes are evaluated into performance tiers, such as:
+- Performing as authorized
+- Underperforming
+- Failing
+- Abusive
+
+Tier assignment is evidence-based
+and recalculated each cycle.
+
+Key rules:
+- Tiering is public (within classification limits)
+- Tiers drive consequences
+- No permanent status
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.7
+--------------------------------------------------
+
+NBBF 07.8. Corrective Action
+
+Corrective action may include:
+- Configuration changes below the voting node
+- Scope reduction
+- Funding reduction
+- Mandatory restructuring
+- Owner replacement
+
+Corrective action does not require scandal or exposure.
+
+Key rules:
+- Proportional response
+- Structural correction
+- Speed over ceremony
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.8
+--------------------------------------------------
+
+NBBF 07.9. Clawback and Recovery
+
+When abuse or gross failure is identified:
+- Funds may be clawed back
+- Authorizations may be suspended
+- Parked balance privileges may be revoked
+
+Clawback is a system function, not a punishment.
+
+Key rules:
+- Rule-based recovery
+- No negotiation
+- No political shielding
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.9
+--------------------------------------------------
+
+NBBF 07.10. Executive Accountability
+
+Executive owners are evaluated on:
+- Performance delivery
+- Signal integrity
+- Responsiveness to variance
+- Avoidance of trivial activation
+- Respect for post-vote constraints
+
+Repeated failure results in loss of authority.
+
+Key rules:
+- Authority is conditional
+- Performance is mandatory
+- Tenure is not protection
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.10
+--------------------------------------------------
+
+NBBF 07.11. Audit Independence
+
+Audit functions operate independently of:
+- Program management
+- Political offices
+- Budget negotiation processes
+
+Audit interference constitutes a structural violation.
+
+Key rules:
+- Independence enforced
+- Interference escalates automatically
+- Retaliation prohibited
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.11
+--------------------------------------------------
+
+NBBF 07.12. Failure Is Informative
+
+Failure under NBBF is not hidden.
+
+Failure:
+- Generates learning
+- Informs future authorization
+- Reduces repeat waste
+- Improves system resilience
+
+Cover-up is worse than failure.
+
+Key rules:
+- Failure is visible
+- Lessons propagate
+- Silence is violation
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.12
+--------------------------------------------------
+
+NBBF 07.13. Audit and Performance North Star
+
+Authority must be earned continuously.
+Performance must be provable.
+Failure must surface.
+Correction must follow.
+
+Reference:
+https://BlueprintLiberty.com/NBBF/07#07.13

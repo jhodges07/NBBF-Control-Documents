@@ -1,0 +1,301 @@
+02_Definitions_and_Terms
+Node-Based Budget Framework (NBBF)
+
+Version: 1.1
+Date: 2026-02-01
+Status: Authoritative Definition Document
+Scope: Binding definitions and controlled vocabulary for all NBBF documents
+
+--------------------------------------------------
+
+1. Purpose
+
+This document defines the official meanings of terms used throughout
+the Node-Based Budget Framework.
+
+These definitions are binding.
+No term may be reinterpreted, expanded, or narrowed outside the meanings
+declared here.
+
+Where ambiguity exists, the most restrictive interpretation governing
+authority, spending, scope, duration, and secrecy shall prevail.
+
+--------------------------------------------------
+
+2. Core Structural Terms
+
+--------------------------------------------------
+
+2.1 Node
+
+A **Node** is the smallest indivisible unit of budget authority,
+obligation, or execution within the NBBF.
+
+A node:
+- Has a single accountable human owner
+- Declares scope, purpose, and duration
+- Carries explicit cost or resource claims
+- Produces observable obligations and signals
+- Contains explicit exit conditions
+
+--------------------------------------------------
+
+2.2 Human Owner
+
+A **Human Owner** is a named individual legally and administratively
+responsible for a node.
+
+The owner:
+- Defends the node’s authorization and performance
+- Bears responsibility for variance
+- May authorize execution within approved constraints
+- May be removed for failure or abuse
+
+Ownership may not be delegated to a committee, office, or process.
+
+--------------------------------------------------
+
+2.3 Decision Node (Voting Node)
+
+A **Decision Node** is a node requiring affirmative Congressional authorization.
+
+A Decision Node:
+- Establishes scope, purpose, duration, and funding ceiling
+- Defines the legal and operational envelope for execution
+- May not be altered by the Executive after approval
+- Collapses all dependent nodes upon termination
+
+Authorization of a Decision Node constitutes formal Congressional consent
+for the actions defined within its scope.
+
+--------------------------------------------------
+
+2.4 Assembly Node
+
+An **Assembly Node** decomposes a Decision Node into executable structure.
+
+Assembly Nodes:
+- Are not voted on individually by Congress
+- Exist to expose cost, obligations, and configuration
+- May be reconfigured by the Executive within parent constraints
+- Collapse automatically if the parent Decision Node loses authority
+
+--------------------------------------------------
+
+2.5 Detail Node
+
+A **Detail Node** represents a reusable operational, logistical,
+or support element.
+
+Detail Nodes:
+- May be referenced by multiple parent nodes
+- Do not pool authority or funding
+- Retain independent signaling and performance metrics
+- May not bind parent nodes without an exit path
+
+--------------------------------------------------
+
+2.6 Support Node
+
+A **Support Node** provides shared services or capabilities
+to one or more operational nodes.
+
+Support Nodes:
+- May serve multiple departments or programs
+- Are funded by explicit references from consuming nodes
+- May not impose captive use
+- Lose funding as consuming nodes exit
+
+--------------------------------------------------
+
+3. Financial Authority Terms
+
+--------------------------------------------------
+
+3.1 Scope
+
+**Scope** defines the bounded purpose, actions, geography,
+and operational limits of a node.
+
+Actions outside declared scope are unauthorized.
+
+--------------------------------------------------
+
+3.2 Funding Ceiling
+
+A **Funding Ceiling** is the maximum authorized allocation
+for a node within a four-month cycle.
+
+Ceilings may not be exceeded, replenished, or rolled forward
+without reauthorization.
+
+--------------------------------------------------
+
+3.3 Four-Month Budget Cycle
+
+The **Four-Month Budget Cycle** is the standard authorization,
+defense, and review period under NBBF.
+
+No funding persists beyond the cycle without affirmative renewal.
+
+--------------------------------------------------
+
+3.4 Reprogramming
+
+**Reprogramming** is the transfer or redirection of funds
+after Congressional authorization.
+
+Under NBBF:
+- Reprogramming is permitted only below a Decision Node
+- Cross–Decision-Node reprogramming requires Congressional re-vote
+- Unauthorized reprogramming is void ab initio
+
+--------------------------------------------------
+
+4. Sinking Fund and Reserve Terms
+
+--------------------------------------------------
+
+4.1 Sinking Fund Node
+
+A **Sinking Fund Node** is a pre-authorized Decision Node
+established to enable immediate executive action
+under defined crisis or defense conditions.
+
+A Sinking Fund Node:
+- Has explicit triggers for activation
+- Has a hard funding ceiling
+- Has no automatic replenishment
+- Must decompose into operational nodes upon use
+- Is subject to accelerated signaling and oversight
+
+--------------------------------------------------
+
+4.2 Activation Event
+
+An **Activation Event** occurs when funds are drawn
+from a Sinking Fund Node or Reserve Node.
+
+Activation triggers:
+- Immediate decomposition into accountable operational nodes
+- Enhanced reporting and signal generation
+- Commencement of accountability and review timelines
+
+--------------------------------------------------
+
+4.3 Parked Balance (Debt-Offset State)
+
+A **Parked Balance** is an unused portion of a Sinking Fund Node
+temporarily loaned to the Treasury for the sole purpose
+of retiring national debt.
+
+Parked balances:
+- Are not available for activation while parked
+- Generate measurable interest savings
+- Do not constitute spending
+- May not be leveraged, traded, or pledged
+
+--------------------------------------------------
+
+4.4 Interest Savings Credit
+
+An **Interest Savings Credit** is the quantified reduction
+in federal interest expense resulting from parked balances.
+
+Interest savings may be:
+- Partially credited back to the originating sinking fund node
+- Applied to general debt reduction
+- Used only to increase resilience, not scope
+
+--------------------------------------------------
+
+5. Signaling and Accountability Terms
+
+--------------------------------------------------
+
+5.1 Signal
+
+A **Signal** is any observable indication of performance,
+delivery, failure, or variance generated by a node.
+
+Signals may originate from:
+- Downstream personnel
+- Audits
+- Operational data
+- Field conditions
+
+Signals may not be suppressed, delayed, or filtered.
+
+--------------------------------------------------
+
+5.2 Reporting Surface
+
+A **Reporting Surface** is the defined interface through which
+signals are submitted, escalated, and persisted.
+
+Reporting surfaces:
+- Bypass management chains
+- Attach to nodes, not offices
+- Persist until resolved or node termination
+
+--------------------------------------------------
+
+5.3 Exit Condition
+
+An **Exit Condition** is a predefined trigger that terminates,
+suspends, or modifies a node.
+
+Exit conditions may be:
+- Time-based
+- Performance-based
+- Audit-based
+- Authority-based
+
+--------------------------------------------------
+
+6. Secrecy and War Authority Terms
+
+--------------------------------------------------
+
+6.1 Secret Node
+
+A **Secret Node** is a node whose details are classified
+for legitimate national security reasons.
+
+Secret Nodes:
+- Still have owners, costs, and exits
+- Are visible in existence and cost range to authorized oversight
+- Are subject to secrecy duration and unmasking rules
+
+--------------------------------------------------
+
+6.2 Declaration of War (Functional)
+
+A **Declaration of War (Functional)** occurs when Congress
+authorizes and funds a Decision Node whose scope includes
+the use of military force.
+
+Under NBBF, such authorization constitutes formal Congressional consent
+for war within the defined scope, duration, and limits of the node.
+
+--------------------------------------------------
+
+7. Interpretation Rule
+
+These definitions override:
+- Customary usage
+- Prior statutory phrasing
+- Informal political language
+
+If a term is undefined here, it has no binding meaning
+within the Node-Based Budget Framework.
+
+--------------------------------------------------
+
+8. Definition North Star
+
+Words define power.
+Power must be bounded.
+Boundaries must be explicit.
+
+This document is binding.

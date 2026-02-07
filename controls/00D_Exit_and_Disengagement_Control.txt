@@ -1,0 +1,152 @@
+00D_Exit_and_Disengagement_Control
+Node-Based Budget Framework (NBBF)
+
+Version: 1.0
+Date: 2026-02-01
+Status: Authoritative Control Document
+Scope: Mandatory exit rights, disengagement mechanics, and authority termination
+
+--------------------------------------------------
+
+GOVERNING AUTHORITY
+
+This document is issued pursuant to the NBBF Root Control Document
+(`controls/00_Control.txt`) and derives its authority therefrom.
+
+All provisions herein are binding on all NBBF nodes, actors, funding mechanisms,
+and derivative systems.
+
+--------------------------------------------------
+
+1. PURPOSE
+
+This document establishes mandatory exit and disengagement requirements
+within the Node-Based Budget Framework.
+
+Its purpose is to ensure that:
+- No authority persists by inertia
+- No obligation is permanent by default
+- Participation remains conditional and revocable
+- Authority expires unless affirmatively renewed
+
+Authority without an exit path constitutes coercion.
+
+--------------------------------------------------
+
+2. EXIT PRINCIPLE (NON-NEGOTIABLE)
+
+Every funded node MUST include:
+- A defined termination condition
+- A disengagement mechanism
+- A revocation pathway
+- A sunset or renewal trigger
+
+A node without an exit path is structurally invalid.
+
+--------------------------------------------------
+
+3. INDIVIDUAL DISENGAGEMENT RIGHTS
+
+Any individual downstream of a node retains the right to disengage from:
+- Participation
+- Compliance obligations beyond lawful minimums
+- Non-essential processes or requirements
+
+Disengagement:
+- Does not require permission
+- Does not require justification
+- May not be penalized beyond explicitly authorized consequences
+
+No authority may compel continued participation absent explicit consent.
+
+--------------------------------------------------
+
+4. NODE-LEVEL TERMINATION
+
+Each node must define:
+- Conditions for suspension
+- Conditions for termination
+- Conditions for replacement or restructuring
+
+If termination conditions are met:
+- Authority automatically ceases
+- Funding halts
+- Obligations dissolve except for lawful closeout
+
+No separate approval is required to end expired authority.
+
+--------------------------------------------------
+
+5. EXIT VS. FAILURE DISTINCTION
+
+Exit is not failure.
+
+Exit is:
+- A designed system function
+- A corrective mechanism
+- Evidence of structural honesty
+
+Suppressing exit signals constitutes system failure.
+
+--------------------------------------------------
+
+6. BUREAUCRATIC NON-ENTRENCHMENT
+
+No office, agency, or actor may:
+- Redefine exit conditions post hoc
+- Substitute procedural delay for termination
+- Extend authority through administrative interpretation
+- Convert temporary authority into permanent structure
+
+Persistence without renewal is prohibited.
+
+--------------------------------------------------
+
+7. EXECUTIVE BRANCH APPLICATION
+
+Execution authority:
+- Does not include the power to deny exit
+- Does not include the power to redefine disengagement
+- Does not include the power to delay termination
+
+Execution ends when authority ends.
+
+--------------------------------------------------
+
+8. SEALED OR CLASSIFIED NODES
+
+Classified or sealed nodes remain subject to exit controls.
+
+At minimum, such nodes must disclose:
+- Existence
+- Duration
+- Termination conditions
+- Renewal authority
+
+Secrecy limits visibility, not exit.
+
+--------------------------------------------------
+
+9. VIOLATION CONSEQUENCES
+
+Violations of this document trigger:
+- Immediate invalidation of unauthorized extensions
+- Automatic escalation to oversight nodes
+- Mandatory review in the next budget cycle
+- Potential removal of node ownership or execution authority
+
+Blocking exit constitutes structural coercion.
+
+--------------------------------------------------
+
+10. CONTROL NORTH STAR
+
+Authority must be temporary.
+Participation must be voluntary.
+Exit must be real.
+
+No authority survives without consent.
+No system traps its participants.
+No structure outlives its justification.
+
+This document is a lock.

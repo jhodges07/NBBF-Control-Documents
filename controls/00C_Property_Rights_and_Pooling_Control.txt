@@ -1,0 +1,143 @@
+00C_Property_Rights_and_Pooling_Control
+Node-Based Budget Framework (NBBF)
+
+Version: 1.0
+Date: 2026-02-01
+Status: Authoritative Control Document
+Scope: Property rights, consent boundaries, and anti-pooling constraints
+
+GOVERNING AUTHORITY
+
+This document is issued pursuant to the NBBF Root Control Document
+(`controls/00_Control.txt`) and derives its authority therefrom.
+
+All provisions herein are binding on all NBBF nodes, actors, and
+derivative systems.
+
+--------------------------------------------------
+
+1. PURPOSE
+
+This document establishes non-negotiable protections for property rights
+within the Node-Based Budget Framework.
+
+Its purpose is to ensure that:
+- No property is pooled without explicit, informed consent
+- Authority cannot aggregate resources by implication or inertia
+- Ownership, obligation, and liability remain traceable at all times
+- Citizens retain exit rights from pooled arrangements
+
+Pooling without consent constitutes structural expropriation.
+
+--------------------------------------------------
+
+2. PROPERTY RIGHTS PRINCIPLE (NON-NEGOTIABLE)
+
+All property originates with individuals.
+
+Government possesses no independent property rights and may only
+administer or temporarily steward property explicitly granted to it
+under defined terms.
+
+No node may:
+- Assume ownership by mandate
+- Convert use into ownership
+- Treat access as consent
+- Treat silence as agreement
+
+--------------------------------------------------
+
+3. CONSENT REQUIREMENTS FOR POOLING
+
+Pooling of property, funds, labor, data, or risk requires:
+
+- Explicit authorization
+- Defined scope
+- Defined duration
+- Defined exit conditions
+- Defined beneficiary class
+
+Authorization must be:
+- Specific, not general
+- Time-bound, not permanent
+- Revocable, not presumed
+
+--------------------------------------------------
+
+4. PROHIBITED POOLING MECHANISMS
+
+The following are prohibited under NBBF:
+
+- Implied pooling
+- Retroactive pooling
+- Mandatory pooling without exit
+- Pooling via regulatory coercion
+- Pooling justified solely by administrative convenience
+
+Efficiency does not override ownership.
+
+--------------------------------------------------
+
+5. TRACEABILITY AND LEDGER REQUIREMENTS
+
+All pooled property must be traceable to:
+
+- Original owners
+- Authorizing node
+- Duration of pooling
+- Conditions of use
+- Conditions of release or return
+
+Untraceable pooling constitutes a control failure.
+
+--------------------------------------------------
+
+6. EXIT AND DISENGAGEMENT RIGHTS
+
+Every pooled arrangement must include:
+
+- A defined exit mechanism
+- A defined disengagement window
+- A defined method for settlement or release
+
+Exit may not be:
+- Punitive
+- Administratively obstructed
+- Financially confiscatory
+
+--------------------------------------------------
+
+7. APPLICATION TO TAXATION AND FEES
+
+Taxes, fees, and compulsory contributions are treated as pooled property
+under this document.
+
+Accordingly:
+- Scope, duration, and use must be explicit
+- Pooling authority must expire
+- Renewal requires affirmative authorization
+
+Permanent taxation is prohibited absent reauthorization.
+
+--------------------------------------------------
+
+8. VIOLATION CONSEQUENCES
+
+Violations of this document trigger:
+
+- Automatic invalidation of the pooling action
+- Mandatory disclosure to oversight authorities
+- Review in the next budget cycle
+- Potential termination of node authority
+
+Structural violations supersede administrative defenses.
+
+--------------------------------------------------
+
+9. CONTROL NORTH STAR
+
+No authority may pool what it does not own.
+No system may convert necessity into consent.
+No program may survive by hiding ownership.
+
+This document is a lock.
