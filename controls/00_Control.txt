@@ -3,13 +3,14 @@ doc_id: nbbf-00
 title: NBBF Root Control Document
 slug: nbbf-root-control
 version: v1.0.1-control-baseline
-status: canonical
+status: root
 framework: NBBF
 source_repo: NBBF-Control-Documents
 source_path: controls/00_Control.txt
 authority_level: root
 supersedes: null
 ---
+
 
 00B_Signal_and_Non-Interference_Control
 Node-Based Budget Framework (NBBF)
