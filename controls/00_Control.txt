@@ -1,4 +1,4 @@
-publish_scope: root_only
+publish_scope: canonical
 ---
 doc_id: nbbf-00
 title: NBBF Root Control Document
