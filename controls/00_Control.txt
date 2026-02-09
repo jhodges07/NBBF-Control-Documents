@@ -12,7 +12,6 @@ authority_level: root
 supersedes: null
 ---
 
-00B_Signal_and_Non-Interference_Control
 Node-Based Budget Framework (NBBF)
 
 Version: 1.0
