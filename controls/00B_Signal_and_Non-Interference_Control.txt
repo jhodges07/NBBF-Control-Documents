@@ -1,1 +1,11 @@
-
+---
+doc_id: nbbf-00b
+title: Signal and Non-Interference Control
+slug: signal-and-non-interference
+version: v1.0.1-control-baseline
+status: canonical
+framework: NBBF
+parent: nbbf-00
+source_repo: NBBF-Control-Documents
+source_path: controls/00B_Signal_and_Non-Interference_Control.txt
+---
