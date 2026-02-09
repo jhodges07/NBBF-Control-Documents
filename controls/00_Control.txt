@@ -12,161 +12,135 @@ authority_level: root
 supersedes: null
 ---
 
+NBBF ROOT CONTROL DOCUMENT  
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0
-Date: 2026-02-01
-Status: Authoritative Control Document
-Scope: System-wide signaling, reporting rights, and non-interference guarantees
+Version: 1.0  
+Date: 2026-02-01  
+Status: Root Authority Control  
+Scope: System-wide authority, control hierarchy, and publication governance
+
+--------------------------------------------------
 
 GOVERNING AUTHORITY
 
-This document is issued pursuant to the NBBF Root Control Document
-(`controls/00_Control.txt`) and derives its authority therefrom.
+This document is the supreme control authority of the Node-Based Budget Framework (NBBF).
 
-All provisions herein are binding on all NBBF nodes, actors, and
-derivative systems.
+All other NBBF control documents, nodes, actors, and derivative systems
+derive their legitimacy exclusively from this document.
+
+No control, budget, policy, process, or execution artifact may exist
+outside the authority granted herein.
 
 --------------------------------------------------
 
 1. PURPOSE
 
-This document establishes an inviolable signaling and reporting system
-within the Node-Based Budget Framework.
+This document establishes:
 
-Its purpose is to ensure that:
-- Funded promises generate observable expectations
-- Reality may speak back to authority without obstruction
-- Bureaucratic suppression of failure is structurally impossible
-- Citizen–Taxpayer Supremacy is preserved through ground-truth visibility
+• The source of lawful authority within NBBF  
+• The hierarchy of control documents  
+• The rules governing publication, enforcement, and inheritance  
+• The conditions under which authority may be exercised, limited, or revoked  
 
-No funded node may exist without a protected path for variance reporting
-from those affected by it.
+This document does not prescribe policy behavior.
+It defines the *rules under which policy may exist*.
 
 --------------------------------------------------
 
-2. UNIVERSAL SIGNAL PRINCIPLE (NON-NEGOTIABLE)
+2. CONTROL HIERARCHY
 
-Every funded node creates obligations.
-Every obligation creates observable expectations.
+Authority within NBBF flows strictly downward:
 
-Any human downstream of a funded node has:
-- The right to know what was authorized at their level
-- The duty to report material variance between authorization and reality
+1. Root Control (this document)
+2. Canonical Control Documents
+3. Node-Specific Controls
+4. Execution and Budget Nodes
 
-Silence, obstruction, or suppression of variance reporting constitutes
-a structural failure of the system.
-
---------------------------------------------------
-
-3. MANDATORY REPORTING RIGHTS
-
-Reporting rights apply to all persons downstream of a node, including but
-not limited to:
-- Enlisted personnel
-- Officers
-- Government employees
-- Contractors
-- Inspectors and auditors
-
-Reporting rights:
-- Do not require supervisory approval
-- Do not flow through management chains
-- May not be delayed, filtered, or reclassified to avoid escalation
-
-Reporting is a system function, not a grievance process.
+No lower-level artifact may:
+• Override a higher control
+• Persist beyond its authorization
+• Expand its scope without explicit control authority
 
 --------------------------------------------------
 
-4. NON-INTERFERENCE CLAUSE
+3. CANONICAL CONTROLS
 
-No person, office, agency, or authority may:
-- Block a report
-- Alter a report
-- Delay transmission of a report
-- Retaliate against a reporting individual
-- Close a report without resolution at the appropriate node level
+Canonical controls are authoritative policy controls that:
 
-Any attempt to interfere with reporting constitutes an independent
-node violation and triggers automatic escalation.
+• Implement one and only one structural principle
+• Are universally binding within their scope
+• Are durable across budget cycles
+• May only be amended by explicit versioned replacement
 
---------------------------------------------------
-
-5. SIGNAL ESCALATION AND PERSISTENCE
-
-Reports attach to nodes, not departments or individuals.
-
-A report remains active until:
-- The variance is resolved, or
-- The node is modified, suspended, or terminated
-
-Unresolved reports automatically escalate to higher nodes according to
-predefined escalation paths.
-
-No report may be buried by inaction.
+Canonical controls MUST:
+• Declare their scope
+• Declare their authority source
+• Declare their enforcement mechanism
+• Declare exit or termination conditions
 
 --------------------------------------------------
 
-6. EXECUTIVE BRANCH APPLICATION
+4. PUBLICATION GOVERNANCE
 
-All Executive Branch entities operating under NBBF authority are subject
-to this document.
+Publication of control documents is governed by this root.
 
-Execution authority does not include:
-- Suppression of signals
-- Reinterpretation of funded intent
-- Substitution of process for delivery
+The following publication scopes exist:
 
-Operational discretion exists only within funded and observable constraints.
+• root_only — only this document is published
+• canonical — only canonical controls are published
+• all — canonical and subordinate controls may publish
 
---------------------------------------------------
+Publication scope is declared in this document and enforced mechanically.
 
-7. CLASSIFIED AND SECRET NODES
-
-Secret or classified nodes remain subject to this document.
-
-Special rules apply:
-- Reporting channels may be classified
-- Access is limited to authorized Members of the House and Senate
-- Classified Inspectors General receive reports
-
-Secrecy restricts visibility, not accountability.
+No document may self-publish.
 
 --------------------------------------------------
 
-8. SECRECY DURATION AND UNMASKING
+5. IMMUTABILITY AND VERSIONING
 
-Every classified node must declare:
-- A classification duration
-- A review date
-- An unmasking, declassification, or reauthorization event
+Once published, a control document:
 
-Permanent secrecy is prohibited.
+• May not be edited in place
+• May not be silently superseded
+• May only be replaced by a higher-version control
+• Must preserve historical lineage
 
-At minimum, existence, duration, and cost range must surface following
-the declared period.
-
---------------------------------------------------
-
-9. VIOLATION CONSEQUENCES
-
-Violations of this document trigger:
-- Immediate invalidation of interfering actions
-- Mandatory disclosure to oversight authorities
-- Automatic review in the next budget cycle
-- Potential removal of node ownership or execution authority
-
-Retaliation against reporting individuals constitutes a structural
-offense, not a personnel issue.
+Authority is traceable or it does not exist.
 
 --------------------------------------------------
 
-10. CONTROL NORTH STAR
+6. ENFORCEMENT PRIMACY
 
-If the Republic funds it, reality must be allowed to speak.
+Any node, actor, or authority operating outside the controls defined
+under this root is operating without legitimacy.
 
-No bureaucracy may silence truth.
-No authority may outlive feedback.
-No system may hide failure behind procedure.
+Unauthorized action is null by definition.
 
-This document is a lock.
+--------------------------------------------------
+
+7. FAILURE MODE
+
+If this root control is:
+• Missing
+• Invalid
+• Unverifiable
+• Corrupted
+
+Then:
+• No controls publish
+• No nodes are valid
+• No authority exists
+
+The system fails closed.
+
+--------------------------------------------------
+
+8. CONTROL NORTH STAR
+
+Authority exists to be constrained.  
+Power exists to be measured.  
+Silence exists only where consent is explicit.
+
+This document is the lock.
+
