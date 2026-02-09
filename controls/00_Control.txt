@@ -1,3 +1,4 @@
+test_child_publish: true
 ---
 doc_id: nbbf-00
 title: NBBF Root Control Document
