@@ -11,42 +11,27 @@ authority_level: root
 supersedes: null
 ---
 
-
----
-doc_id: nbbf-00
-title: NBBF Root Control Document
-slug: nbbf-root-control
-version: v1.0.1-control-baseline
-status: root
-framework: NBBF
-source_repo: NBBF-Control-Documents
-source_path: controls/00_Control.txt
-authority_level: root
-supersedes: null
----
-
-
-00B_Signal_and_Non-Interference_Control
+00B_Signal_and_Non-Interference_Control  
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0
-Date: 2026-02-01
-Status: Authoritative Control Document
+Version: 1.0  
+Date: 2026-02-01  
+Status: Authoritative Control Document  
 Scope: System-wide signaling, reporting rights, and non-interference guarantees
 
 GOVERNING AUTHORITY
 
-This document is issued pursuant to the NBBF Root Control Document
+This document is issued pursuant to the NBBF Root Control Document  
 (`controls/00_Control.txt`) and derives its authority therefrom.
 
-All provisions herein are binding on all NBBF nodes, actors, and
+All provisions herein are binding on all NBBF nodes, actors, and  
 derivative systems.
 
 --------------------------------------------------
 
 1. PURPOSE
 
-This document establishes an inviolable signaling and reporting system
+This document establishes an inviolable signaling and reporting system  
 within the Node-Based Budget Framework.
 
 Its purpose is to ensure that:
@@ -55,28 +40,28 @@ Its purpose is to ensure that:
 - Bureaucratic suppression of failure is structurally impossible
 - Citizen–Taxpayer Supremacy is preserved through ground-truth visibility
 
-No funded node may exist without a protected path for variance reporting
+No funded node may exist without a protected path for variance reporting  
 from those affected by it.
 
 --------------------------------------------------
 
 2. UNIVERSAL SIGNAL PRINCIPLE (NON-NEGOTIABLE)
 
-Every funded node creates obligations.
+Every funded node creates obligations.  
 Every obligation creates observable expectations.
 
 Any human downstream of a funded node has:
 - The right to know what was authorized at their level
 - The duty to report material variance between authorization and reality
 
-Silence, obstruction, or suppression of variance reporting constitutes
+Silence, obstruction, or suppression of variance reporting constitutes  
 a structural failure of the system.
 
 --------------------------------------------------
 
 3. MANDATORY REPORTING RIGHTS
 
-Reporting rights apply to all persons downstream of a node, including but
+Reporting rights apply to all persons downstream of a node, including but  
 not limited to:
 - Enlisted personnel
 - Officers
@@ -102,7 +87,7 @@ No person, office, agency, or authority may:
 - Retaliate against a reporting individual
 - Close a report without resolution at the appropriate node level
 
-Any attempt to interfere with reporting constitutes an independent
+Any attempt to interfere with reporting constitutes an independent  
 node violation and triggers automatic escalation.
 
 --------------------------------------------------
@@ -115,7 +100,7 @@ A report remains active until:
 - The variance is resolved, or
 - The node is modified, suspended, or terminated
 
-Unresolved reports automatically escalate to higher nodes according to
+Unresolved reports automatically escalate to higher nodes according to  
 predefined escalation paths.
 
 No report may be buried by inaction.
@@ -124,7 +109,7 @@ No report may be buried by inaction.
 
 6. EXECUTIVE BRANCH APPLICATION
 
-All Executive Branch entities operating under NBBF authority are subject
+All Executive Branch entities operating under NBBF authority are subject  
 to this document.
 
 Execution authority does not include:
@@ -158,7 +143,7 @@ Every classified node must declare:
 
 Permanent secrecy is prohibited.
 
-At minimum, existence, duration, and cost range must surface following
+At minimum, existence, duration, and cost range must surface following  
 the declared period.
 
 --------------------------------------------------
@@ -171,7 +156,7 @@ Violations of this document trigger:
 - Automatic review in the next budget cycle
 - Potential removal of node ownership or execution authority
 
-Retaliation against reporting individuals constitutes a structural
+Retaliation against reporting individuals constitutes a structural  
 offense, not a personnel issue.
 
 --------------------------------------------------
@@ -180,8 +165,8 @@ offense, not a personnel issue.
 
 If the Republic funds it, reality must be allowed to speak.
 
-No bureaucracy may silence truth.
-No authority may outlive feedback.
+No bureaucracy may silence truth.  
+No authority may outlive feedback.  
 No system may hide failure behind procedure.
 
 This document is a lock.
