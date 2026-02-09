@@ -1,4 +1,4 @@
-test_child_publish: true
+publish_scope: root_only
 ---
 doc_id: nbbf-00
 title: NBBF Root Control Document
