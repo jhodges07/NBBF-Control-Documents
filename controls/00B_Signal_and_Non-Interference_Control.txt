@@ -9,3 +9,35 @@ parent: nbbf-00
 source_repo: NBBF-Control-Documents
 source_path: controls/00B_Signal_and_Non-Interference_Control.txt
 ---
+
+00B_Signal_and_Non-Interference_Control  
+Node-Based Budget Framework (NBBF)
+
+Version: 1.0  
+Date: 2026-02-01  
+Status: Authoritative Control Document  
+Scope: System-wide signaling, reporting rights, and non-interference guarantees
+
+GOVERNING AUTHORITY
+
+This document is issued pursuant to the NBBF Root Control Document  
+(`controls/00_Control.txt`) and derives its authority therefrom.
+
+All provisions herein are binding on all NBBF nodes, actors, and  
+derivative systems.
+
+--------------------------------------------------
+
+1. PURPOSE
+
+This document establishes an inviolable signaling and reporting system  
+within the Node-Based Budget Framework.
+
+Its purpose is to ensure that:
+- Funded promises generate observable expectations
+- Reality may speak back to authority without obstruction
+- Bureaucratic suppression of failure is structurally impossible
+- Citizen–Taxpayer Supremacy is preserved through ground-truth visibility
+
+No funded node may exist without a protected path for variance reporting  
+from those affected by it.
