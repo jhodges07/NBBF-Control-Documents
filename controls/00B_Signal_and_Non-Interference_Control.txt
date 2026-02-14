@@ -1,14 +1,14 @@
 ---
-doc_id: nbbf-00b
-title: Signal and Non-Interference Control
-slug: signal-and-non-interference
+publish_scope: canonical
+doc_id: nbbf-00
+title: NBBF Root Control Document
+slug: nbbf-root-control
 version: v1.0.1-control-baseline
-status: canonical
+status: root
 framework: NBBF
-parent: nbbf-00
-authority_level: canonical
 source_repo: NBBF-Control-Documents
-source_path: controls/00B_Signal_and_Non-Interference_Control.txt
+source_path: controls/00_Control.txt
+authority_level: root
 supersedes: null
 ---
 
