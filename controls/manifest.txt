@@ -1,0 +1,16 @@
+00_Control.txt
+00B_Signal_and_Non-Interference_Control.txt
+00C_Property_Rights_and_Pooling.txt
+01_Node_Ontology.txt
+02_Definitions_and_Terms.txt
+03_Node_Structure.txt
+04_Governance_Model.txt
+05_Business_Value_and_Cost_Model.txt
+06_Transition_Framework.txt
+07_Legal_Framework.txt
+08_Implementation_Framework.txt
+09_Audit_and_Enforcement_Framework.txt
+10_Risk_and_Failure_Containment_Framework.txt
+11_Public_Transparency_Framework.txt
+12_Data_Standards_Framework.txt
+13_Technical_Architecture_Framework.txt
