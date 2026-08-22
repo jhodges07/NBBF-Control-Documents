@@ -1,0 +1,43 @@
+NBBF-CWC #3 SOURCE MAP
+NOT CONTROL AUTHORITY
+
+Git objects recorded at execution. origin/main = aa58769.
+
+LIVE CONTROLS (controls/)
+  00_Control.txt
+    da3ef16dfa5e3edad346da0936d5e955b6e7aab8
+    origin/main Root v1.0
+  00B_Signal_and_Non-Interference_Control.txt
+    2764040ca105f946b48730505b2a1933be363514
+    origin/main truncated Signal v1.0 (not finalized v2.1)
+  00C_Property_Rights_and_Pooling_Control.txt
+    32242d877200c2376472f7982b6a20da5822ed18
+    origin/main v1.0
+  00D_Exit_and_Disengagement_Control.txt
+    b6539cb297dfca44323bb078397adc9221292b56
+    origin/main v1.0
+  07_Audit_and_Performance_Standards.txt
+    d379a1e0aa13e53d408b68e214217dc32aa3f331
+    origin/main Audit v1.0
+
+EVIDENCE (reconciliation-evidence/)
+  NOT_CANONICAL_Root_v2.0.txt
+    8acdd7d456fbe78e63b34a3eb3f2076729399ff7
+    restore-control-documents working tree 00_Control.txt
+  NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
+    632de592201958b5cd31a9160edb0a481ef2e0a5
+    restore-control-documents HEAD 00_Control.txt
+  NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
+    33d4df9d639362963b65cc59130d0feb76a2d6b1
+    restore-control-documents working tree 08_Audit_and_Performance_Standards.txt
+  NOT_CANONICAL_origin_main_00B_truncated_snapshot.txt
+    2764040ca105f946b48730505b2a1933be363514
+    identical to live 00B
+  NOT_CANONICAL_CONTROL_12_placeholder.txt
+    e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+    empty; not a live CONTROL
+
+LATER COMPARISON CWC MUST USE
+  Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
+  Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
+  Live reserved 00B:    controls/00B_Signal_and_Non-Interference_Control.txt

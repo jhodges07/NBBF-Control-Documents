@@ -1,0 +1,25 @@
+NBBF FUTURE-WORK HOLDS
+NOT CONTROL AUTHORITY
+
+These holds were recorded during NBBF-CWC #1 through #3.
+They are not CONTROL documents.
+They must not be lost during repository recovery.
+They must not be drafted in NBBF-CWC #3.
+
+------------------------------------------------------------------------
+
+NBEF CONTROL-DOCUMENT AUTHORITY
+STATUS: TODO — HELD PENDING CONTROL TREE RECONCILIATION
+
+------------------------------------------------------------------------
+
+COMPETITIVE NODE PROCUREMENT AUTHORITY
+STATUS: TODO — HELD PENDING CONTROL TREE RECONCILIATION
+
+------------------------------------------------------------------------
+
+Additional reserved later work (not drafted here):
+
+- Authorized Root CONTROL merge CWC (Root v1.0 and Root v2.0)
+- Authorized 00B Signal v1.0 versus v2.1 section comparison CWC
+- Repository-wide .txt to .md migration CWC after this tree is certified
