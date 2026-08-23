@@ -48,9 +48,18 @@ NBBF-CWC #7 ROOT EVIDENCE (recorded before live Root replacement)
   After CWC #7, live controls/00_Control.txt is merged Root v2.0.0.
   Both source Roots survive independently as evidence.
 
+NBBF-CWC #10 CONTROL 02 EVIDENCE (recorded before live 02 replacement)
+  NOT_CANONICAL_CONTROL_02_v1.1_pre-CWC-10.txt
+    SHA1 00b340dffb2534cba29426799924c499b403c7fd
+    Source path: controls/02_Definitions_and_Terms.txt
+    Source commit: 658ed28
+    Role: pre-CWC-10 snapshot of live CONTROL 02 v1.1. NOT CANONICAL.
+    Reason: preserve v1.1 vocabulary body before Root-alignment repair.
+
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
   Live reserved 00B:    controls/00B_Signal_and_Non-Interference_Control.txt
   Root v1.0 evidence:   NOT_CANONICAL_Root_v1.0_pre-CWC-7.txt
   Root v2.0 evidence:   NOT_CANONICAL_Root_v2.0.txt
+  CONTROL 02 v1.1 evidence: NOT_CANONICAL_CONTROL_02_v1.1_pre-CWC-10.txt

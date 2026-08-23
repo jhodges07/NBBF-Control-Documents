@@ -46,6 +46,14 @@ NOT_CANONICAL_origin_main_00B_truncated_snapshot.txt
   Role: snapshot of the live reserved 00B file as published (truncated v1.0
         with incorrect Root YAML). Byte-identical to live 00B at execution.
 
+NOT_CANONICAL_CONTROL_02_v1.1_pre-CWC-10.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/02_Definitions_and_Terms.txt at HEAD 658ed28
+  SHA1: 00b340dffb2534cba29426799924c499b403c7fd
+  Role: pre-CWC-10 evidence snapshot of CONTROL 02 v1.1.
+  NOT CANONICAL. Must not replace live controls/02_Definitions_and_Terms.txt.
+  After CWC #10, live 02 is the Root-aligned vocabulary CONTROL.
+
 NOT_CANONICAL_CONTROL_12_placeholder.txt
   Source: restore-control-documents working tree
           controls/12_Public_Transparency_API_and_Digital_Republic.txt
