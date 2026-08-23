@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-08
 title: Exit, Clawback, and Recovery Rules
 slug: exit-clawback-and-recovery-rules
-version: v1.0.2
+version: v1.0.3
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 08_Exit_Clawback_and_Recovery_Rules
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.2
+Version: 1.0.3
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Recovery and clawback operating doctrine for taxpayer and other
@@ -32,7 +32,9 @@ NBBF-CWC #19 Root reserved-home recognition. The filename retains historical
 NBBF-CWC #24 reconciled live-status cross-references for CONTROLs 03, 05,
 and 10 without changing recovery operating doctrine. NBBF-CWC #28
 reconciled live-status cross-references for CONTROLs 04, 09, and 11
-without changing recovery operating doctrine. Metadata describes
+without changing recovery operating doctrine. NBBF-CWC #30 reconciled
+live-status cross-references for CONTROL 12 without changing recovery
+operating doctrine. Metadata describes
 authority. Metadata does not independently create
 authority.
 
@@ -74,7 +76,7 @@ This CONTROL SHALL NOT:
 • Absorb Legislative Decision-Node interface mechanics from CONTROL 10
 • Invent API, ledger, blockchain, identity, database, or publication
   mechanics owned by CONTROL 11
-• Invent Competitive Node Procurement mechanics reserved to CONTROL 12
+• Invent Competitive Node Procurement mechanics owned by CONTROL 12
 • Create NBEF or education doctrine
 
 CONTROL 00 remains the NBBF Root lock.
@@ -442,8 +444,7 @@ Variance, or audit independence.
 17. PROCUREMENT AND SUCCESSOR PERFORMANCE
 ==================================================
 
-CONTROL 12 — Competitive Node Procurement remains RESERVED, undrafted, and
-without a live CONTROL file.
+CONTROL 12 — Competitive Node Procurement.
 
 This CONTROL SHALL NOT define bidding, contractor selection, prime or
 subcontractor structures, qualification, competition rules, takeover
@@ -620,6 +621,6 @@ interface, API or ledger mechanics, Competitive Node Procurement, or NBEF.
 09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
+CONTROL 12 — Competitive Node Procurement
 
 END OF DOCUMENT

@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-11
 title: Public Transparency API and Publishing
 slug: public-transparency-api-and-publishing
-version: v1.0.0
+version: v1.0.1
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 11_Public_Transparency_API_and_Publishing
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.0
+Version: 1.0.1
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Public transparency representation and publication of NBBF
@@ -30,7 +30,9 @@ This CONTROL is the Human Engineer-authorized first canonical draft of
 CONTROL 11, executed under NBBF-CWC #27 pursuant to NBBF-CWC #16 foundation
 certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release,
 NBBF-CWC #19 Root reserved-home recognition, NBBF-CWC #25 establishment of
-CONTROL 04, and NBBF-CWC #26 establishment of CONTROL 09. Metadata
+CONTROL 04, and NBBF-CWC #26 establishment of CONTROL 09. NBBF-CWC #30
+reconciled live-status cross-references for CONTROL 12 without changing
+publication and Public Transparency API doctrine. Metadata
 describes authority. Metadata does not independently create authority.
 
 ==================================================
@@ -85,7 +87,7 @@ This CONTROL SHALL NOT:
 • Absorb recovery or clawback mechanics from CONTROL 08
 • Absorb Legacy/Sealed treatment from CONTROL 09
 • Absorb Legislative Decision-Node interface mechanics from CONTROL 10
-• Invent Competitive Node Procurement mechanics reserved to CONTROL 12
+• Invent Competitive Node Procurement mechanics owned by CONTROL 12
 • Create NBEF, education governance, curriculum, student rules, teacher
   rules, school-choice doctrine, or an NBEF CONTROL
 • Mandate a particular protocol, payload format, database, cloud,
@@ -623,8 +625,7 @@ education-domain operating doctrine.
 19. PROCUREMENT BOUNDARY
 ==================================================
 
-CONTROL 12 — Competitive Node Procurement remains RESERVED, undrafted,
-and without a live CONTROL file.
+CONTROL 12 — Competitive Node Procurement.
 
 Contractors MAY appear in this CONTROL only as possible
 publication-system implementers or custodians.
@@ -789,6 +790,6 @@ interface, Competitive Node Procurement, or NBEF.
 09_Legacy_and_Sealed_Nodes — Legacy and Sealed treatment
 10_Legislative_Decision_Interface — Decision-Node interface; taxpayer
   visibility of public decisions
-CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
+CONTROL 12 — Competitive Node Procurement
 
 END OF DOCUMENT

@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-05
 title: Authority Review and Reauthorization Cycle
 slug: authority-review-and-reauthorization-cycle
-version: v1.0.2
+version: v1.0.3
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 05_Authority_Review_and_Reauthorization_Cycle
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.2
+Version: 1.0.3
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Review cadence, review-due dates, periodic authority review,
@@ -32,7 +32,9 @@ NBBF-CWC #19 Root reserved-home recognition. NBBF-CWC #24 reconciled
 live-status cross-references for CONTROL 10 without changing review-cycle
 operating doctrine. NBBF-CWC #28 reconciled live-status cross-references
 for CONTROLs 04, 09, and 11 without changing review-cycle operating
-doctrine. Metadata describes authority.
+doctrine. NBBF-CWC #30 reconciled live-status cross-references for
+CONTROL 12 without changing review-cycle operating doctrine.
+Metadata describes authority.
 Metadata does not independently create authority.
 
 ==================================================
@@ -64,7 +66,7 @@ This CONTROL SHALL NOT:
 • Absorb Legislative Decision-Node interface mechanics from CONTROL 10
 • Invent API, ledger, blockchain, identity, database, or publication
   mechanics owned by CONTROL 11
-• Invent Competitive Node Procurement mechanics reserved to CONTROL 12
+• Invent Competitive Node Procurement mechanics owned by CONTROL 12
 • Create NBEF or education-domain operating rules
 • Invent an agency, board, tribunal, criminal penalty, or enforcement office
 
@@ -378,8 +380,7 @@ or recovery offices.
 13. PROCUREMENT BOUNDARY
 ==================================================
 
-CONTROL 12 — Competitive Node Procurement remains RESERVED, undrafted,
-and without a live CONTROL file.
+CONTROL 12 — Competitive Node Procurement.
 
 This CONTROL MAY determine that an authority, Node, program, contract,
 or activity should not be reauthorized.
@@ -526,6 +527,6 @@ mechanics, Competitive Node Procurement, or NBEF.
 09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
+CONTROL 12 — Competitive Node Procurement
 
 END OF DOCUMENT

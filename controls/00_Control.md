@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00
 title: NBBF Root Control Document
 slug: nbbf-root-control
-version: v2.1.1
+version: v2.1.2
 status: root
 framework: NBBF
 source_repo: NBBF-Control-Documents
@@ -15,7 +15,7 @@ supersedes: null
 NBBF ROOT CONTROL DOCUMENT
 Node-Based Budget Framework (NBBF)
 
-Version: 2.1.1
+Version: 2.1.2
 Status: Root Authority Control
 Classification: Root
 Scope: Supreme NBBF authority, constitutional-engineering purpose, governing
@@ -31,7 +31,8 @@ domain-framework boundary, without drafting those CONTROLs or creating NBEF.
 Historical v2.0.0 remains in reconciliation-evidence/ and is not live CONTROL
 authority. Source evidence remains in reconciliation-evidence/ and is not live
 CONTROL authority. NBBF-CWC #28 reconciled live-status of CONTROLs 04, 09,
-and 11 without changing Root operating doctrine.
+and 11 without changing Root operating doctrine. NBBF-CWC #30 reconciled
+live-status of CONTROL 12 without changing Root operating doctrine.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -232,10 +233,9 @@ CONTROL 00D retains Exit and Disengagement.
 CONTROL 07 retains Audit and Performance.
 This Root does not draft CONTROL 09.
 
-CONTROL 12 — Competitive Node Procurement (RESERVED; undrafted).
-No live CONTROL 12 file exists.
+CONTROL 12 — Competitive Node Procurement.
 CONTROL 12 SHALL NOT be occupied by another doctrine.
-This Root does not draft CONTROL 12, create controls/12, or define
+This Root does not draft CONTROL 12 or define
 procurement, bidding, contractor-qualification, prime/subcontractor, or
 recovery-formula mechanics.
 
@@ -457,6 +457,6 @@ This CONTROL does not own subordinate operating mechanics.
 09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
+CONTROL 12 — Competitive Node Procurement
 
 END OF DOCUMENT

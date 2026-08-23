@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-10
 title: Legislative Decision Interface
 slug: legislative-decision-interface
-version: v1.0.1
+version: v1.0.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 10_Legislative_Decision_Interface
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.1
+Version: 1.0.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Interface between NBBF and lawful legislative or equivalent
@@ -30,7 +30,9 @@ CONTROL 10, executed under NBBF-CWC #23 pursuant to NBBF-CWC #16 foundation
 certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
 NBBF-CWC #19 Root reserved-home recognition. NBBF-CWC #28 reconciled
 live-status cross-references for CONTROLs 04, 09, and 11 without changing
-Decision-Node interface doctrine. Metadata describes authority.
+Decision-Node interface doctrine. NBBF-CWC #30 reconciled live-status
+cross-references for CONTROL 12 without changing Decision-Node interface
+doctrine. Metadata describes authority.
 Metadata does not independently create authority.
 
 ==================================================
@@ -72,7 +74,7 @@ This CONTROL SHALL NOT:
 • Absorb recovery or clawback mechanics from CONTROL 08
 • Invent API, ledger, blockchain, identity, database, or publication
   mechanics owned by CONTROL 11
-• Invent Competitive Node Procurement mechanics reserved to CONTROL 12
+• Invent Competitive Node Procurement mechanics owned by CONTROL 12
 • Create NBEF or education-domain operating rules
 • Convert software into governmental authority
 • Allow artificial intelligence to vote
@@ -432,8 +434,7 @@ This CONTROL SHALL NOT become a second Exit CONTROL.
 19. PROCUREMENT BOUNDARY
 ==================================================
 
-CONTROL 12 — Competitive Node Procurement remains RESERVED, undrafted,
-and without a live CONTROL file.
+CONTROL 12 — Competitive Node Procurement.
 
 This CONTROL SHALL NOT create procurement doctrine, bidding systems,
 prime or subcontractor rules, qualification rules, takeover rules, or
@@ -578,6 +579,6 @@ or NBEF.
 09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 11_Public_Transparency_API_and_Publishing — publication, API, ledger, and
   Digital Twin implementation
-CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
+CONTROL 12 — Competitive Node Procurement
 
 END OF DOCUMENT
