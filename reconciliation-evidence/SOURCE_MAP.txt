@@ -56,6 +56,14 @@ NBBF-CWC #10 CONTROL 02 EVIDENCE (recorded before live 02 replacement)
     Role: pre-CWC-10 snapshot of live CONTROL 02 v1.1. NOT CANONICAL.
     Reason: preserve v1.1 vocabulary body before Root-alignment repair.
 
+NBBF-CWC #11 CONTROL 01 EVIDENCE (recorded before live 01 replacement)
+  NOT_CANONICAL_CONTROL_01_v1.1_pre-CWC-11.txt
+    SHA1 2393058945d1630a63a2e9c95222d0e78de74bf7
+    Source path: controls/01_Node_Ontology.txt
+    Source commit: 576cf10
+    Role: pre-CWC-11 snapshot of live CONTROL 01 v1.1. NOT CANONICAL.
+    Reason: preserve v1.1 ontology body before Root-alignment repair.
+
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
@@ -63,3 +71,4 @@ LATER COMPARISON CWC MUST USE
   Root v1.0 evidence:   NOT_CANONICAL_Root_v1.0_pre-CWC-7.txt
   Root v2.0 evidence:   NOT_CANONICAL_Root_v2.0.txt
   CONTROL 02 v1.1 evidence: NOT_CANONICAL_CONTROL_02_v1.1_pre-CWC-10.txt
+  CONTROL 01 v1.1 evidence: NOT_CANONICAL_CONTROL_01_v1.1_pre-CWC-11.txt

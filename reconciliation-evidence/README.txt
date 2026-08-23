@@ -54,6 +54,14 @@ NOT_CANONICAL_CONTROL_02_v1.1_pre-CWC-10.txt
   NOT CANONICAL. Must not replace live controls/02_Definitions_and_Terms.txt.
   After CWC #10, live 02 is the Root-aligned vocabulary CONTROL.
 
+NOT_CANONICAL_CONTROL_01_v1.1_pre-CWC-11.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/01_Node_Ontology.txt at HEAD 576cf10
+  SHA1: 2393058945d1630a63a2e9c95222d0e78de74bf7
+  Role: pre-CWC-11 evidence snapshot of CONTROL 01 v1.1.
+  NOT CANONICAL. Must not replace live controls/01_Node_Ontology.txt.
+  After CWC #11, live 01 is the Root-aligned Node Ontology CONTROL.
+
 NOT_CANONICAL_CONTROL_12_placeholder.txt
   Source: restore-control-documents working tree
           controls/12_Public_Transparency_API_and_Digital_Republic.txt
