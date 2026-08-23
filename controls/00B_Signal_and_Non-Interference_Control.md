@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00b
 title: Signal and Non-Interference Control
 slug: signal-and-non-interference
-version: v2.1.3
+version: v2.1.4
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -18,7 +18,7 @@ supersedes: null
 
 Node-Based Budget Framework (NBBF)
 
-Version: 2.1.3
+Version: 2.1.4
 Status: Authoritative Control Document
 Classification: Foundational
 Scope: System-wide signaling, reporting rights, signal integrity, evidence preservation, signal lifecycle, and non-interference operating rules.
@@ -33,7 +33,9 @@ doctrine. Historical sources remain in reconciliation-evidence/ and are not
 live CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
 for CONTROLs 03, 05, 08, and 10 without changing Signal operating doctrine.
 NBBF-CWC #28 reconciled live-status cross-references for CONTROLs 04, 09,
-and 11 without changing Signal operating doctrine.
+and 11 without changing Signal operating doctrine. NBBF-CWC #35 issued a
+bounded jurisdiction-neutral clarification of CONTROL 00B classified
+reporting-channel language without redesigning Signal operating doctrine.
 Metadata describes authority. Metadata does not independently create
 authority.
 
@@ -275,14 +277,38 @@ Classification may restrict visibility.
 
 Classification SHALL NOT eliminate accountability.
 
-Authorized reporting channels SHALL include:
+Protected classified or restricted reporting channels SHALL exist.
+
+A classified or restricted reporting destination SHALL be lawfully
+authorized to receive the information involved. This CONTROL does not
+invent the external classification or access law that supplies that
+authority.
+
+Recognized examples of protected classified reporting destinations,
+where those institutions lawfully exist and possess the required
+authority and access, include:
 
 • House oversight
 • Senate oversight
 • Classified Inspectors General
-• Other constitutionally authorized oversight authorities
 
-Protected reporting channels SHALL remain available through those authorities.
+Those institutional titles are not universal structural prerequisites of
+NBBF. A jurisdiction that lacks a House, a Senate, or an Inspector
+General SHALL NOT fail this CONTROL merely because that title does not
+exist.
+
+Equivalent constitutionally or otherwise lawfully authorized oversight
+bodies within the applicable jurisdiction MAY satisfy the same classified
+or restricted reporting-channel function.
+
+A jurisdiction SHALL NOT eliminate protected reporting merely by using
+different institutional titles.
+
+An unauthorized recipient SHALL NOT receive classified or restricted
+information by operation of this CONTROL.
+
+Protected reporting channels SHALL remain available through the
+applicable lawfully authorized oversight authorities.
 
 Every classified node SHALL declare:
 
