@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-05
 title: Authority Review and Reauthorization Cycle
 slug: authority-review-and-reauthorization-cycle
-version: v1.0.1
+version: v1.0.0
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 05_Authority_Review_and_Reauthorization_Cycle
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.1
+Version: 1.0.0
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Review cadence, review-due dates, periodic authority review,
@@ -28,9 +28,7 @@ Lineage:
 This CONTROL is the Human Engineer-authorized first canonical draft of
 CONTROL 05, executed under NBBF-CWC #22 pursuant to NBBF-CWC #16 foundation
 certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
-NBBF-CWC #19 Root reserved-home recognition. NBBF-CWC #24 reconciled
-live-status cross-references for CONTROL 10 without changing review-cycle
-operating doctrine. Metadata describes authority.
+NBBF-CWC #19 Root reserved-home recognition. Metadata describes authority.
 Metadata does not independently create authority.
 
 ==================================================
@@ -59,7 +57,7 @@ This CONTROL SHALL NOT:
 • Redefine CONTROL 06 Cost or Value
 • Absorb audit procedure or findings from CONTROL 07
 • Absorb recovery or clawback mechanics from CONTROL 08
-• Absorb Legislative Decision-Node interface mechanics from CONTROL 10
+• Draft Legislative Decision-Node interface mechanics reserved to CONTROL 10
 • Invent API, ledger, blockchain, identity, database, or publication
   mechanics reserved to CONTROL 11
 • Invent Competitive Node Procurement mechanics reserved to CONTROL 12
@@ -149,7 +147,8 @@ performance findings. CONTROL 06 supplies cost/value information.
 CONTROL 00B supplies Signal information.
 
 Legislative Decision-Node interface mechanics for conducting a
-Decision-Node reauthorization: CONTROL 10.
+Decision-Node reauthorization: CONTROL 10. CONTROL 10 remains reserved
+and is not drafted here.
 
 ==================================================
 3. REVIEW CLOCK
@@ -231,7 +230,7 @@ or Decision-Node authority responsible for it.
 
 Human Owner meaning: CONTROL 01.
 Republican application of Decision Nodes: CONTROL 03.
-Legislative Decision-Node interface: CONTROL 10.
+Legislative Decision-Node interface: CONTROL 10, reserved.
 
 No automated system MAY silently reauthorize governmental authority.
 
@@ -259,7 +258,7 @@ absorb that CONTROL’s mechanics.
 • Exit / Disengagement: CONTROL 00D
 • Recovery: CONTROL 08
 • Signal treatment: CONTROL 00B
-• Legislative Decision-Node process: CONTROL 10
+• Legislative Decision-Node process: CONTROL 10, reserved
 
 This CONTROL does not invent punitive powers, penalties, tribunals, or
 offices.
@@ -323,7 +322,9 @@ accountability.
 
 Where reauthorization of continued secrecy is implicated, CONTROL 00B
 requires Decision-Node process involving this CONTROL and CONTROL 10.
-This CONTROL owns the review calendar for that reauthorization.
+This CONTROL owns the review calendar for that reauthorization. CONTROL
+10 remains reserved for Decision-Node interface mechanics and is not
+drafted here.
 
 ==================================================
 10. REVIEW HISTORY
@@ -523,7 +524,7 @@ mechanics, Competitive Node Procurement, or NBEF.
 07_Audit_and_Performance_Standards — audit/performance findings
 08_Exit_Clawback_and_Recovery_Rules — recovery review
 09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
-10_Legislative_Decision_Interface — Decision-Node interface
+10_Legislative_Decision_Interface — Decision-Node interface (reserved)
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
   (reserved)
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)

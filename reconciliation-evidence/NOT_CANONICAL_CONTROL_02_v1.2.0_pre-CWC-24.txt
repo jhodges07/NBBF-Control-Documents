@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-02
 title: Definitions and Terms
 slug: definitions-and-terms
-version: v1.2.1
+version: v1.2.0
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 02_Definitions_and_Terms
 Node-Based Budget Framework (NBBF)
 
-Version: 1.2.1
+Version: 1.2.0
 Status: Authoritative Vocabulary Control
 Classification: Canonical
 Scope: Concise NBBF vocabulary and controlled terminology.
@@ -26,8 +26,7 @@ This CONTROL is the Human Engineer-authorized Root-alignment repair of
 CONTROL 02 v1.1, executed under NBBF-CWC #10 pursuant to NBBF-CWC #9
 decisions 1-C, 2-C, 3-C, 5-C, 8-C, 9-C, 15-C, 16-C, 17-C, 18-C, 20-C,
 and 21-C. Historical v1.1 remains in reconciliation-evidence/ and is not
-live CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
-for CONTROLs 03, 05, 08, and 10 without changing vocabulary doctrine.
+live CONTROL authority.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -121,7 +120,8 @@ federal legislative jurisdiction. Congress is not the universal or exclusive
 NBBF Decision Node.
 
 Authoritative Decision-Node ontology: CONTROL 01.
-Jurisdiction-specific application: CONTROL 03.
+Jurisdiction-specific application: CONTROL 03. CONTROL 03 remains reserved
+and is not drafted here.
 
 --------------------------------------------------
 
@@ -187,7 +187,8 @@ the standard authorization, defense, and review period.
 
 No funding persists beyond the cycle without affirmative renewal.
 
-Review-calendar mechanics: CONTROL 05.
+Review-calendar mechanics: CONTROL 05. CONTROL 05 remains reserved and is
+not drafted here.
 
 --------------------------------------------------
 
@@ -297,7 +298,8 @@ authority-based.
 
 Operating exit and disengagement: CONTROL 00D.
 Node ontology exit fields: CONTROL 01.
-Recovery and clawback mechanics: CONTROL 08.
+Recovery and clawback mechanics: CONTROL 08. CONTROL 08 remains reserved
+and is not drafted here.
 
 ==================================================
 6. SECRECY AND WAR-AUTHORITY TERMS
@@ -325,7 +327,8 @@ Federal legislative example: Congress authorizing and funding such a
 Decision Node. That example does not define war-authorization structure
 for every jurisdiction.
 
-Jurisdiction-specific application: CONTROL 03.
+Jurisdiction-specific application: CONTROL 03. CONTROL 03 remains reserved
+and is not drafted here.
 
 ==================================================
 7. INTERPRETATION
@@ -384,6 +387,7 @@ Variance — audit definition and handling: CONTROL 07.
 Value / cost — CONTROL 06.
 Failure — Root principle; operating audit: CONTROL 07; localized
 recoverable failure: CONTROL 00D / CONTROL 07 / CONTROL 08 as applicable.
+CONTROL 08 remains reserved and is not drafted here.
 Taxpayer — Root pillar; property/pooling operating doctrine: CONTROL 00C.
 Authority — Root; this CONTROL does not own system authority.
 Executor / Guardian — CONTROL 00.
@@ -482,11 +486,11 @@ operating rules, jurisdiction structures, or specialized operating mechanics.
 00C_Property_Rights_and_Pooling_Control — pooling operating doctrine
 00D_Exit_and_Disengagement_Control — exit and disengagement
 01_Node_Ontology — Node ontology
-03_Republican_Government_Model — jurisdiction application
-05_Authority_Review_and_Reauthorization_Cycle — review calendar
+03_Republican_Government_Model — jurisdiction application (reserved)
+05_Authority_Review_and_Reauthorization_Cycle — review calendar (reserved)
 06_Cost_and_Value_Model — cost and value mechanics
 07_Audit_and_Performance_Standards — audit procedure
-08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
   (reserved)
 

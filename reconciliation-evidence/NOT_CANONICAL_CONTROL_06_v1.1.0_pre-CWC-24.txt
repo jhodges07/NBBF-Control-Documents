@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-06
 title: Cost and Value Model
 slug: cost-and-value-model
-version: v1.1.1
+version: v1.1.0
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 NBBF 06 — Cost and Value Model
 Node-Based Budget Framework (NBBF)
 
-Version: 1.1.1
+Version: 1.1.0
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Cost definition, value measurement, incentive alignment, and capital
@@ -27,8 +27,7 @@ This CONTROL is the Human Engineer-authorized Root-alignment repair of
 CONTROL 06 v1.0, executed under NBBF-CWC #13 pursuant to NBBF-CWC #9
 decisions 6-C, 7-C, 13-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
 Historical v1.0 remains in reconciliation-evidence/ and is not live
-CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
-for CONTROLs 03, 05, 08, and 10 without changing Cost/Value doctrine.
+CONTROL authority.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -52,7 +51,7 @@ This CONTROL SHALL NOT:
 • Absorb property/pooling mechanics from CONTROL 00C
 • Absorb Exit/Disengagement mechanics from CONTROL 00D
 • Absorb audit procedure from CONTROL 07
-• Invent recovery/clawback mechanics owned by CONTROL 08
+• Invent recovery/clawback mechanics reserved to CONTROL 08
 • Invent API, ledger, or publication mechanics reserved to CONTROL 11
 
 CONTROL 00 remains the NBBF Root lock.
@@ -128,7 +127,7 @@ Key rules:
 • Revalidation is continuous
 
 Human Owner and Node terminology: CONTROL 01 / CONTROL 02.
-Review-calendar mechanics: CONTROL 05.
+Review-calendar mechanics: CONTROL 05. CONTROL 05 remains reserved.
 
 INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.2
 
@@ -305,6 +304,7 @@ The following practices are prohibited under NBBF:
 Violations SHALL trigger audit review under CONTROL 07.
 
 Detailed clawback and recovery operating mechanics: CONTROL 08.
+CONTROL 08 remains reserved and is not drafted here.
 
 Node termination and operating Exit/Disengagement: CONTROL 00D.
 
@@ -408,9 +408,9 @@ CROSS REFERENCES
 02_Definitions_and_Terms — concise vocabulary
 00B_Signal_and_Non-Interference_Control — Signal operating rules
 00D_Exit_and_Disengagement_Control — exit and disengagement
-05_Authority_Review_and_Reauthorization_Cycle — review calendar
+05_Authority_Review_and_Reauthorization_Cycle — review calendar (reserved)
 07_Audit_and_Performance_Standards — audit procedure
-08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
   (reserved)
 

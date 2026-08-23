@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-07
 title: Audit and Performance Standards
 slug: audit-and-performance-standards
-version: v1.1.1
+version: v1.1.0
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 NBBF 07 — Audit and Performance Standards
 Node-Based Budget Framework (NBBF)
 
-Version: 1.1.1
+Version: 1.1.0
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Audit discipline, performance measurement, variance handling, and
@@ -27,8 +27,7 @@ This CONTROL is the Human Engineer-authorized Root-alignment repair of
 CONTROL 07 v1.0, executed under NBBF-CWC #13 pursuant to NBBF-CWC #9
 decisions 6-C, 7-C, 13-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
 Historical v1.0 remains in reconciliation-evidence/ and is not live
-CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
-for CONTROLs 03, 05, 08, and 10 without changing audit operating doctrine.
+CONTROL authority.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -51,7 +50,7 @@ This CONTROL SHALL NOT:
 • Redefine cost/value doctrine owned by CONTROL 06
 • Absorb property/pooling doctrine from CONTROL 00C
 • Absorb Exit/Disengagement mechanics from CONTROL 00D
-• Occupy recovery/clawback mechanics owned by CONTROL 08
+• Occupy recovery/clawback mechanics reserved to CONTROL 08
 • Invent API, ledger, or publication mechanics reserved to CONTROL 11
 
 CONTROL 00 remains the NBBF Root lock.
@@ -270,7 +269,7 @@ Key rules:
 • Speed over ceremony
 
 Operating Exit/Disengagement: CONTROL 00D.
-Detailed clawback and recovery: CONTROL 08.
+Detailed clawback and recovery: CONTROL 08, reserved.
 
 INFORMATIVE: https://BlueprintLiberty.com/NBBF/07#07.8
 
@@ -288,8 +287,10 @@ When abuse or gross failure is identified, CONTROL 07:
 
 CONTROL 07 SHALL NOT occupy CONTROL 08's authoritative home.
 
-DETAILED CLAWBACK / RECOVERY OPERATING MECHANICS ARE GOVERNED BY
+DETAILED CLAWBACK / RECOVERY OPERATING MECHANICS ARE RESERVED TO
 CONTROL 08.
+
+CONTROL 08 remains reserved and is not drafted here.
 
 This CONTROL does not invent clawback formulas, repayment schedules,
 recovery percentages, collection mechanisms, contractor recovery
@@ -403,7 +404,7 @@ Noncompliance MAY be identified by:
 • Audit functions operating under this CONTROL
 
 This CONTROL MAY own audit findings. It does not own every remedy.
-Detailed clawback/recovery: CONTROL 08.
+Detailed clawback/recovery: CONTROL 08, reserved.
 This CONTROL does not create an enforcement agency, tribunal, board,
 criminal penalty schedule, or new governmental power.
 
@@ -419,7 +420,7 @@ Operating exit home: CONTROL 00D.
 Distinguish:
 
 A. Operational exit — CONTROL 00D.
-B. Recovery/clawback operating mechanics — CONTROL 08.
+B. Recovery/clawback operating mechanics — CONTROL 08, reserved.
 C. Supersession of this CONTROL document — CONTROL 00 versioned replacement.
 
 ==================================================
@@ -464,7 +465,7 @@ CROSS REFERENCES
 00C_Property_Rights_and_Pooling_Control — property and pooling
 00D_Exit_and_Disengagement_Control — exit and disengagement
 06_Cost_and_Value_Model — cost and value measures
-08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
   (reserved)
 

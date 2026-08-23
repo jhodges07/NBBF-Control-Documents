@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-08
 title: Exit, Clawback, and Recovery Rules
 slug: exit-clawback-and-recovery-rules
-version: v1.0.1
+version: v1.0.0
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 08_Exit_Clawback_and_Recovery_Rules
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.1
+Version: 1.0.0
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Recovery and clawback operating doctrine for taxpayer and other
@@ -29,9 +29,7 @@ CONTROL 08, executed under NBBF-CWC #21 pursuant to NBBF-CWC #16 foundation
 certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
 NBBF-CWC #19 Root reserved-home recognition. The filename retains historical
 “Exit” wording. Operating Exit and Disengagement remain CONTROL 00D.
-NBBF-CWC #24 reconciled live-status cross-references for CONTROLs 03, 05,
-and 10 without changing recovery operating doctrine. Metadata describes
-authority. Metadata does not independently create
+Metadata describes authority. Metadata does not independently create
 authority.
 
 ==================================================
@@ -65,11 +63,11 @@ This CONTROL SHALL NOT:
 • Absorb Exit/Disengagement operating doctrine from CONTROL 00D
 • Absorb Node ontology from CONTROL 01
 • Absorb republican-government application from CONTROL 03
-• Absorb review-calendar mechanics from CONTROL 05
+• Draft review-calendar mechanics reserved to CONTROL 05
 • Redefine CONTROL 06 Cost or Value
 • Absorb audit procedure or findings ownership from CONTROL 07
 • Draft Legacy/Sealed operating rules reserved to CONTROL 09
-• Absorb Legislative Decision-Node interface mechanics from CONTROL 10
+• Draft Legislative Decision-Node interface mechanics reserved to CONTROL 10
 • Invent API, ledger, blockchain, identity, database, or publication
   mechanics reserved to CONTROL 11
 • Invent Competitive Node Procurement mechanics reserved to CONTROL 12
@@ -227,7 +225,11 @@ This CONTROL MAY receive properly authorized referrals arising from:
 
 An authorized review MAY trigger recovery review. Calendar, cadence,
 reauthorization, and periodic-review mechanics belong to CONTROL 05.
-This CONTROL SHALL NOT invent CONTROL 05 doctrine.
+CONTROL 05 remains reserved and is not drafted here.
+
+Until CONTROL 05 exists, this CONTROL SHALL refer to an “authorized
+review.” It SHALL NOT invent CONTROL 05 doctrine, including any
+four-month or other calendar.
 
 Referral opens Recovery Review. Referral does not itself determine
 recoverable value or authorize collection.
@@ -613,11 +615,11 @@ interface, API or ledger mechanics, Competitive Node Procurement, or NBEF.
 03_Republican_Government_Model — republican application; human
   accountability in government
 04_System_Structure_Model — system composition (reserved)
-05_Authority_Review_and_Reauthorization_Cycle — review calendar
+05_Authority_Review_and_Reauthorization_Cycle — review calendar (reserved)
 06_Cost_and_Value_Model — Cost and Value
 07_Audit_and_Performance_Standards — audit procedure and findings
 09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
-10_Legislative_Decision_Interface — Decision-Node interface
+10_Legislative_Decision_Interface — Decision-Node interface (reserved)
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
   (reserved)
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)

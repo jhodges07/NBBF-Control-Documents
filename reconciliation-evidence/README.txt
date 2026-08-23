@@ -110,6 +110,66 @@ NOT_CANONICAL_CONTROL_00_v2.0.0_pre-CWC-19.txt
   Role: pre-CWC-19 evidence snapshot of live Root after CWC #18 .md migration.
   NOT CANONICAL.
 
+NOT_CANONICAL_CONTROL_00B_v2.1.1_pre-CWC-24.txt
+  Source: controls/00B_Signal_and_Non-Interference_Control.md at HEAD 7f1b966
+  SHA1: c34459e806c54494cc8cb0f6de3f7d7541f4a306
+  Prior version: v2.1.1
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_00C_v1.1.0_pre-CWC-24.txt
+  Source: controls/00C_Property_Rights_and_Pooling_Control.md at HEAD 7f1b966
+  SHA1: 01971f52e44f321f049ac79299515141343a3587
+  Prior version: v1.1.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_00D_v1.1.0_pre-CWC-24.txt
+  Source: controls/00D_Exit_and_Disengagement_Control.md at HEAD 7f1b966
+  SHA1: 518cf4f00a0c18c5a884d0859139f1f646020105
+  Prior version: v1.1.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_01_v1.2.0_pre-CWC-24.txt
+  Source: controls/01_Node_Ontology.md at HEAD 7f1b966
+  SHA1: 0cf033f453b6de5f6c4c9e0efc34111034cf2a03
+  Prior version: v1.2.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_02_v1.2.0_pre-CWC-24.txt
+  Source: controls/02_Definitions_and_Terms.md at HEAD 7f1b966
+  SHA1: e098858e511564874ad06a05e31b4bc6389b47ff
+  Prior version: v1.2.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_03_v1.0.0_pre-CWC-24.txt
+  Source: controls/03_Republican_Government_Model.md at HEAD 7f1b966
+  SHA1: 1f8c71262a8c1589a197323966b870e538c22977
+  Prior version: v1.0.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_05_v1.0.0_pre-CWC-24.txt
+  Source: controls/05_Authority_Review_and_Reauthorization_Cycle.md at HEAD 7f1b966
+  SHA1: 27010845482e92268ccb8aba13fd51a2c5902e2d
+  Prior version: v1.0.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_06_v1.1.0_pre-CWC-24.txt
+  Source: controls/06_Cost_and_Value_Model.md at HEAD 7f1b966
+  SHA1: a4bf61ab5f35aac7d101c31887d7907f7e2ac53c
+  Prior version: v1.1.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_07_v1.1.0_pre-CWC-24.txt
+  Source: controls/07_Audit_and_Performance_Standards.md at HEAD 7f1b966
+  SHA1: 02bf1c4a1cf24df8212c968e2b2bd8a7d496a324
+  Prior version: v1.1.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_08_v1.0.0_pre-CWC-24.txt
+  Source: controls/08_Exit_Clawback_and_Recovery_Rules.md at HEAD 7f1b966
+  SHA1: 35651b1665836a301a083bce108d27a126c019a7
+  Prior version: v1.0.0
+  Role: pre-CWC-24 live-status xref snapshot. NOT CANONICAL.
+
 NOT_CANONICAL_CONTROL_12_placeholder.txt
   Source: restore-control-documents working tree
           controls/12_Public_Transparency_API_and_Digital_Republic.txt

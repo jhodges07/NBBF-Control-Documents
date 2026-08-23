@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00d
 title: Exit and Disengagement Control
 slug: exit-and-disengagement
-version: v1.1.1
+version: v1.1.0
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 00D_Exit_and_Disengagement_Control
 Node-Based Budget Framework (NBBF)
 
-Version: 1.1.1
+Version: 1.1.0
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Exit, disengagement, authorized withdrawal, termination of
@@ -28,8 +28,7 @@ This CONTROL is the Human Engineer-authorized Root-alignment repair of
 CONTROL 00D v1.0, executed under NBBF-CWC #12 pursuant to NBBF-CWC #9
 decisions 11-C, 12-C, 14-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
 Historical v1.0 remains in reconciliation-evidence/ and is not live
-CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
-for CONTROLs 03, 05, 08, and 10 without changing Exit operating doctrine.
+CONTROL authority.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -52,7 +51,7 @@ This CONTROL SHALL NOT:
 • Become a second property-rights CONTROL
 • Absorb Node ontology from CONTROL 01
 • Absorb Signal operating rules from CONTROL 00B
-• Invent recovery/clawback mechanics owned by CONTROL 08
+• Invent recovery/clawback mechanics reserved to CONTROL 08
 • Invent API, ledger, or publication mechanics reserved to CONTROL 11
 
 Property-rights and pooling operating doctrine: CONTROL 00C.
@@ -214,6 +213,7 @@ Violations of this CONTROL trigger:
 Blocking exit constitutes structural coercion.
 
 Recovery and clawback operating mechanics: CONTROL 08.
+CONTROL 08 remains reserved and is not drafted here.
 This CONTROL does not invent CONTROL 08 doctrine.
 
 Signal treatment of blocked or suppressed exit: CONTROL 00B.
@@ -310,7 +310,7 @@ API/ledger implementation.
 00B_Signal_and_Non-Interference_Control — Signal operating rules
 00C_Property_Rights_and_Pooling_Control — property and pooling doctrine
 07_Audit_and_Performance_Standards — audit procedure
-08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
   (reserved)
 

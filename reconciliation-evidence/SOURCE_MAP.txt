@@ -114,6 +114,68 @@ NBBF-CWC #19 ROOT EVIDENCE (recorded before live Root housekeeping)
     Role: pre-CWC-19 snapshot of live Root. NOT CANONICAL.
     Reason: preserve CWC #7/#18 Root v2.0.0 before reserved-home recognition.
 
+NBBF-CWC #24 LIVE-STATUS XREF EVIDENCE (recorded before status reconciliation)
+  NOT_CANONICAL_CONTROL_00B_v2.1.1_pre-CWC-24.txt
+    SHA1 c34459e806c54494cc8cb0f6de3f7d7541f4a306
+    Source path: controls/00B_Signal_and_Non-Interference_Control.md
+    Source commit: 7f1b966
+    Prior version: v2.1.1
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_00C_v1.1.0_pre-CWC-24.txt
+    SHA1 01971f52e44f321f049ac79299515141343a3587
+    Source path: controls/00C_Property_Rights_and_Pooling_Control.md
+    Source commit: 7f1b966
+    Prior version: v1.1.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_00D_v1.1.0_pre-CWC-24.txt
+    SHA1 518cf4f00a0c18c5a884d0859139f1f646020105
+    Source path: controls/00D_Exit_and_Disengagement_Control.md
+    Source commit: 7f1b966
+    Prior version: v1.1.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_01_v1.2.0_pre-CWC-24.txt
+    SHA1 0cf033f453b6de5f6c4c9e0efc34111034cf2a03
+    Source path: controls/01_Node_Ontology.md
+    Source commit: 7f1b966
+    Prior version: v1.2.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_02_v1.2.0_pre-CWC-24.txt
+    SHA1 e098858e511564874ad06a05e31b4bc6389b47ff
+    Source path: controls/02_Definitions_and_Terms.md
+    Source commit: 7f1b966
+    Prior version: v1.2.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_03_v1.0.0_pre-CWC-24.txt
+    SHA1 1f8c71262a8c1589a197323966b870e538c22977
+    Source path: controls/03_Republican_Government_Model.md
+    Source commit: 7f1b966
+    Prior version: v1.0.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_05_v1.0.0_pre-CWC-24.txt
+    SHA1 27010845482e92268ccb8aba13fd51a2c5902e2d
+    Source path: controls/05_Authority_Review_and_Reauthorization_Cycle.md
+    Source commit: 7f1b966
+    Prior version: v1.0.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_06_v1.1.0_pre-CWC-24.txt
+    SHA1 a4bf61ab5f35aac7d101c31887d7907f7e2ac53c
+    Source path: controls/06_Cost_and_Value_Model.md
+    Source commit: 7f1b966
+    Prior version: v1.1.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_07_v1.1.0_pre-CWC-24.txt
+    SHA1 02bf1c4a1cf24df8212c968e2b2bd8a7d496a324
+    Source path: controls/07_Audit_and_Performance_Standards.md
+    Source commit: 7f1b966
+    Prior version: v1.1.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+  NOT_CANONICAL_CONTROL_08_v1.0.0_pre-CWC-24.txt
+    SHA1 35651b1665836a301a083bce108d27a126c019a7
+    Source path: controls/08_Exit_Clawback_and_Recovery_Rules.md
+    Source commit: 7f1b966
+    Prior version: v1.0.0
+    Role: pre-CWC-24 snapshot. NOT CANONICAL.
+
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
@@ -128,3 +190,4 @@ LATER COMPARISON CWC MUST USE
   CONTROL 07 v1.0 evidence: NOT_CANONICAL_CONTROL_07_v1.0_pre-CWC-13.txt
   CONTROL 00B v2.1.0 evidence: NOT_CANONICAL_CONTROL_00B_v2.1.0_pre-CWC-15.txt
   CONTROL 00 v2.0.0 evidence: NOT_CANONICAL_CONTROL_00_v2.0.0_pre-CWC-19.txt
+  CWC #24 pre-xref pack: NOT_CANONICAL_CONTROL_*_pre-CWC-24.txt

@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00b
 title: Signal and Non-Interference Control
 slug: signal-and-non-interference
-version: v2.1.2
+version: v2.1.1
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -18,7 +18,7 @@ supersedes: null
 
 Node-Based Budget Framework (NBBF)
 
-Version: 2.1.2
+Version: 2.1.1
 Status: Authoritative Control Document
 Classification: Foundational
 Scope: System-wide signaling, reporting rights, signal integrity, evidence preservation, signal lifecycle, and non-interference operating rules.
@@ -30,10 +30,8 @@ decisions 1-C through 10-C. It is not a verbatim installation of either source.
 NBBF-CWC #15 aligned CONTROL-document declarations, delegated lock, lineage,
 and conceptual-home xrefs with Root 00 without rewriting Signal operating
 doctrine. Historical sources remain in reconciliation-evidence/ and are not
-live CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
-for CONTROLs 03, 05, 08, and 10 without changing Signal operating doctrine.
-Metadata describes authority. Metadata does not independently create
-authority.
+live CONTROL authority. Metadata describes authority. Metadata does not
+independently create authority.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -336,7 +334,8 @@ This CONTROL MAY surface, trigger, preserve evidence for, or refer matters to:
 
 • CONTROL 07 — audit and performance findings/procedure
 • CONTROL 00D — Exit and Disengagement operating mechanics
-• CONTROL 08 — recovery and clawback operating mechanics
+• CONTROL 08 — recovery and clawback operating mechanics (RESERVED; currently
+  empty)
 
 This CONTROL SHALL NOT create those operating mechanics.
 This CONTROL SHALL NOT invent CONTROL 08 doctrine, recovery formulas,
@@ -449,11 +448,11 @@ CROSS REFERENCES
 00_Control — Root
 01_Node_Ontology — node reporting-surface requirements
 02_Definitions_and_Terms — Signal definition
-05_Authority_Review_and_Reauthorization_Cycle — review calendar
+05_Authority_Review_and_Reauthorization_Cycle — review calendar (reserved)
 07_Audit_and_Performance_Standards — audit procedure
 00D_Exit_and_Disengagement_Control — exit and disengagement
-08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
-10_Legislative_Decision_Interface — Decision-Node interface
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
+10_Legislative_Decision_Interface — Decision-Node interface (reserved)
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
   (reserved)
 
