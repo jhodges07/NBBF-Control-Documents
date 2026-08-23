@@ -94,6 +94,14 @@ NOT_CANONICAL_CONTROL_07_v1.0_pre-CWC-13.txt
   Role: pre-CWC-13 evidence snapshot of CONTROL 07 v1.0.
   NOT CANONICAL.
 
+NOT_CANONICAL_CONTROL_00B_v2.1.0_pre-CWC-15.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/00B_Signal_and_Non-Interference_Control.txt at HEAD d89c53c
+  SHA1: bb7f81f9adb74552105d244276d3a649c911820b
+  Prior version: v2.1.0
+  Role: pre-CWC-15 evidence snapshot of CONTROL 00B CWC #5 body.
+  NOT CANONICAL.
+
 NOT_CANONICAL_CONTROL_12_placeholder.txt
   Source: restore-control-documents working tree
           controls/12_Public_Transparency_API_and_Digital_Republic.txt

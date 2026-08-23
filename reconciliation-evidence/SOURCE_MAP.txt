@@ -96,6 +96,15 @@ NBBF-CWC #13 CONTROL 06/07 EVIDENCE (recorded before live replacement)
     Role: pre-CWC-13 snapshot of live CONTROL 07. NOT CANONICAL.
     Reason: preserve v1.0 audit doctrine before Root-alignment repair.
 
+NBBF-CWC #15 CONTROL 00B EVIDENCE (recorded before live 00B declaration repair)
+  NOT_CANONICAL_CONTROL_00B_v2.1.0_pre-CWC-15.txt
+    SHA1 bb7f81f9adb74552105d244276d3a649c911820b
+    Source path: controls/00B_Signal_and_Non-Interference_Control.txt
+    Source commit: d89c53c
+    Prior version: v2.1.0
+    Role: pre-CWC-15 snapshot of live CONTROL 00B. NOT CANONICAL.
+    Reason: preserve CWC #5 Signal body before declaration/lock alignment.
+
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
@@ -108,3 +117,4 @@ LATER COMPARISON CWC MUST USE
   CONTROL 00D v1.0 evidence: NOT_CANONICAL_CONTROL_00D_v1.0_pre-CWC-12.txt
   CONTROL 06 v1.0 evidence: NOT_CANONICAL_CONTROL_06_v1.0_pre-CWC-13.txt
   CONTROL 07 v1.0 evidence: NOT_CANONICAL_CONTROL_07_v1.0_pre-CWC-13.txt
+  CONTROL 00B v2.1.0 evidence: NOT_CANONICAL_CONTROL_00B_v2.1.0_pre-CWC-15.txt

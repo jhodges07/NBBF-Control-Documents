@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00b
 title: Signal and Non-Interference Control
 slug: signal-and-non-interference
-version: v2.1.1
+version: v2.1.0
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -18,7 +18,7 @@ supersedes: null
 
 Node-Based Budget Framework (NBBF)
 
-Version: 2.1.1
+Version: 2.1.0
 Status: Authoritative Control Document
 Classification: Foundational
 Scope: System-wide signaling, reporting rights, signal integrity, evidence preservation, signal lifecycle, and non-interference operating rules.
@@ -27,32 +27,26 @@ Lineage:
 This CONTROL is the Human Engineer-authorized merge of Signal v1.0 evidence
 and Signal v2.1 evidence, executed under NBBF-CWC #5 pursuant to NBBF-CWC #4
 decisions 1-C through 10-C. It is not a verbatim installation of either source.
-NBBF-CWC #15 aligned CONTROL-document declarations, delegated lock, lineage,
-and conceptual-home xrefs with Root 00 without rewriting Signal operating
-doctrine. Historical sources remain in reconciliation-evidence/ and are not
-live CONTROL authority. Metadata describes authority. Metadata does not
-independently create authority.
+Historical sources remain in reconciliation-evidence/ and are not live CONTROL
+authority.
 
 ==================================================
 GOVERNING AUTHORITY
 ==================================================
 
 This document is issued pursuant to the NBBF Root Control Document
-(CONTROL 00 / 00_Control.txt) and derives its authority therefrom.
+(00_Control.txt) and derives its authority therefrom.
 
 This CONTROL is binding upon all NBBF nodes, owners, executive authorities,
 auditors, contractors, participating organizations, and all derivative
-implementations operating under NBBF authority, within the Signal authority
-delegated by CONTROL 00.
-
-This CONTROL is not a second Root. CONTROL 00 remains the NBBF Root lock.
+implementations operating under NBBF authority.
 
 Nothing within this document may be interpreted to restrict truthful reporting,
 evidence preservation, or authorized oversight.
 
 CONTROL 02 owns the definition of “Signal.”
 This CONTROL owns Signal operating rules.
-This CONTROL SHALL NOT redefine CONTROL 02.
+This CONTROL shall not redefine CONTROL 02.
 
 ==================================================
 1. PURPOSE
@@ -84,7 +78,7 @@ Reality is the Final Operational Authority.
 
 Governmental process, organizational hierarchy, political preference,
 institutional reputation, administrative convenience, or organizational
-interests SHALL NOT override observable operational reality.
+interests shall never override observable operational reality.
 
 Every funded node creates:
 
@@ -131,10 +125,10 @@ Reporting rights:
 
 • Require no supervisory approval.
 • Do not flow through management chains.
-• SHALL NOT be delayed.
-• SHALL NOT be filtered.
-• SHALL NOT be reclassified to suppress escalation.
-• SHALL NOT be conditioned upon organizational permission.
+• May not be delayed.
+• May not be filtered.
+• May not be reclassified to suppress escalation.
+• May not be conditioned upon organizational permission.
 
 Reporting is a constitutional function of the system—not a grievance process.
 
@@ -170,7 +164,7 @@ Interfering actions are subject to immediate invalidation.
 Signals attach to nodes—not personalities, departments, administrations,
 agencies, or political interests.
 
-Each signal SHALL maintain, at minimum:
+Each signal shall maintain, at minimum:
 
 • Originating Node
 • Reporter or origin, where lawfully appropriate
@@ -203,39 +197,27 @@ original signal, evidence, actions, and history remain permanently preserved.
 
 CLOSE DOES NOT MEAN ERASE.
 
-Signal close is an operating event under this CONTROL. It is not
-CONTROL-document exit or supersession.
-
-CONTROL-document supersession is governed by CONTROL 00 version and lineage
-authority.
-
-Operating Exit and Disengagement: CONTROL 00D.
-
-Signal closure SHALL NOT erase the original Signal, evidence, or permanent
-history already protected by this CONTROL.
-
-Supersession of an OPEN signal is not deletion, concealment, or alteration
-of the original record.
+Supersession is not deletion, concealment, or alteration of the original record.
 
 No signal may be buried through inaction.
 
-Evidence attached to a signal SHALL NOT be altered, substituted,
+Evidence attached to a signal shall never be altered, substituted,
 concealed, or destroyed without preservation of the original record.
 
 ==================================================
 7. SIGNAL REVIEW
 ==================================================
 
-Signal review SHALL occur.
+Signal review shall occur.
 
-No signal SHALL remain indefinitely unreviewed.
+No signal shall remain indefinitely unreviewed.
 
 CONTROL 05 owns review-calendar mechanics, including monthly operational
 review and four-month legislative Decision-Node review.
 
-This CONTROL SHALL NOT invent, restate, or replace that calendar.
+This CONTROL shall not invent, restate, or replace that calendar.
 
-An unresolved signal that passes its authorized review due date SHALL
+An unresolved signal that passes its authorized review due date shall
 automatically escalate.
 
 Critical signals involving fraud, constitutional violations, significant
@@ -269,18 +251,18 @@ Classified or restricted nodes remain fully subject to this CONTROL.
 
 Classification may restrict visibility.
 
-Classification SHALL NOT eliminate accountability.
+Classification shall never eliminate accountability.
 
-Authorized reporting channels SHALL include:
+Authorized reporting channels must include:
 
 • House oversight
 • Senate oversight
 • Classified Inspectors General
 • Other constitutionally authorized oversight authorities
 
-Protected reporting channels SHALL remain available through those authorities.
+Protected reporting channels shall remain available through those authorities.
 
-Every classified node SHALL declare:
+Every classified node shall declare:
 
 • Classification authority
 • Classification duration
@@ -291,7 +273,7 @@ Every classified node SHALL declare:
 Permanent secrecy is prohibited.
 
 After the authorized secrecy period, the existence, duration, and authorized
-cost range of the classified activity SHALL become visible unless reauthorized
+cost range of the classified activity shall become visible unless reauthorized
 through the CONTROL 05 / CONTROL 10 Decision-Node process.
 
 This CONTROL does not invent the mechanics of CONTROL 05 or CONTROL 10.
@@ -300,7 +282,7 @@ This CONTROL does not invent the mechanics of CONTROL 05 or CONTROL 10.
 10. TAXPAYER VISIBILITY
 ==================================================
 
-Taxpayer-funded activity SHALL NOT be insulated from lawful public observation
+Taxpayer-funded activity shall not be insulated from lawful public observation
 except where temporary constitutional restrictions are specifically authorized,
 documented, and subject to review.
 
@@ -316,8 +298,6 @@ This CONTROL does not draft those mechanics.
 11. ENFORCEMENT
 ==================================================
 
-This CONTROL owns Signal-interference operating rules.
-
 Violation of this CONTROL automatically triggers:
 
 • Immediate invalidation of interfering actions
@@ -330,17 +310,11 @@ Violation of this CONTROL automatically triggers:
 • Review of node ownership or execution authority, including possible removal
 • Other remedies authorized by the applicable CONTROLs
 
-This CONTROL MAY surface, trigger, preserve evidence for, or refer matters to:
+Clawback, exit, and recovery mechanics belong to CONTROL 00D, CONTROL 07,
+and CONTROL 08 as applicable.
 
-• CONTROL 07 — audit and performance findings/procedure
-• CONTROL 00D — Exit and Disengagement operating mechanics
-• CONTROL 08 — recovery and clawback operating mechanics (RESERVED; currently
-  empty)
-
-This CONTROL SHALL NOT create those operating mechanics.
-This CONTROL SHALL NOT invent CONTROL 08 doctrine, recovery formulas,
-percentages, schedules, collection procedures, contractor-recovery systems,
-penalties, tribunals, or offices.
+This CONTROL may require, trigger, or cross-reference those authorities.
+This CONTROL shall not recreate their mechanics.
 
 Retaliation against a reporting individual constitutes a structural offense,
 not merely a personnel matter.
@@ -351,7 +325,7 @@ not merely a personnel matter.
 
 Digital systems may represent, transport, inspect, or analyze signals.
 
-Every signal SHALL be representable through structured metadata suitable for
+Every signal shall be representable through structured metadata suitable for
 lawful operational use.
 
 The Constitutional Digital Twin (CDT) and UNBKE Runtime may be identified
@@ -360,7 +334,7 @@ as implementations.
 No digital system, artificial intelligence system, API, ledger, runtime,
 or automated process replaces human accountability or constitutional authority.
 
-Machine representation SHALL NOT replace human accountability.
+Machine representation shall never replace human accountability.
 
 This CONTROL does not identify AGCL documents as NBBF CONTROLs.
 
@@ -388,9 +362,7 @@ No system may hide failure behind procedure.
 
 Reality is the Final Operational Authority.
 
-This CONTROL is binding within the Signal authority delegated by CONTROL 00.
-
-CONTROL 00 remains the system-level Root lock.
+This document is a lock.
 
 ==================================================
 14. OWNED CONCEPTS
@@ -409,51 +381,16 @@ This CONTROL is the canonical authority for Signal operating rules, including:
 
 CONTROL 02 remains the canonical owner of the definition of “Signal.”
 
-==================================================
-15. VERSIONING AND LINEAGE
-==================================================
-
-Revision, replacement, and supersession of this CONTROL document are governed
-by CONTROL 00.
-
-Once published, this CONTROL:
-
-• SHALL NOT be edited in place
-• SHALL NOT be silently superseded
-• SHALL NOT be silently amended
-• MAY be replaced only by a higher-version CONTROL
-• SHALL preserve historical lineage
-
-Metadata describes authority. Metadata does not independently create
-authority.
-
-This CONTROL does not establish a separate amendment process, tribunal,
-board, or office.
-
-==================================================
-16. CONTROL-DOCUMENT EXIT AUTHORITY
-==================================================
-
-Distinguish:
-
-A. SIGNAL CLOSE — operating doctrine of this CONTROL. CLOSE DOES NOT MEAN
-   ERASE. Original Signal, evidence, and permanent history remain protected.
-B. OPERATING EXIT / DISENGAGEMENT — CONTROL 00D.
-C. CONTROL-DOCUMENT SUPERSESSION — CONTROL 00 versioned replacement.
-
-==================================================
-CROSS REFERENCES
-==================================================
+Cross References:
 
 00_Control — Root
 01_Node_Ontology — node reporting-surface requirements
 02_Definitions_and_Terms — Signal definition
-05_Authority_Review_and_Reauthorization_Cycle — review calendar (reserved)
+05_Authority_Review_and_Reauthorization_Cycle — review calendar
 07_Audit_and_Performance_Standards — audit procedure
 00D_Exit_and_Disengagement_Control — exit and disengagement
-08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
-10_Legislative_Decision_Interface — Decision-Node interface (reserved)
+08_Exit_Clawback_and_Recovery_Rules — operational clawback and recovery
+10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 
 END OF DOCUMENT
