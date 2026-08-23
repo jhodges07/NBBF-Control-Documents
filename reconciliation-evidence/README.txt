@@ -12,11 +12,20 @@ Live CONTROLs remain exclusively under controls/.
 ------------------------------------------------------------------------
 FILES
 
+NOT_CANONICAL_Root_v1.0_pre-CWC-7.txt
+  Source: nbbf-control-tree-reconciliation live controls/00_Control.txt
+          at HEAD 8d9e1df, immediately before CWC #7 replacement.
+  SHA1: da3ef16dfa5e3edad346da0936d5e955b6e7aab8
+  Role: pre-CWC-7 evidence snapshot of live Root v1.0.
+  NOT CANONICAL. Must not replace live controls/00_Control.txt.
+
 NOT_CANONICAL_Root_v2.0.txt
   Source: restore-control-documents working tree controls/00_Control.txt
-  Role: Root v2.0 body preserved separately.
-  Must not replace live controls/00_Control.txt (origin/main Root v1.0).
-  Root merge is reserved for a later authorized CWC.
+  SHA1: 8acdd7d456fbe78e63b34a3eb3f2076729399ff7
+  Role: Root v2.0 body preserved separately as evidence.
+  NOT CANONICAL. Must not replace live controls/00_Control.txt.
+  Unchanged by NBBF-CWC #7.
+  After CWC #7, live Root is the merged v2.0.0 CONTROL.
 
 NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Source: restore-control-documents HEAD controls/00_Control.txt

@@ -1,0 +1,146 @@
+publish_scope: canonical
+---
+doc_id: nbbf-00
+title: NBBF Root Control Document
+slug: nbbf-root-control
+version: v1.0.1-control-baseline
+status: root
+framework: NBBF
+source_repo: NBBF-Control-Documents
+source_path: controls/00_Control.txt
+authority_level: root
+supersedes: null
+---
+
+NBBF ROOT CONTROL DOCUMENT  
+Node-Based Budget Framework (NBBF)
+
+Version: 1.0  
+Date: 2026-02-01  
+Status: Root Authority Control  
+Scope: System-wide authority, control hierarchy, and publication governance
+
+--------------------------------------------------
+
+GOVERNING AUTHORITY
+
+This document is the supreme control authority of the Node-Based Budget Framework (NBBF).
+
+All other NBBF control documents, nodes, actors, and derivative systems
+derive their legitimacy exclusively from this document.
+
+No control, budget, policy, process, or execution artifact may exist
+outside the authority granted herein.
+
+--------------------------------------------------
+
+1. PURPOSE
+
+This document establishes:
+
+• The source of lawful authority within NBBF  
+• The hierarchy of control documents  
+• The rules governing publication, enforcement, and inheritance  
+• The conditions under which authority may be exercised, limited, or revoked  
+
+This document does not prescribe policy behavior.
+It defines the *rules under which policy may exist*.
+
+--------------------------------------------------
+
+2. CONTROL HIERARCHY
+
+Authority within NBBF flows strictly downward:
+
+1. Root Control (this document)
+2. Canonical Control Documents
+3. Node-Specific Controls
+4. Execution and Budget Nodes
+
+No lower-level artifact may:
+• Override a higher control
+• Persist beyond its authorization
+• Expand its scope without explicit control authority
+
+--------------------------------------------------
+
+3. CANONICAL CONTROLS
+
+Canonical controls are authoritative policy controls that:
+
+• Implement one and only one structural principle
+• Are universally binding within their scope
+• Are durable across budget cycles
+• May only be amended by explicit versioned replacement
+
+Canonical controls MUST:
+• Declare their scope
+• Declare their authority source
+• Declare their enforcement mechanism
+• Declare exit or termination conditions
+
+--------------------------------------------------
+
+4. PUBLICATION GOVERNANCE
+
+Publication of control documents is governed by this root.
+
+The following publication scopes exist:
+
+• root_only — only this document is published
+• canonical — only canonical controls are published
+• all — canonical and subordinate controls may publish
+
+Publication scope is declared in this document and enforced mechanically.
+
+No document may self-publish.
+
+--------------------------------------------------
+
+5. IMMUTABILITY AND VERSIONING
+
+Once published, a control document:
+
+• May not be edited in place
+• May not be silently superseded
+• May only be replaced by a higher-version control
+• Must preserve historical lineage
+
+Authority is traceable or it does not exist.
+
+--------------------------------------------------
+
+6. ENFORCEMENT PRIMACY
+
+Any node, actor, or authority operating outside the controls defined
+under this root is operating without legitimacy.
+
+Unauthorized action is null by definition.
+
+--------------------------------------------------
+
+7. FAILURE MODE
+
+If this root control is:
+• Missing
+• Invalid
+• Unverifiable
+• Corrupted
+
+Then:
+• No controls publish
+• No nodes are valid
+• No authority exists
+
+The system fails closed.
+
+--------------------------------------------------
+
+8. CONTROL NORTH STAR
+
+Authority exists to be constrained.  
+Power exists to be measured.  
+Silence exists only where consent is explicit.
+
+This document is the lock.
+
