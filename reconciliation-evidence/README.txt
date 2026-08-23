@@ -102,6 +102,14 @@ NOT_CANONICAL_CONTROL_00B_v2.1.0_pre-CWC-15.txt
   Role: pre-CWC-15 evidence snapshot of CONTROL 00B CWC #5 body.
   NOT CANONICAL.
 
+NOT_CANONICAL_CONTROL_00_v2.0.0_pre-CWC-19.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/00_Control.md at HEAD f91aa16
+  SHA1: 071bd4e07833515ee8b20c1bb83ac2c412d9f786
+  Prior version: v2.0.0
+  Role: pre-CWC-19 evidence snapshot of live Root after CWC #18 .md migration.
+  NOT CANONICAL.
+
 NOT_CANONICAL_CONTROL_12_placeholder.txt
   Source: restore-control-documents working tree
           controls/12_Public_Transparency_API_and_Digital_Republic.txt

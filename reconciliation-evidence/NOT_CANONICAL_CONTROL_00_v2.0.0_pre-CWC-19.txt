@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00
 title: NBBF Root Control Document
 slug: nbbf-root-control
-version: v2.1.0
+version: v2.0.0
 status: root
 framework: NBBF
 source_repo: NBBF-Control-Documents
@@ -15,7 +15,7 @@ supersedes: null
 NBBF ROOT CONTROL DOCUMENT
 Node-Based Budget Framework (NBBF)
 
-Version: 2.1.0
+Version: 2.0.0
 Status: Root Authority Control
 Classification: Root
 Scope: Supreme NBBF authority, constitutional-engineering purpose, governing
@@ -25,12 +25,8 @@ locks.
 Lineage:
 This CONTROL is the Human Engineer-authorized merge of Root v1.0 and Root v2.0
 under NBBF-CWC #7 pursuant to NBBF-CWC #6 decisions 1-C through 16-C.
-NBBF-CWC #19 recorded reserved canonical homes for CONTROL 04 and CONTROL 09,
-reserved CONTROL 12 identity for Competitive Node Procurement, and a
-domain-framework boundary, without drafting those CONTROLs or creating NBEF.
-Historical v2.0.0 remains in reconciliation-evidence/ and is not live CONTROL
-authority. Source evidence remains in reconciliation-evidence/ and is not live
-CONTROL authority.
+Source evidence remains in reconciliation-evidence/ and is not live CONTROL
+authority.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -126,26 +122,6 @@ and runtime knowledge support.
 These systems remain independent. NBBF does not absorb their authority.
 An AGCL CONTROL is not an NBBF CONTROL.
 
-Specialized domain frameworks MAY exist outside this repository.
-
-NBBF MAY provide foundational governmental budgeting and accountability
-principles used by such frameworks.
-
-A specialized domain framework SHALL NOT become an NBBF CONTROL merely
-because it interoperates with or derives principles from NBBF.
-
-Specialized domain frameworks MAY maintain separate repositories, CONTROL
-trees, governance, versions, and implementations.
-
-Interoperability SHALL NOT silently transfer authority between frameworks.
-
-NBBF SHALL NOT absorb specialized domain doctrine unless separately
-authorized through the NBBF CONTROL architecture.
-
-NBEF is the anticipated education-domain example of such a framework.
-NBEF is not an NBBF CONTROL. This CONTROL does not create NBEF, establish
-education mechanics, or assign NBEF an NBBF CONTROL number.
-
 CDT, UNBKE, artificial intelligence, APIs, ledgers, runtimes, or other digital
 implementations SHALL NOT replace human accountability, lawful human judgment,
 or constitutional authority.
@@ -209,34 +185,6 @@ Canonical CONTROLs SHALL declare:
 • Authority source
 • Enforcement authority
 • Exit authority
-
-Reserved canonical homes identified by this Root include:
-
-CONTROL 04 — System Structure Model (RESERVED; currently empty).
-CONTROL 04 owns system-level structural composition that is not Node
-ontology: how Nodes are composed into larger operating systems.
-CONTROL 01 remains the authoritative home for Node ontology, Node types,
-Node relationships, Node hierarchy, Human Node, Decision Node, Root Node
-terminology, and Node lifecycle ontology.
-CONTROL 04 SHALL NOT become a second Node Ontology CONTROL.
-This Root does not draft CONTROL 04.
-
-CONTROL 09 — Legacy and Sealed Nodes (RESERVED; currently empty).
-CONTROL 09 owns specialized operating doctrine for legacy and sealed Node
-conditions where such doctrine is not already owned by CONTROL 01,
-CONTROL 00B, CONTROL 00D, CONTROL 07, or another specialized CONTROL.
-CONTROL 01 retains ontology.
-CONTROL 00B retains Signal operations.
-CONTROL 00D retains Exit and Disengagement.
-CONTROL 07 retains Audit and Performance.
-This Root does not draft CONTROL 09.
-
-CONTROL 12 — Competitive Node Procurement (RESERVED; undrafted).
-No live CONTROL 12 file exists.
-CONTROL 12 SHALL NOT be occupied by another doctrine.
-This Root does not draft CONTROL 12, create controls/12, or define
-procurement, bidding, contractor-qualification, prime/subcontractor, or
-recovery-formula mechanics.
 
 ==================================================
 8. PUBLICATION GOVERNANCE
@@ -448,14 +396,11 @@ This CONTROL does not own subordinate operating mechanics.
 01_Node_Ontology — node ownership and ontology
 02_Definitions_and_Terms — vocabulary
 03_Republican_Government_Model — jurisdiction structures
-04_System_Structure_Model — system composition (reserved)
 05_Authority_Review_and_Reauthorization_Cycle — review calendar
 06_Cost_and_Value_Model — cost and value mechanics
 07_Audit_and_Performance_Standards — audit procedure
 08_Exit_Clawback_and_Recovery_Rules — operational recovery
-09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
 
 END OF DOCUMENT

@@ -105,6 +105,15 @@ NBBF-CWC #15 CONTROL 00B EVIDENCE (recorded before live 00B declaration repair)
     Role: pre-CWC-15 snapshot of live CONTROL 00B. NOT CANONICAL.
     Reason: preserve CWC #5 Signal body before declaration/lock alignment.
 
+NBBF-CWC #19 ROOT EVIDENCE (recorded before live Root housekeeping)
+  NOT_CANONICAL_CONTROL_00_v2.0.0_pre-CWC-19.txt
+    SHA1 071bd4e07833515ee8b20c1bb83ac2c412d9f786
+    Source path: controls/00_Control.md
+    Source commit: f91aa16
+    Prior version: v2.0.0
+    Role: pre-CWC-19 snapshot of live Root. NOT CANONICAL.
+    Reason: preserve CWC #7/#18 Root v2.0.0 before reserved-home recognition.
+
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
@@ -118,3 +127,4 @@ LATER COMPARISON CWC MUST USE
   CONTROL 06 v1.0 evidence: NOT_CANONICAL_CONTROL_06_v1.0_pre-CWC-13.txt
   CONTROL 07 v1.0 evidence: NOT_CANONICAL_CONTROL_07_v1.0_pre-CWC-13.txt
   CONTROL 00B v2.1.0 evidence: NOT_CANONICAL_CONTROL_00B_v2.1.0_pre-CWC-15.txt
+  CONTROL 00 v2.0.0 evidence: NOT_CANONICAL_CONTROL_00_v2.0.0_pre-CWC-19.txt
