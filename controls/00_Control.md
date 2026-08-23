@@ -7,7 +7,7 @@ version: v2.0.0
 status: root
 framework: NBBF
 source_repo: NBBF-Control-Documents
-source_path: controls/00_Control.txt
+source_path: controls/00_Control.md
 authority_level: root
 supersedes: null
 ---

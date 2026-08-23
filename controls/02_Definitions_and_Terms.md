@@ -8,7 +8,7 @@ status: canonical
 framework: NBBF
 parent: nbbf-00
 source_repo: NBBF-Control-Documents
-source_path: controls/02_Definitions_and_Terms.txt
+source_path: controls/02_Definitions_and_Terms.md
 authority_level: foundational
 supersedes: null
 ---
@@ -33,7 +33,7 @@ GOVERNING AUTHORITY
 ==================================================
 
 This document is issued pursuant to the NBBF Root Control Document
-(CONTROL 00 / controls/00_Control.txt) and derives its authority therefrom.
+(CONTROL 00 / controls/00_Control.md) and derives its authority therefrom.
 
 CONTROL 02 owns NBBF vocabulary within the scope delegated by CONTROL 00.
 

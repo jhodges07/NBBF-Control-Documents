@@ -45,7 +45,7 @@ NBBF-CWC #7 ROOT EVIDENCE (recorded before live Root replacement)
   NOT_CANONICAL_Root_v2.0.txt
     SHA1 8acdd7d456fbe78e63b34a3eb3f2076729399ff7
     Unchanged from CWC #3. NOT CANONICAL. Must remain intact.
-  After CWC #7, live controls/00_Control.txt is merged Root v2.0.0.
+  After CWC #7, live controls/00_Control.md is merged Root v2.0.0.
   Both source Roots survive independently as evidence.
 
 NBBF-CWC #10 CONTROL 02 EVIDENCE (recorded before live 02 replacement)
@@ -108,7 +108,7 @@ NBBF-CWC #15 CONTROL 00B EVIDENCE (recorded before live 00B declaration repair)
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
-  Live reserved 00B:    controls/00B_Signal_and_Non-Interference_Control.txt
+  Live reserved 00B:    controls/00B_Signal_and_Non-Interference_Control.md
   Root v1.0 evidence:   NOT_CANONICAL_Root_v1.0_pre-CWC-7.txt
   Root v2.0 evidence:   NOT_CANONICAL_Root_v2.0.txt
   CONTROL 02 v1.1 evidence: NOT_CANONICAL_CONTROL_02_v1.1_pre-CWC-10.txt

@@ -8,7 +8,7 @@ status: canonical
 framework: NBBF
 parent: nbbf-00
 source_repo: NBBF-Control-Documents
-source_path: controls/00B_Signal_and_Non-Interference_Control.txt
+source_path: controls/00B_Signal_and_Non-Interference_Control.md
 authority_level: foundational
 classification: Foundational
 supersedes: null
@@ -38,7 +38,7 @@ GOVERNING AUTHORITY
 ==================================================
 
 This document is issued pursuant to the NBBF Root Control Document
-(CONTROL 00 / 00_Control.txt) and derives its authority therefrom.
+(CONTROL 00 / 00_Control.md) and derives its authority therefrom.
 
 This CONTROL is binding upon all NBBF nodes, owners, executive authorities,
 auditors, contractors, participating organizations, and all derivative
