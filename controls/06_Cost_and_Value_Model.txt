@@ -1,14 +1,99 @@
+---
+publish_scope: canonical
+doc_id: nbbf-06
+title: Cost and Value Model
+slug: cost-and-value-model
+version: v1.1.0
+status: canonical
+framework: NBBF
+parent: nbbf-00
+source_repo: NBBF-Control-Documents
+source_path: controls/06_Cost_and_Value_Model.txt
+authority_level: foundational
+supersedes: null
+---
+
 NBBF 06 — Cost and Value Model
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0
-Date: 2026-02-01
-Status: Authoritative
-Scope: Cost definition, value measurement, incentive alignment, and capital efficiency
+Version: 1.1.0
+Status: Authoritative Control Document
+Classification: Canonical
+Scope: Cost definition, value measurement, incentive alignment, and capital
+efficiency.
+
+Lineage:
+This CONTROL is the Human Engineer-authorized Root-alignment repair of
+CONTROL 06 v1.0, executed under NBBF-CWC #13 pursuant to NBBF-CWC #9
+decisions 6-C, 7-C, 13-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
+Historical v1.0 remains in reconciliation-evidence/ and is not live
+CONTROL authority.
 
 ==================================================
+GOVERNING AUTHORITY
+==================================================
 
+This document is issued pursuant to the NBBF Root Control Document
+(CONTROL 00 / controls/00_Control.txt) and derives its authority therefrom.
+
+CONTROL 06 owns NBBF cost and value operating doctrine within the scope
+delegated by CONTROL 00.
+
+This CONTROL is not a second Root.
+
+This CONTROL SHALL NOT:
+
+• Override CONTROL 00
+• Override constitutional government or other controlling lawful authority
+• Override another NBBF CONTROL within that CONTROL's authoritative home
+• Absorb Node ontology from CONTROL 01
+• Absorb Signal operating rules from CONTROL 00B
+• Absorb property/pooling mechanics from CONTROL 00C
+• Absorb Exit/Disengagement mechanics from CONTROL 00D
+• Absorb audit procedure from CONTROL 07
+• Invent recovery/clawback mechanics reserved to CONTROL 08
+• Invent API, ledger, or publication mechanics reserved to CONTROL 11
+
+CONTROL 00 remains the NBBF Root lock.
+
+==================================================
+AUTHORITATIVE HOME
+==================================================
+
+This CONTROL answers:
+
+WHAT COST AND VALUE ARE BEING MEASURED OR EVALUATED?
+
+CONTROL 07 answers:
+
+HOW PERFORMANCE AND COMPLIANCE ARE AUDITED AGAINST AUTHORIZED EXPECTATIONS?
+
+This CONTROL MAY produce or define measurements used by CONTROL 07.
+CONTROL 07 MAY audit cost/value performance using authorized CONTROL 06
+measures. CONTROL 07 SHALL NOT silently redefine this doctrine.
+This CONTROL SHALL NOT absorb CONTROL 07 audit procedure.
+
+Concise vocabulary: CONTROL 02.
+Node ontology: CONTROL 01.
+
+==================================================
+INFORMATIVE MATERIAL
+==================================================
+
+BlueprintLiberty.com URLs and other Blueprint Liberty publication, essay,
+website, or public-facing material cited in this CONTROL are INFORMATIVE.
+
+They MAY explain NBBF, publish NBBF material, or provide historical or
+conceptual context.
+
+They SHALL NOT become CONTROL authority merely because this CONTROL links
+to or cites them.
+
+Authoritative meanings of INFORMATIVE: CONTROL 00.
+
+==================================================
 NBBF 06.1. Purpose
+==================================================
 
 The Cost and Value Model defines how spending, restraint, and efficiency
 are evaluated under the Node-Based Budget Framework.
@@ -17,51 +102,55 @@ It eliminates baseline spending, aligns executive incentives with taxpayer
 outcomes, and makes restraint and debt reduction first-class achievements.
 
 Key rules:
-- No baseline or habitual spending
-- Restraint is measurable and rewarded
-- Every dollar must compete on value
+• No baseline or habitual spending
+• Restraint is measurable and rewarded
+• Every dollar SHALL compete on value
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.1
+Compete-on-value is cost/value doctrine. It is not Competitive Node
+Procurement authority.
 
---------------------------------------------------
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.1
 
+==================================================
 NBBF 06.2. Cost Is a Claim, Not a Fact
+==================================================
 
 All costs under NBBF are treated as claims that require defense.
 
 No cost is presumed valid due to history, urgency, or organizational status.
-Every cost must be tied to a node, defended by a named human owner,
-and re-evaluated each four-month cycle.
+Every cost SHALL be tied to a Node, defended by a named Human Owner,
+and re-evaluated each authorized cycle.
 
 Key rules:
-- No inherited legitimacy
-- Human defense is mandatory
-- Revalidation is continuous
+• No inherited legitimacy
+• Human defense is mandatory
+• Revalidation is continuous
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.2
+Human Owner and Node terminology: CONTROL 01 / CONTROL 02.
+Review-calendar mechanics: CONTROL 05. CONTROL 05 remains reserved.
 
---------------------------------------------------
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.2
 
+==================================================
 NBBF 06.3. Zero-Base as Default Condition
+==================================================
 
-All nodes begin each budget cycle at zero funding.
+All Nodes begin each budget cycle at zero funding.
 
 Funding exists only through affirmative authorization with explicit ceilings
-and time bounds. No silent carry-forward or automatic continuation is permitted.
+and time bounds. No silent carry-forward or automatic continuation is
+permitted.
 
 Key rules:
-- Default funding is zero
-- Approval must be explicit
-- Continuation requires reauthorization
+• Default funding is zero
+• Approval SHALL be explicit
+• Continuation requires reauthorization
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.3
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.3
 
---------------------------------------------------
-
+==================================================
 NBBF 06.4. Value Definition
+==================================================
 
 Value is defined as outcomes delivered relative to resources consumed,
 within declared scope.
@@ -70,165 +159,259 @@ Narratives, intent statements, and effort claims do not constitute value
 without verifiable delivery.
 
 Key rules:
-- Outcomes over narratives
-- Field verification matters
-- Scope discipline is enforced
+• Outcomes over narratives
+• Field verification matters
+• Scope discipline is enforced
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.4
+This is the CONTROL 06 definition of Value. CONTROL 07 SHALL NOT silently
+redefine it.
 
---------------------------------------------------
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.4
 
+==================================================
 NBBF 06.5. Opportunity Cost Is Explicit
+==================================================
 
-Every dollar requested must disclose its opportunity cost.
+Every dollar requested SHALL disclose its opportunity cost.
 
-Departments must acknowledge whether restraint could reduce national debt,
+Departments SHALL acknowledge whether restraint could reduce national debt,
 improve readiness, or outperform the proposed expenditure.
 
 Key rules:
-- Opportunity cost must be disclosed
-- Debt reduction is a valid alternative
-- Restraint is an evaluable outcome
+• Opportunity cost SHALL be disclosed
+• Debt reduction is a valid alternative
+• Restraint is an evaluable outcome
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.5
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.5
 
---------------------------------------------------
-
+==================================================
 NBBF 06.6. Sinking Fund Cost Treatment
+==================================================
 
 Sinking Fund Nodes represent preparedness options, not immediate spending.
 
 While unused, sinking funds are evaluated for opportunity cost.
 Upon activation, funds immediately convert into operational cost
-and decompose into accountable execution nodes.
+and decompose into accountable execution Nodes.
 
 Key rules:
-- Preparedness is not consumption
-- Activation triggers accountability
-- Decomposition is mandatory
+• Preparedness is not consumption
+• Activation triggers accountability
+• Decomposition is mandatory
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.6
+Sinking Fund Node ontology: CONTROL 01.
+Sinking Fund vocabulary: CONTROL 02.
 
---------------------------------------------------
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.6
 
+==================================================
 NBBF 06.7. Parked Balances and Debt Offset
+==================================================
 
-Unused sinking fund balances may be placed in a parked balance state
+Unused sinking fund balances MAY be placed in a parked balance state
 for the sole purpose of retiring national debt.
 
 Parked balances generate interest savings and are unavailable
 for activation while parked.
 
 Key rules:
-- Debt retirement only
-- No leverage, trading, or collateralization
-- Parked balances are not discretionary spending
+• Debt retirement only
+• No leverage, trading, or collateralization
+• Parked balances are not discretionary spending
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.7
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.7
 
---------------------------------------------------
-
+==================================================
 NBBF 06.8. Interest Savings Incentive
+==================================================
 
 Interest savings generated by parked balances are calculated each cycle.
 
-A defined portion of interest savings may be credited back to the originating
+A defined portion of interest savings MAY be credited back to the originating
 sinking fund to improve future preparedness, without expanding mission scope.
 
 Key rules:
-- Allocation is rule-based
-- Restraint is rewarded
-- Mission creep is prohibited
+• Allocation is rule-based
+• Restraint is rewarded
+• Mission creep is prohibited
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.8
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.8
 
---------------------------------------------------
-
+==================================================
 NBBF 06.9. Anti-Hoarding Safeguards
+==================================================
 
-Parked balances may not be rolled indefinitely.
+Parked balances SHALL NOT be rolled indefinitely.
 
 Maximum parking duration is declared at authorization.
 Continuation beyond that duration requires reauthorization.
 
 Key rules:
-- No indefinite parking
-- Reauthorization is mandatory
-- Shadow budgets are prohibited
+• No indefinite parking
+• Reauthorization is mandatory
+• Shadow budgets are prohibited
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.9
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.9
 
---------------------------------------------------
-
+==================================================
 NBBF 06.10. Comparative Cost Visibility
+==================================================
 
-All nodes publish cost-per-output and variance metrics.
+All Nodes SHALL make cost-per-output and variance metrics visible.
 
 Redundant or inefficient programs become visible by structure,
 not accusation or investigative theater.
 
 Key rules:
-- Comparable metrics are required
-- Transparency is structural
-- Redundancy is exposed automatically
+• Comparable metrics are required
+• Transparency is structural
+• Redundancy is exposed automatically
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.10
+Publication, API, and ledger mechanics: CONTROL 11.
+CONTROL 11 remains reserved and is not drafted here.
 
---------------------------------------------------
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.10
 
+==================================================
 NBBF 06.11. Executive Incentive Alignment
+==================================================
 
-Executive performance includes delivery, signal responsiveness,
+Executive performance includes delivery, Signal responsiveness,
 restraint, and effective use of parked balances.
 
 Spending less than authorized, when justified, is a positive outcome.
 
 Key rules:
-- Restraint rewarded
-- Signal quality matters
-- Waste penalized
+• Restraint rewarded
+• Signal quality matters
+• Waste penalized
 
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.11
+Signal operating rules: CONTROL 00B.
+This CONTROL does not create a competing Signal process.
 
---------------------------------------------------
-
-NBBF 06.12. Prohibited Cost Practices
-
-The following practices are prohibited under NBBF:
-- Baseline budgeting
-- End-of-cycle spending dumps
-- Cost shifting to evade scrutiny
-- Emergency claims without authorization
-
-Violations trigger review, clawback, or node termination.
-
-Key rules:
-- No baseline budgeting
-- No “use-it-or-lose-it”
-- No cost evasion
-
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.12
-
---------------------------------------------------
-
-NBBF 06.13. Cost and Value North Star
-
-Every dollar must compete.
-Every cost must defend itself.
-Every restraint must be visible.
-Every saved dollar must matter.
-
-Reference:
-https://BlueprintLiberty.com/NBBF/06#06.13
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.11
 
 ==================================================
-END NBBF 06
+NBBF 06.12. Prohibited Cost Practices
+==================================================
+
+The following practices are prohibited under NBBF:
+• Baseline budgeting
+• End-of-cycle spending dumps
+• Cost shifting to evade scrutiny
+• Emergency claims without authorization
+
+Violations SHALL trigger audit review under CONTROL 07.
+
+Detailed clawback and recovery operating mechanics: CONTROL 08.
+CONTROL 08 remains reserved and is not drafted here.
+
+Node termination and operating Exit/Disengagement: CONTROL 00D.
+
+This CONTROL does not invent CONTROL 08 or CONTROL 00D procedure.
+
+Key rules:
+• No baseline budgeting
+• No “use-it-or-lose-it”
+• No cost evasion
+
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.12
+
+==================================================
+NBBF 06.13. Cost and Value North Star
+==================================================
+
+Every dollar SHALL compete on value.
+Every cost SHALL defend itself.
+Every restraint SHALL be visible.
+Every saved dollar SHALL matter.
+
+This CONTROL is binding within the cost and value authority delegated by
+CONTROL 00.
+
+CONTROL 00 remains the system-level Root lock.
+
+INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.13
+
+==================================================
+ENFORCEMENT
+==================================================
+
+Noncompliance with this CONTROL includes:
+
+• Treating historical cost as self-authorizing
+• Baseline or habitual spending
+• Failing to disclose opportunity cost
+• Redefining Value contrary to 06.4
+• Treating this CONTROL as audit procedure, Exit procedure, or Root
+
+Noncompliance MAY be identified by:
+
+• Authorized NBBF CONTROL stewardship under CONTROL 00
+• Audit under CONTROL 07
+• Signals under CONTROL 00B
+
+Detailed audit procedure: CONTROL 07.
+This CONTROL does not create an enforcement agency, tribunal, board,
+criminal penalty schedule, or new governmental power.
+
+==================================================
+EXIT AUTHORITY
+==================================================
+
+This CONTROL does not own operating Exit/Disengagement.
+
+Where cost or value conditions affect exit eligibility or review:
+CONTROL 00D.
+
+Distinguish:
+
+A. Operational exit — CONTROL 00D.
+B. Supersession of this CONTROL document — CONTROL 00 versioned replacement.
+
+==================================================
+VERSIONING AND LINEAGE
+==================================================
+
+Revision, replacement, and supersession of this CONTROL are governed by
+CONTROL 00.
+
+Once published, this CONTROL:
+
+• SHALL NOT be edited in place
+• SHALL NOT be silently superseded
+• SHALL NOT be silently amended
+• MAY be replaced only by a higher-version CONTROL
+• SHALL preserve historical lineage
+
+This CONTROL does not establish a separate amendment process.
+
+==================================================
+OWNED CONCEPTS
+==================================================
+
+This CONTROL is the canonical authority for NBBF cost and value operating
+doctrine, including cost-as-claim, zero-base default, Value definition,
+opportunity cost, sinking-fund cost treatment, parked balances, interest
+savings incentive, anti-hoarding, comparative cost visibility, and prohibited
+cost practices.
+
+This CONTROL does not own audit procedure, Exit/Disengagement, recovery
+mechanics, Signal operating rules, or API/ledger implementation.
+
+==================================================
+CROSS REFERENCES
+==================================================
+
+00_Control — Root
+01_Node_Ontology — Node terminology and ontology
+02_Definitions_and_Terms — concise vocabulary
+00B_Signal_and_Non-Interference_Control — Signal operating rules
+00D_Exit_and_Disengagement_Control — exit and disengagement
+05_Authority_Review_and_Reauthorization_Cycle — review calendar (reserved)
+07_Audit_and_Performance_Standards — audit procedure
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
+11_Public_Transparency_API_and_Publishing — publication, API, and ledger
+  (reserved)
+
+END OF DOCUMENT

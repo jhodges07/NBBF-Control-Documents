@@ -80,6 +80,22 @@ NBBF-CWC #12 CONTROL 00C/00D EVIDENCE (recorded before live replacement)
     Role: pre-CWC-12 snapshot of live CONTROL 00D. NOT CANONICAL.
     Reason: preserve v1.0 exit doctrine before Root-alignment repair.
 
+NBBF-CWC #13 CONTROL 06/07 EVIDENCE (recorded before live replacement)
+  NOT_CANONICAL_CONTROL_06_v1.0_pre-CWC-13.txt
+    SHA1 bd9c622369348fd7d17557eced837caf62cb92ce
+    Source path: controls/06_Cost_and_Value_Model.txt
+    Source commit: a6d655a
+    Prior version: 1.0
+    Role: pre-CWC-13 snapshot of live CONTROL 06. NOT CANONICAL.
+    Reason: preserve v1.0 cost/value doctrine before Root-alignment repair.
+  NOT_CANONICAL_CONTROL_07_v1.0_pre-CWC-13.txt
+    SHA1 d379a1e0aa13e53d408b68e214217dc32aa3f331
+    Source path: controls/07_Audit_and_Performance_Standards.txt
+    Source commit: a6d655a
+    Prior version: 1.0
+    Role: pre-CWC-13 snapshot of live CONTROL 07. NOT CANONICAL.
+    Reason: preserve v1.0 audit doctrine before Root-alignment repair.
+
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
@@ -90,3 +106,5 @@ LATER COMPARISON CWC MUST USE
   CONTROL 01 v1.1 evidence: NOT_CANONICAL_CONTROL_01_v1.1_pre-CWC-11.txt
   CONTROL 00C v1.0 evidence: NOT_CANONICAL_CONTROL_00C_v1.0_pre-CWC-12.txt
   CONTROL 00D v1.0 evidence: NOT_CANONICAL_CONTROL_00D_v1.0_pre-CWC-12.txt
+  CONTROL 06 v1.0 evidence: NOT_CANONICAL_CONTROL_06_v1.0_pre-CWC-13.txt
+  CONTROL 07 v1.0 evidence: NOT_CANONICAL_CONTROL_07_v1.0_pre-CWC-13.txt

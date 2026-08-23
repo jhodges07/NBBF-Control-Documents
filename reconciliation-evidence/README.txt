@@ -78,6 +78,22 @@ NOT_CANONICAL_CONTROL_00D_v1.0_pre-CWC-12.txt
   Role: pre-CWC-12 evidence snapshot of CONTROL 00D v1.0.
   NOT CANONICAL.
 
+NOT_CANONICAL_CONTROL_06_v1.0_pre-CWC-13.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/06_Cost_and_Value_Model.txt at HEAD a6d655a
+  SHA1: bd9c622369348fd7d17557eced837caf62cb92ce
+  Prior version: 1.0
+  Role: pre-CWC-13 evidence snapshot of CONTROL 06 v1.0.
+  NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_07_v1.0_pre-CWC-13.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/07_Audit_and_Performance_Standards.txt at HEAD a6d655a
+  SHA1: d379a1e0aa13e53d408b68e214217dc32aa3f331
+  Prior version: 1.0
+  Role: pre-CWC-13 evidence snapshot of CONTROL 07 v1.0.
+  NOT CANONICAL.
+
 NOT_CANONICAL_CONTROL_12_placeholder.txt
   Source: restore-control-documents working tree
           controls/12_Public_Transparency_API_and_Digital_Republic.txt
