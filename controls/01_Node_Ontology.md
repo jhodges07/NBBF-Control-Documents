@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-01
 title: Node Ontology
 slug: node-ontology
-version: v1.2.1
+version: v1.2.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 01_Node_Ontology
 Node-Based Budget Framework (NBBF)
 
-Version: 1.2.1
+Version: 1.2.2
 Status: Authoritative Ontology Control
 Classification: Canonical
 Scope: Node types, classification, relationships, hierarchy, human ownership,
@@ -30,7 +30,8 @@ decisions 3-C, 4-C, 8-C, 10-C, 11-C, 12-C, 15-C, 16-C, 17-C, 18-C, 19-C,
 20-C, and 21-C. Historical v1.1 remains in reconciliation-evidence/ and is
 not live CONTROL authority. NBBF-CWC #24 reconciled live-status
 cross-references for CONTROLs 03, 05, 08, and 10 without changing Node
-ontology.
+ontology. NBBF-CWC #28 reconciled live-status cross-references for
+CONTROLs 04, 09, and 11 without changing Node ontology.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -412,8 +413,7 @@ Legislative Decision-Node interface mechanics: CONTROL 10.
 • Fully specified before consideration
 • Publicly visible at the appropriate clearance level
 
-Publication, API, and ledger mechanics: CONTROL 11. CONTROL 11 remains
-reserved and is not drafted here.
+Publication, API, and ledger mechanics: CONTROL 11.
 
 --------------------------------------------------
 
@@ -572,6 +572,5 @@ or jurisdiction-specific governmental structure.
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 
 END OF DOCUMENT

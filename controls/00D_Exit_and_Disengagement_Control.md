@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00d
 title: Exit and Disengagement Control
 slug: exit-and-disengagement
-version: v1.1.1
+version: v1.1.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 00D_Exit_and_Disengagement_Control
 Node-Based Budget Framework (NBBF)
 
-Version: 1.1.1
+Version: 1.1.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Exit, disengagement, authorized withdrawal, termination of
@@ -30,6 +30,8 @@ decisions 11-C, 12-C, 14-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
 Historical v1.0 remains in reconciliation-evidence/ and is not live
 CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
 for CONTROLs 03, 05, 08, and 10 without changing Exit operating doctrine.
+NBBF-CWC #28 reconciled live-status cross-references for CONTROLs 04, 09,
+and 11 without changing Exit operating doctrine.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -53,7 +55,7 @@ This CONTROL SHALL NOT:
 • Absorb Node ontology from CONTROL 01
 • Absorb Signal operating rules from CONTROL 00B
 • Invent recovery/clawback mechanics owned by CONTROL 08
-• Invent API, ledger, or publication mechanics reserved to CONTROL 11
+• Invent API, ledger, or publication mechanics owned by CONTROL 11
 
 Property-rights and pooling operating doctrine: CONTROL 00C.
 
@@ -312,6 +314,5 @@ API/ledger implementation.
 07_Audit_and_Performance_Standards — audit procedure
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 
 END OF DOCUMENT

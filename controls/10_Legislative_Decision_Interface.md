@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-10
 title: Legislative Decision Interface
 slug: legislative-decision-interface
-version: v1.0.0
+version: v1.0.1
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 10_Legislative_Decision_Interface
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.0
+Version: 1.0.1
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Interface between NBBF and lawful legislative or equivalent
@@ -28,7 +28,9 @@ Lineage:
 This CONTROL is the Human Engineer-authorized first canonical draft of
 CONTROL 10, executed under NBBF-CWC #23 pursuant to NBBF-CWC #16 foundation
 certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
-NBBF-CWC #19 Root reserved-home recognition. Metadata describes authority.
+NBBF-CWC #19 Root reserved-home recognition. NBBF-CWC #28 reconciled
+live-status cross-references for CONTROLs 04, 09, and 11 without changing
+Decision-Node interface doctrine. Metadata describes authority.
 Metadata does not independently create authority.
 
 ==================================================
@@ -69,7 +71,7 @@ This CONTROL SHALL NOT:
 • Absorb audit procedure from CONTROL 07
 • Absorb recovery or clawback mechanics from CONTROL 08
 • Invent API, ledger, blockchain, identity, database, or publication
-  mechanics reserved to CONTROL 11
+  mechanics owned by CONTROL 11
 • Invent Competitive Node Procurement mechanics reserved to CONTROL 12
 • Create NBEF or education-domain operating rules
 • Convert software into governmental authority
@@ -186,8 +188,7 @@ identifying at minimum:
 • Resulting disposition
 
 This CONTROL does not create API schemas, endpoints, or publication
-protocols. Digital representation and publication mechanics: CONTROL 11,
-reserved.
+protocols. Digital representation and publication mechanics: CONTROL 11.
 
 ==================================================
 5. ATTRIBUTABLE HUMAN DECISION
@@ -324,7 +325,7 @@ Close is not erase.
 Compatible principle: CONTROL 00B CLOSE DOES NOT MEAN ERASE. This CONTROL
 does not duplicate Signal-close operating doctrine.
 
-Ledger, API, and publication mechanics: CONTROL 11, reserved.
+Ledger, API, and publication mechanics: CONTROL 11.
 
 ==================================================
 12. TAXPAYER VISIBILITY
@@ -337,8 +338,8 @@ permitted by constitutional or statutory authority.
 This is a governance requirement.
 
 CONTROL 11 owns API, publication, ledger, digital-identity, and
-Republican Digital Twin implementation mechanics. Those mechanics are
-reserved and are not drafted here.
+Republican Digital Twin implementation mechanics. This CONTROL does
+not draft those mechanics.
 
 ==================================================
 13. CITIZEN TELEMETRY
@@ -361,7 +362,7 @@ not surveillance of private citizens.
 This CONTROL SHALL NOT authorize disclosure of protected personal
 information.
 
-Implementation: CONTROL 11, reserved.
+Implementation: CONTROL 11.
 
 ==================================================
 14. REPUBLICAN DIGITAL TWIN
@@ -377,7 +378,7 @@ It SHALL NOT become the decision-maker.
 Digital representation SHALL NOT replace elected representatives, lawful
 officials, constitutional institutions, or accountable human authority.
 
-Implementation: CONTROL 11, reserved.
+Implementation: CONTROL 11.
 
 ==================================================
 15. SIGNAL BOUNDARY
@@ -568,15 +569,15 @@ or NBEF.
 01_Node_Ontology — Decision Node ontology
 02_Definitions_and_Terms — concise vocabulary
 03_Republican_Government_Model — republican application
-04_System_Structure_Model — system composition (reserved)
+04_System_Structure_Model — system composition
 05_Authority_Review_and_Reauthorization_Cycle — review calendar and
   reauthorization clock
 06_Cost_and_Value_Model — Cost and Value inputs
 07_Audit_and_Performance_Standards — audit/performance findings
 08_Exit_Clawback_and_Recovery_Rules — recovery mechanics
-09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
+09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 11_Public_Transparency_API_and_Publishing — publication, API, ledger, and
-  Digital Twin implementation (reserved)
+  Digital Twin implementation
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
 
 END OF DOCUMENT

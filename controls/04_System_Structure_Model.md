@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-04
 title: System Structure Model
 slug: system-structure-model
-version: v1.0.0
+version: v1.0.1
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 04_System_Structure_Model
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.0
+Version: 1.0.1
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: System-level composition of authorized NBBF Nodes into coherent
@@ -29,7 +29,9 @@ Lineage:
 This CONTROL is the Human Engineer-authorized first canonical draft of
 CONTROL 04, executed under NBBF-CWC #25 pursuant to NBBF-CWC #16 foundation
 certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
-NBBF-CWC #19 Root reserved-home recognition. Metadata describes authority.
+NBBF-CWC #19 Root reserved-home recognition. NBBF-CWC #28 reconciled
+live-status cross-references for CONTROLs 09 and 11 without changing
+system-composition doctrine. Metadata describes authority.
 Metadata does not independently create authority.
 
 ==================================================
@@ -70,10 +72,10 @@ This CONTROL SHALL NOT:
 • Absorb cost/value doctrine from CONTROL 06
 • Absorb audit procedure or findings ownership from CONTROL 07
 • Absorb recovery or clawback mechanics from CONTROL 08
-• Draft Legacy/Sealed operating rules reserved to CONTROL 09
+• Absorb Legacy/Sealed operating rules from CONTROL 09
 • Absorb Legislative Decision-Node interface mechanics from CONTROL 10
 • Invent API, ledger, blockchain, identity, database, endpoint, schema,
-  mobile-application, or publication mechanics reserved to CONTROL 11
+  mobile-application, or publication mechanics owned by CONTROL 11
 • Invent Competitive Node Procurement mechanics reserved to CONTROL 12
 • Create NBEF, education governance, curriculum, student rules, teacher
   rules, school-choice doctrine, or an NBEF CONTROL
@@ -521,10 +523,9 @@ authorization.
 15. LEGACY AND SEALED STRUCTURES
 ==================================================
 
-CONTROL 09 — Legacy and Sealed Nodes remains RESERVED and undrafted.
+CONTROL 09 — Legacy and Sealed Nodes.
 
-Specialized structures MAY later require treatment under CONTROL 09 once
-that CONTROL is authorized.
+Specialized structures MAY require treatment under CONTROL 09.
 
 This CONTROL MAY acknowledge that a participating Node is a Legacy Node
 as already classified by CONTROL 01, or that classification or sealing
@@ -573,8 +574,8 @@ This CONTROL SHALL NOT define:
 
 Those implementation mechanics remain CONTROL 11.
 
-CONTROL 11 — Public Transparency API and Publishing remains RESERVED
-and empty. This CONTROL does not draft CONTROL 11.
+CONTROL 11 — Public Transparency API and Publishing.
+This CONTROL does not draft CONTROL 11.
 
 CDT, UNBKE, and related implementations remain independent. They MAY
 represent this model. They SHALL NOT become this CONTROL.
@@ -816,10 +817,9 @@ Competitive Node Procurement, or NBEF.
 06_Cost_and_Value_Model — cost and value
 07_Audit_and_Performance_Standards — audit procedure and findings
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
-09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
+09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
 
 END OF DOCUMENT

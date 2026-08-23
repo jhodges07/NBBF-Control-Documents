@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-02
 title: Definitions and Terms
 slug: definitions-and-terms
-version: v1.2.1
+version: v1.2.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 02_Definitions_and_Terms
 Node-Based Budget Framework (NBBF)
 
-Version: 1.2.1
+Version: 1.2.2
 Status: Authoritative Vocabulary Control
 Classification: Canonical
 Scope: Concise NBBF vocabulary and controlled terminology.
@@ -28,6 +28,8 @@ decisions 1-C, 2-C, 3-C, 5-C, 8-C, 9-C, 15-C, 16-C, 17-C, 18-C, 20-C,
 and 21-C. Historical v1.1 remains in reconciliation-evidence/ and is not
 live CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
 for CONTROLs 03, 05, 08, and 10 without changing vocabulary doctrine.
+NBBF-CWC #28 reconciled live-status cross-references for CONTROLs 04, 09,
+and 11 without changing vocabulary doctrine.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -387,8 +389,7 @@ recoverable failure: CONTROL 00D / CONTROL 07 / CONTROL 08 as applicable.
 Taxpayer — Root pillar; property/pooling operating doctrine: CONTROL 00C.
 Authority — Root; this CONTROL does not own system authority.
 Executor / Guardian — CONTROL 00.
-Publication / API / ledger — CONTROL 11. CONTROL 11 remains reserved and
-is not drafted here.
+Publication / API / ledger — CONTROL 11.
 
 ==================================================
 10. ENFORCEMENT
@@ -488,6 +489,5 @@ operating rules, jurisdiction structures, or specialized operating mechanics.
 07_Audit_and_Performance_Standards — audit procedure
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 
 END OF DOCUMENT

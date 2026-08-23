@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00c
 title: Property Rights and Pooling Control
 slug: property-rights-and-pooling
-version: v1.1.1
+version: v1.1.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 00C_Property_Rights_and_Pooling_Control
 Node-Based Budget Framework (NBBF)
 
-Version: 1.1.1
+Version: 1.1.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Property rights, pooling operating doctrine, pooling limitations,
@@ -30,6 +30,8 @@ decisions 11-C, 12-C, 14-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
 Historical v1.0 remains in reconciliation-evidence/ and is not live
 CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
 for CONTROLs 03, 05, 08, and 10 without changing pooling operating doctrine.
+NBBF-CWC #28 reconciled live-status cross-references for CONTROLs 04, 09,
+and 11 without changing pooling operating doctrine.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -54,7 +56,7 @@ This CONTROL SHALL NOT:
 • Duplicate Exit/Disengagement operating procedure from CONTROL 00D
 • Absorb audit procedure from CONTROL 07
 • Invent recovery/clawback mechanics owned by CONTROL 08
-• Invent API, ledger, or publication mechanics reserved to CONTROL 11
+• Invent API, ledger, or publication mechanics owned by CONTROL 11
 
 CONTROL 00 remains the NBBF Root lock.
 
@@ -159,7 +161,6 @@ Records of pooled property SHALL be preserved, traceable, reviewable, and
 transparent where supported by this doctrine.
 
 Detailed API, publication, and ledger mechanics: CONTROL 11.
-CONTROL 11 remains reserved and is not drafted here.
 This CONTROL does not invent API schemas, blockchain architecture, ledger
 implementation, publication protocols, or digital identity systems.
 
@@ -306,6 +307,5 @@ API/ledger implementation.
 07_Audit_and_Performance_Standards — audit procedure
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 
 END OF DOCUMENT

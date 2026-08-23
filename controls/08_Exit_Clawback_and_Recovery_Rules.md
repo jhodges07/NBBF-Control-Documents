@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-08
 title: Exit, Clawback, and Recovery Rules
 slug: exit-clawback-and-recovery-rules
-version: v1.0.1
+version: v1.0.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 08_Exit_Clawback_and_Recovery_Rules
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.1
+Version: 1.0.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Recovery and clawback operating doctrine for taxpayer and other
@@ -30,7 +30,9 @@ certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
 NBBF-CWC #19 Root reserved-home recognition. The filename retains historical
 “Exit” wording. Operating Exit and Disengagement remain CONTROL 00D.
 NBBF-CWC #24 reconciled live-status cross-references for CONTROLs 03, 05,
-and 10 without changing recovery operating doctrine. Metadata describes
+and 10 without changing recovery operating doctrine. NBBF-CWC #28
+reconciled live-status cross-references for CONTROLs 04, 09, and 11
+without changing recovery operating doctrine. Metadata describes
 authority. Metadata does not independently create
 authority.
 
@@ -68,10 +70,10 @@ This CONTROL SHALL NOT:
 • Absorb review-calendar mechanics from CONTROL 05
 • Redefine CONTROL 06 Cost or Value
 • Absorb audit procedure or findings ownership from CONTROL 07
-• Draft Legacy/Sealed operating rules reserved to CONTROL 09
+• Absorb Legacy/Sealed operating rules from CONTROL 09
 • Absorb Legislative Decision-Node interface mechanics from CONTROL 10
 • Invent API, ledger, blockchain, identity, database, or publication
-  mechanics reserved to CONTROL 11
+  mechanics owned by CONTROL 11
 • Invent Competitive Node Procurement mechanics reserved to CONTROL 12
 • Create NBEF or education doctrine
 
@@ -489,7 +491,6 @@ permitted by law and appropriate privacy or security limitations.
 
 API, schema, ledger, blockchain, digital-identity, database-design,
 publication-protocol, and mobile-application mechanics: CONTROL 11.
-CONTROL 11 remains reserved and is not drafted here.
 
 This CONTROL establishes information and accountability requirements. It
 does not create technical implementation.
@@ -612,14 +613,13 @@ interface, API or ledger mechanics, Competitive Node Procurement, or NBEF.
 02_Definitions_and_Terms — concise vocabulary
 03_Republican_Government_Model — republican application; human
   accountability in government
-04_System_Structure_Model — system composition (reserved)
+04_System_Structure_Model — system composition
 05_Authority_Review_and_Reauthorization_Cycle — review calendar
 06_Cost_and_Value_Model — Cost and Value
 07_Audit_and_Performance_Standards — audit procedure and findings
-09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
+09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
 
 END OF DOCUMENT

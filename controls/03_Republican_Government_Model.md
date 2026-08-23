@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-03
 title: Republican Government Model
 slug: republican-government-model
-version: v1.0.1
+version: v1.0.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 03_Republican_Government_Model
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.1
+Version: 1.0.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Republican-government application of NBBF to taxpayer-funded
@@ -31,7 +31,9 @@ certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
 NBBF-CWC #19 Root reserved-home recognition. It is not a Kansas-specific
 implementation document. NBBF-CWC #24 reconciled live-status
 cross-references for CONTROLs 05, 08, and 10 without changing republican
-operating doctrine. Metadata describes authority. Metadata does not
+operating doctrine. NBBF-CWC #28 reconciled live-status cross-references
+for CONTROLs 04, 09, and 11 without changing republican operating doctrine.
+Metadata describes authority. Metadata does not
 independently create authority.
 
 ==================================================
@@ -59,12 +61,12 @@ This CONTROL SHALL NOT:
 • Absorb Exit/Disengagement operating doctrine from CONTROL 00D
 • Absorb cost/value doctrine from CONTROL 06
 • Absorb audit procedure from CONTROL 07
-• Draft system-composition mechanics reserved to CONTROL 04
+• Absorb system-composition mechanics from CONTROL 04
 • Absorb review-calendar mechanics from CONTROL 05
 • Absorb recovery/clawback mechanics from CONTROL 08
-• Draft Legacy/Sealed operating rules reserved to CONTROL 09
+• Absorb Legacy/Sealed operating rules from CONTROL 09
 • Absorb Legislative Decision-Node interface mechanics from CONTROL 10
-• Invent API, ledger, or publication mechanics reserved to CONTROL 11
+• Invent API, ledger, or publication mechanics owned by CONTROL 11
 • Invent Competitive Node Procurement mechanics reserved to CONTROL 12
 • Create NBEF, education governance, or an NBEF CONTROL
 
@@ -279,8 +281,7 @@ Transparency is infrastructure of republican accountability. It is not
 optional ornament.
 
 Detailed API, ledger, identity, database, publication-protocol, and
-digital-transparency mechanics: CONTROL 11. CONTROL 11 remains reserved
-and is not drafted here.
+digital-transparency mechanics: CONTROL 11.
 
 This CONTROL does not create those mechanics.
 
@@ -301,7 +302,7 @@ blockchain, mobile applications, or publication protocols.
 Signal operating rules, including non-interference and evidence
 preservation: CONTROL 00B.
 
-Publication, API, and ledger mechanics: CONTROL 11, reserved.
+Publication, API, and ledger mechanics: CONTROL 11.
 
 ==================================================
 11. REPUBLICAN DIGITAL TWIN
@@ -321,7 +322,7 @@ CONTROL 00 states that CDT, UNBKE, artificial intelligence, APIs, ledgers,
 runtimes, or other digital implementations SHALL NOT replace human
 accountability, lawful human judgment, or constitutional authority.
 
-Digital representation mechanics: CONTROL 11, reserved.
+Digital representation mechanics: CONTROL 11.
 
 ==================================================
 12. LOCAL CONTROL
@@ -356,7 +357,7 @@ delegation path is not legitimate NBBF governmental operating authority.
 
 Classification or sealing may restrict visibility. It SHALL NOT eliminate
 accountability. Classified Signal rules: CONTROL 00B. Sealed-Node operating
-rules: CONTROL 09, reserved. Exit of sealed or classified Nodes: CONTROL 00D.
+rules: CONTROL 09. Exit of sealed or classified Nodes: CONTROL 00D.
 
 ==================================================
 14. TRACEABILITY
@@ -379,7 +380,6 @@ This CONTROL requires that the path be applicable and attributable within
 a republican jurisdiction. It does not redefine Node types.
 
 System-level composition of Nodes into larger operating systems: CONTROL 04.
-CONTROL 04 remains reserved and is not drafted here.
 This CONTROL SHALL NOT become a second System Structure Model.
 
 ==================================================
@@ -497,15 +497,14 @@ ledger mechanics, Competitive Node Procurement, or NBEF.
 00D_Exit_and_Disengagement_Control — exit and disengagement
 01_Node_Ontology — Node ontology; Human Owner; Decision Node
 02_Definitions_and_Terms — concise vocabulary
-04_System_Structure_Model — system composition (reserved)
+04_System_Structure_Model — system composition
 05_Authority_Review_and_Reauthorization_Cycle — review calendar
 06_Cost_and_Value_Model — cost and value
 07_Audit_and_Performance_Standards — audit procedure
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
-09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
+09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
 
 END OF DOCUMENT

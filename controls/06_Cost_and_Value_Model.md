@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-06
 title: Cost and Value Model
 slug: cost-and-value-model
-version: v1.1.1
+version: v1.1.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 NBBF 06 — Cost and Value Model
 Node-Based Budget Framework (NBBF)
 
-Version: 1.1.1
+Version: 1.1.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Cost definition, value measurement, incentive alignment, and capital
@@ -29,6 +29,8 @@ decisions 6-C, 7-C, 13-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
 Historical v1.0 remains in reconciliation-evidence/ and is not live
 CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
 for CONTROLs 03, 05, 08, and 10 without changing Cost/Value doctrine.
+NBBF-CWC #28 reconciled live-status cross-references for CONTROLs 04, 09,
+and 11 without changing Cost/Value doctrine.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -53,7 +55,7 @@ This CONTROL SHALL NOT:
 • Absorb Exit/Disengagement mechanics from CONTROL 00D
 • Absorb audit procedure from CONTROL 07
 • Invent recovery/clawback mechanics owned by CONTROL 08
-• Invent API, ledger, or publication mechanics reserved to CONTROL 11
+• Invent API, ledger, or publication mechanics owned by CONTROL 11
 
 CONTROL 00 remains the NBBF Root lock.
 
@@ -269,7 +271,6 @@ Key rules:
 • Redundancy is exposed automatically
 
 Publication, API, and ledger mechanics: CONTROL 11.
-CONTROL 11 remains reserved and is not drafted here.
 
 INFORMATIVE: https://BlueprintLiberty.com/NBBF/06#06.10
 
@@ -412,6 +413,5 @@ CROSS REFERENCES
 07_Audit_and_Performance_Standards — audit procedure
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 
 END OF DOCUMENT

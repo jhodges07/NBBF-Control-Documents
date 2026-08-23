@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00
 title: NBBF Root Control Document
 slug: nbbf-root-control
-version: v2.1.0
+version: v2.1.1
 status: root
 framework: NBBF
 source_repo: NBBF-Control-Documents
@@ -15,7 +15,7 @@ supersedes: null
 NBBF ROOT CONTROL DOCUMENT
 Node-Based Budget Framework (NBBF)
 
-Version: 2.1.0
+Version: 2.1.1
 Status: Root Authority Control
 Classification: Root
 Scope: Supreme NBBF authority, constitutional-engineering purpose, governing
@@ -30,7 +30,8 @@ reserved CONTROL 12 identity for Competitive Node Procurement, and a
 domain-framework boundary, without drafting those CONTROLs or creating NBEF.
 Historical v2.0.0 remains in reconciliation-evidence/ and is not live CONTROL
 authority. Source evidence remains in reconciliation-evidence/ and is not live
-CONTROL authority.
+CONTROL authority. NBBF-CWC #28 reconciled live-status of CONTROLs 04, 09,
+and 11 without changing Root operating doctrine.
 
 ==================================================
 GOVERNING AUTHORITY
@@ -210,9 +211,9 @@ Canonical CONTROLs SHALL declare:
 • Enforcement authority
 • Exit authority
 
-Reserved canonical homes identified by this Root include:
+The following CONTROL homes are identified by this Root:
 
-CONTROL 04 — System Structure Model (RESERVED; currently empty).
+CONTROL 04 — System Structure Model.
 CONTROL 04 owns system-level structural composition that is not Node
 ontology: how Nodes are composed into larger operating systems.
 CONTROL 01 remains the authoritative home for Node ontology, Node types,
@@ -221,7 +222,7 @@ terminology, and Node lifecycle ontology.
 CONTROL 04 SHALL NOT become a second Node Ontology CONTROL.
 This Root does not draft CONTROL 04.
 
-CONTROL 09 — Legacy and Sealed Nodes (RESERVED; currently empty).
+CONTROL 09 — Legacy and Sealed Nodes.
 CONTROL 09 owns specialized operating doctrine for legacy and sealed Node
 conditions where such doctrine is not already owned by CONTROL 01,
 CONTROL 00B, CONTROL 00D, CONTROL 07, or another specialized CONTROL.
@@ -448,12 +449,12 @@ This CONTROL does not own subordinate operating mechanics.
 01_Node_Ontology — node ownership and ontology
 02_Definitions_and_Terms — vocabulary
 03_Republican_Government_Model — jurisdiction structures
-04_System_Structure_Model — system composition (reserved)
+04_System_Structure_Model — system composition
 05_Authority_Review_and_Reauthorization_Cycle — review calendar
 06_Cost_and_Value_Model — cost and value mechanics
 07_Audit_and_Performance_Standards — audit procedure
 08_Exit_Clawback_and_Recovery_Rules — operational recovery
-09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
+09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)

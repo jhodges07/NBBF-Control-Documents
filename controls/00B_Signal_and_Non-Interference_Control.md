@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-00b
 title: Signal and Non-Interference Control
 slug: signal-and-non-interference
-version: v2.1.2
+version: v2.1.3
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -18,7 +18,7 @@ supersedes: null
 
 Node-Based Budget Framework (NBBF)
 
-Version: 2.1.2
+Version: 2.1.3
 Status: Authoritative Control Document
 Classification: Foundational
 Scope: System-wide signaling, reporting rights, signal integrity, evidence preservation, signal lifecycle, and non-interference operating rules.
@@ -32,6 +32,8 @@ and conceptual-home xrefs with Root 00 without rewriting Signal operating
 doctrine. Historical sources remain in reconciliation-evidence/ and are not
 live CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
 for CONTROLs 03, 05, 08, and 10 without changing Signal operating doctrine.
+NBBF-CWC #28 reconciled live-status cross-references for CONTROLs 04, 09,
+and 11 without changing Signal operating doctrine.
 Metadata describes authority. Metadata does not independently create
 authority.
 
@@ -455,6 +457,5 @@ CROSS REFERENCES
 08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 
 END OF DOCUMENT

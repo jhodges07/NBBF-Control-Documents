@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-05
 title: Authority Review and Reauthorization Cycle
 slug: authority-review-and-reauthorization-cycle
-version: v1.0.1
+version: v1.0.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 05_Authority_Review_and_Reauthorization_Cycle
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.1
+Version: 1.0.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Review cadence, review-due dates, periodic authority review,
@@ -30,7 +30,9 @@ CONTROL 05, executed under NBBF-CWC #22 pursuant to NBBF-CWC #16 foundation
 certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release, and
 NBBF-CWC #19 Root reserved-home recognition. NBBF-CWC #24 reconciled
 live-status cross-references for CONTROL 10 without changing review-cycle
-operating doctrine. Metadata describes authority.
+operating doctrine. NBBF-CWC #28 reconciled live-status cross-references
+for CONTROLs 04, 09, and 11 without changing review-cycle operating
+doctrine. Metadata describes authority.
 Metadata does not independently create authority.
 
 ==================================================
@@ -61,7 +63,7 @@ This CONTROL SHALL NOT:
 • Absorb recovery or clawback mechanics from CONTROL 08
 • Absorb Legislative Decision-Node interface mechanics from CONTROL 10
 • Invent API, ledger, blockchain, identity, database, or publication
-  mechanics reserved to CONTROL 11
+  mechanics owned by CONTROL 11
 • Invent Competitive Node Procurement mechanics reserved to CONTROL 12
 • Create NBEF or education-domain operating rules
 • Invent an agency, board, tribunal, criminal penalty, or enforcement office
@@ -176,8 +178,7 @@ A review is overdue when the review-due date has passed without
 documented disposition.
 
 This CONTROL does not invent software, APIs, endpoints, schemas, or
-publication protocols. Machine and publication mechanics: CONTROL 11,
-reserved.
+publication protocols. Machine and publication mechanics: CONTROL 11.
 
 ==================================================
 4. MISSED REVIEW
@@ -304,8 +305,8 @@ telemetry, visualization, recording, or publication.
 
 They SHALL NOT replace lawful human accountability or create authority.
 
-Implementation of publication, API, and ledger mechanics: CONTROL 11,
-reserved. This CONTROL does not draft those mechanics.
+Implementation of publication, API, and ledger mechanics: CONTROL 11.
+This CONTROL does not draft those mechanics.
 
 ==================================================
 9. CLASSIFIED AND RESTRICTED MATTERS
@@ -346,7 +347,7 @@ Close is not erase.
 Compatible principle: CONTROL 00B CLOSE DOES NOT MEAN ERASE. This CONTROL
 does not duplicate Signal-close operating doctrine.
 
-Ledger, API, and publication mechanics: CONTROL 11, reserved.
+Ledger, API, and publication mechanics: CONTROL 11.
 
 ==================================================
 11. TAXPAYER VISIBILITY
@@ -356,7 +357,7 @@ Review status and lawful review outcomes SHOULD be visible to taxpayers
 to the maximum extent permitted by constitutional or statutory authority.
 
 Publication, API, ledger, blockchain, database, identity, and
-mobile-application mechanics: CONTROL 11, reserved.
+mobile-application mechanics: CONTROL 11.
 
 This CONTROL states the governance principle. It does not create
 endpoints, schemas, or publication protocols.
@@ -518,14 +519,13 @@ mechanics, Competitive Node Procurement, or NBEF.
 01_Node_Ontology — Node ontology; Human Owner
 02_Definitions_and_Terms — concise vocabulary
 03_Republican_Government_Model — republican application
-04_System_Structure_Model — system composition (reserved)
+04_System_Structure_Model — system composition
 06_Cost_and_Value_Model — Cost and Value inputs
 07_Audit_and_Performance_Standards — audit/performance findings
 08_Exit_Clawback_and_Recovery_Rules — recovery review
-09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules (reserved)
+09_Legacy_and_Sealed_Nodes — legacy and sealed operating rules
 10_Legislative_Decision_Interface — Decision-Node interface
 11_Public_Transparency_API_and_Publishing — publication, API, and ledger
-  (reserved)
 CONTROL 12 — Competitive Node Procurement (reserved; undrafted; no live file)
 
 END OF DOCUMENT
