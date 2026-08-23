@@ -3,7 +3,7 @@ publish_scope: canonical
 doc_id: nbbf-11
 title: Public Transparency API and Publishing
 slug: public-transparency-api-and-publishing
-version: v1.0.1
+version: v1.0.2
 status: canonical
 framework: NBBF
 parent: nbbf-00
@@ -16,7 +16,7 @@ supersedes: null
 11_Public_Transparency_API_and_Publishing
 Node-Based Budget Framework (NBBF)
 
-Version: 1.0.1
+Version: 1.0.2
 Status: Authoritative Control Document
 Classification: Canonical
 Scope: Public transparency representation and publication of NBBF
@@ -32,7 +32,9 @@ certification, NBBF-CWC #17 Decision 6 partial empty-CONTROL release,
 NBBF-CWC #19 Root reserved-home recognition, NBBF-CWC #25 establishment of
 CONTROL 04, and NBBF-CWC #26 establishment of CONTROL 09. NBBF-CWC #30
 reconciled live-status cross-references for CONTROL 12 without changing
-publication and Public Transparency API doctrine. Metadata
+publication and Public Transparency API doctrine. NBBF-CWC #33 issued a
+non-doctrinal patch replacement correcting CONTROL 11's stale internal
+version self-identification. Metadata
 describes authority. Metadata does not independently create authority.
 
 ==================================================
@@ -186,7 +188,7 @@ not silently erase prior public states.
 Ledger does not mean a blockchain, distributed-ledger product, token,
 consensus protocol, or specific database.
 
-This CONTROL v1.0.0 is implementation-neutral.
+This CONTROL v1.0.2 is implementation-neutral.
 
 This CONTROL SHALL NOT mandate:
 
