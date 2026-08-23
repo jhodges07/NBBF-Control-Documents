@@ -64,6 +64,22 @@ NBBF-CWC #11 CONTROL 01 EVIDENCE (recorded before live 01 replacement)
     Role: pre-CWC-11 snapshot of live CONTROL 01 v1.1. NOT CANONICAL.
     Reason: preserve v1.1 ontology body before Root-alignment repair.
 
+NBBF-CWC #12 CONTROL 00C/00D EVIDENCE (recorded before live replacement)
+  NOT_CANONICAL_CONTROL_00C_v1.0_pre-CWC-12.txt
+    SHA1 32242d877200c2376472f7982b6a20da5822ed18
+    Source path: controls/00C_Property_Rights_and_Pooling_Control.txt
+    Source commit: 10fd0a7
+    Prior version: 1.0 / YAML v1.0-control-baseline
+    Role: pre-CWC-12 snapshot of live CONTROL 00C. NOT CANONICAL.
+    Reason: preserve v1.0 pooling doctrine before Root-alignment repair.
+  NOT_CANONICAL_CONTROL_00D_v1.0_pre-CWC-12.txt
+    SHA1 b6539cb297dfca44323bb078397adc9221292b56
+    Source path: controls/00D_Exit_and_Disengagement_Control.txt
+    Source commit: 10fd0a7
+    Prior version: 1.0
+    Role: pre-CWC-12 snapshot of live CONTROL 00D. NOT CANONICAL.
+    Reason: preserve v1.0 exit doctrine before Root-alignment repair.
+
 LATER COMPARISON CWC MUST USE
   Signal v1.0 evidence: NOT_CANONICAL_Signal_v1.0_from_HEAD_00.txt
   Signal v2.1 evidence: NOT_CANONICAL_Signal_v2.1_from_restore_08.txt
@@ -72,3 +88,5 @@ LATER COMPARISON CWC MUST USE
   Root v2.0 evidence:   NOT_CANONICAL_Root_v2.0.txt
   CONTROL 02 v1.1 evidence: NOT_CANONICAL_CONTROL_02_v1.1_pre-CWC-10.txt
   CONTROL 01 v1.1 evidence: NOT_CANONICAL_CONTROL_01_v1.1_pre-CWC-11.txt
+  CONTROL 00C v1.0 evidence: NOT_CANONICAL_CONTROL_00C_v1.0_pre-CWC-12.txt
+  CONTROL 00D v1.0 evidence: NOT_CANONICAL_CONTROL_00D_v1.0_pre-CWC-12.txt

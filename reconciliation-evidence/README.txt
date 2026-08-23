@@ -62,6 +62,22 @@ NOT_CANONICAL_CONTROL_01_v1.1_pre-CWC-11.txt
   NOT CANONICAL. Must not replace live controls/01_Node_Ontology.txt.
   After CWC #11, live 01 is the Root-aligned Node Ontology CONTROL.
 
+NOT_CANONICAL_CONTROL_00C_v1.0_pre-CWC-12.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/00C_Property_Rights_and_Pooling_Control.txt at HEAD 10fd0a7
+  SHA1: 32242d877200c2376472f7982b6a20da5822ed18
+  Prior version: 1.0 / YAML v1.0-control-baseline
+  Role: pre-CWC-12 evidence snapshot of CONTROL 00C v1.0.
+  NOT CANONICAL.
+
+NOT_CANONICAL_CONTROL_00D_v1.0_pre-CWC-12.txt
+  Source: nbbf-control-tree-reconciliation live
+          controls/00D_Exit_and_Disengagement_Control.txt at HEAD 10fd0a7
+  SHA1: b6539cb297dfca44323bb078397adc9221292b56
+  Prior version: 1.0
+  Role: pre-CWC-12 evidence snapshot of CONTROL 00D v1.0.
+  NOT CANONICAL.
+
 NOT_CANONICAL_CONTROL_12_placeholder.txt
   Source: restore-control-documents working tree
           controls/12_Public_Transparency_API_and_Digital_Republic.txt
