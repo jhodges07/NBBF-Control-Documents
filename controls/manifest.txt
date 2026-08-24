@@ -13,6 +13,7 @@
 09_Legacy_and_Sealed_Nodes.md
 10_Legislative_Decision_Interface.md
 11_Public_Transparency_API_and_Publishing.md
+12_Competitive_Node_Procurement.md
 99_Publication_and_Social_Format_Guide.txt
 AI_Post_Prep_Prompt.txt
 AI_TreeView_Doc_Prompt.txt
