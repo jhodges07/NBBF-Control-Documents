@@ -1,0 +1,335 @@
+00_Control
+
+Node-Based Budget Framework (NBBF)
+
+Version: 2.0
+Status: Root Control Document
+Classification: Foundational
+Scope: Identity, authority, governing principles, interpretation, hierarchy, and foundational engineering requirements of the Node-Based Budget Framework.
+
+==================================================
+GOVERNING AUTHORITY
+==================================================
+
+This document is the Root Control of the Node-Based Budget Framework (NBBF).
+
+All normative NBBF documents derive their authority from this document.
+
+Where conflict exists between NBBF documents, this document prevails unless
+explicitly amended through the NBBF amendment process.
+
+This document establishes the constitutional engineering principles,
+structural constraints, interpretation rules, and specification hierarchy
+governing every component of the Node-Based Budget Framework.
+
+==================================================
+1. PURPOSE
+==================================================
+
+The purpose of the Node-Based Budget Framework is to engineer lawful
+republican government so that public authority remains:
+
+• Constitutional
+• Human accountable
+• Measurable
+• Transparent
+• Auditable
+• Reviewable
+• Recoverable
+• Continuously aligned with taxpayer interests
+
+NBBF exists to preserve accountability from legislative authorization to
+the lowest human exercising operational judgment.
+
+==================================================
+2. WHAT NBBF IS
+==================================================
+
+The Node-Based Budget Framework is a constitutional engineering
+specification.
+
+It defines how lawful republican governments organize, authorize,
+execute, measure, review, audit, and terminate public authority.
+
+NBBF is jurisdiction-neutral.
+
+The same engineering principles apply to:
+
+• National government
+• State government
+• County government
+• Municipal government
+• Township government
+• School districts
+• Special districts
+• Any other lawful republican governing body
+
+==================================================
+3. WHAT NBBF IS NOT
+==================================================
+
+NBBF is not:
+
+• A political party
+• A legislative proposal
+• A budget
+• A software application
+• An accounting system
+• A campaign platform
+• A replacement for constitutional government
+
+NBBF is an engineering specification.
+
+==================================================
+4. RELATIONSHIP TO OTHER STANDARDS
+==================================================
+
+NBBF is designed to complement related specifications.
+
+AGCL establishes constitutional philosophy, taxpayer property rights,
+authority limitations, monetary principles, and liberty-centered
+governance.
+
+NBBF establishes the engineering specification for organizing and
+operating republican government.
+
+The Constitutional Digital Twin (CDT) digitally represents NBBF
+structures.
+
+UNBKE provides knowledge engineering, evidence management,
+traceability, and runtime knowledge support.
+
+These standards remain independent while operating together.
+
+==================================================
+5. ENGINEERING AXIOMS
+==================================================
+
+The following axioms govern every normative NBBF document.
+
+AXIOM 1
+
+Reality disciplines authority.
+
+AXIOM 2
+
+Every lawful level of government functions as a republic.
+
+AXIOM 3
+
+Drift is the first enemy of liberty.
+
+AXIOM 4
+
+Authority exists to accomplish a defined public purpose.
+
+AXIOM 5
+
+Every exercise of public authority shall terminate in an identifiable
+human owner capable of reasonably understanding, supervising,
+defending, and answering for that responsibility.
+
+Authority shall recursively decompose until reaching the lowest human
+capable of directly exercising operational judgment.
+
+AXIOM 6
+
+Every human owner serves as both executor and guardian of public trust.
+
+AXIOM 7
+
+Failure shall become visible while still small enough to correct.
+
+AXIOM 8
+
+Structure precedes measurement.
+
+Measurement precedes management.
+
+AXIOM 9
+
+Knowledge is distributed.
+
+NBBF preserves lawful authority while allowing operational knowledge
+to travel upward through protected signals.
+
+AXIOM 10
+
+Structure is superior to personalities.
+
+AXIOM 11
+
+Transparency is a system function.
+
+AXIOM 12
+
+Every public dollar must answer.
+
+==================================================
+6. THE SIX PILLARS
+==================================================
+
+The Node-Based Budget Framework is founded upon six permanent pillars.
+
+Pillar One
+
+Taxpayer Supremacy
+
+Government exists to faithfully steward taxpayer resources.
+
+--------------------------------------------------
+
+Pillar Two
+
+Recursive Human Accountability
+
+Every public responsibility terminates in one accountable human owner.
+
+--------------------------------------------------
+
+Pillar Three
+
+Reality Through Signals
+
+Reality always possesses a protected path back to authority.
+
+--------------------------------------------------
+
+Pillar Four
+
+Let's Fail
+
+Failure shall become visible, measurable, localized,
+recoverable, and educational.
+
+--------------------------------------------------
+
+Pillar Five
+
+Digital Republic
+
+Every lawful republic should be capable of faithful digital
+representation without altering its constitutional structure.
+
+--------------------------------------------------
+
+Pillar Six
+
+Continuous Stewardship
+
+Authority, budgets, public resources, and responsibilities
+shall undergo continuous operational review and periodic
+legislative reauthorization.
+
+==================================================
+7. SPECIFICATION HIERARCHY
+==================================================
+
+Every normative NBBF document derives its authority from this document.
+
+Each concept shall have one canonical home.
+
+Other documents shall reference that concept rather than redefine it.
+
+NBBF shall favor structural minimalism.
+
+Duplicate definitions are prohibited.
+
+==================================================
+8. INTERPRETATION RULES
+==================================================
+
+Where conflicts occur:
+
+00_Control governs all NBBF documents.
+
+02_Definitions_and_Terms governs vocabulary.
+
+01_Node_Ontology governs node definitions.
+
+Specialized documents govern only their assigned subject areas.
+
+Informative documents create no normative authority unless explicitly
+incorporated by reference.
+
+==================================================
+9. NORMATIVE LANGUAGE
+==================================================
+
+NBBF uses controlled engineering language.
+
+SHALL
+
+Mandatory requirement.
+
+SHALL NOT
+
+Mandatory prohibition.
+
+SHOULD
+
+Preferred practice requiring documented justification if not followed.
+
+MAY
+
+Permitted action.
+
+INFORMATIVE
+
+Explanatory content only.
+
+==================================================
+10. NORTH STAR
+==================================================
+
+Engineer every republic so that constitutional authority,
+taxpayer resources, human responsibility, operational reality,
+and public trust remain continuously aligned.
+
+Government exists to faithfully execute lawful authority
+on behalf of the taxpayer.
+
+Every authority has a boundary.
+
+Every public dollar answers.
+
+Every responsibility has a human owner.
+
+Reality always gets a voice.
+
+Liberty is preserved through sound structure.
+
+==================================================
+11. OWNED CONCEPTS
+==================================================
+
+This document is the canonical authority for:
+
+• NBBF Identity
+• Engineering Axioms
+• Taxpayer Supremacy
+• Recursive Human Accountability
+• Six Pillars
+• Specification Hierarchy
+• Interpretation Rules
+• Normative Language
+• Structural Minimalism
+• North Star
+
+==================================================
+12. CROSS REFERENCES
+==================================================
+
+NBBF_Design_Philosophy
+
+NBBF_Master_Blueprint
+
+01_Node_Ontology
+
+02_Definitions_and_Terms
+
+03_Republican_Government_Model
+
+==================================================
+END OF DOCUMENT
+==================================================

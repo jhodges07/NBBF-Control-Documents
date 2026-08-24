@@ -1,0 +1,19 @@
+# NBBF-CWC #43 — restore-worktree freeze byte identity
+#
+# Scope: this directory tree only
+#   reconciliation-evidence/restore-worktree-freeze/**
+#
+# Purpose: override repository-root `* text=auto` so frozen historical
+# evidence is stored without CRLF/LF conversion.
+#
+# `-text` disables Git newline conversion. It is not repository-wide
+# binary treatment and does not change:
+#   - controls/*.md
+#   - controls/manifest.txt
+#   - ordinary project Markdown outside this tree
+#   - other repositories
+#
+# Generated CWC metadata in this tree (README/INVENTORY) is included by
+# the directory-scoped pattern so it cannot be renormalized later; those
+# files are not external source evidence.
+** -text
