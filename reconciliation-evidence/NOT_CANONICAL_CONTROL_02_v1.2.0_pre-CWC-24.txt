@@ -1,0 +1,497 @@
+---
+publish_scope: canonical
+doc_id: nbbf-02
+title: Definitions and Terms
+slug: definitions-and-terms
+version: v1.2.0
+status: canonical
+framework: NBBF
+parent: nbbf-00
+source_repo: NBBF-Control-Documents
+source_path: controls/02_Definitions_and_Terms.md
+authority_level: foundational
+supersedes: null
+---
+
+02_Definitions_and_Terms
+Node-Based Budget Framework (NBBF)
+
+Version: 1.2.0
+Status: Authoritative Vocabulary Control
+Classification: Canonical
+Scope: Concise NBBF vocabulary and controlled terminology.
+
+Lineage:
+This CONTROL is the Human Engineer-authorized Root-alignment repair of
+CONTROL 02 v1.1, executed under NBBF-CWC #10 pursuant to NBBF-CWC #9
+decisions 1-C, 2-C, 3-C, 5-C, 8-C, 9-C, 15-C, 16-C, 17-C, 18-C, 20-C,
+and 21-C. Historical v1.1 remains in reconciliation-evidence/ and is not
+live CONTROL authority.
+
+==================================================
+GOVERNING AUTHORITY
+==================================================
+
+This document is issued pursuant to the NBBF Root Control Document
+(CONTROL 00 / controls/00_Control.md) and derives its authority therefrom.
+
+CONTROL 02 owns NBBF vocabulary within the scope delegated by CONTROL 00.
+
+This CONTROL SHALL NOT:
+
+• Override CONTROL 00
+• Override constitutional government
+• Override constitution, statute, charter, ordinance, or other lawful
+  governmental authority
+• Redefine Root normative language
+• Create operating authority merely by defining terminology
+• Absorb Node ontology from CONTROL 01
+• Absorb Signal operating rules from CONTROL 00B
+• Absorb specialized operating doctrine from other CONTROLs
+
+Where conflict exists among NBBF documents, CONTROL 00 prevails.
+
+NBBF terminology MAY identify and map differences from external legal
+terminology. It SHALL NOT silently rewrite external law.
+
+==================================================
+1. PURPOSE
+==================================================
+
+This document defines concise official meanings of terms used throughout
+the Node-Based Budget Framework.
+
+These definitions are binding for NBBF interpretation within the authority
+delegated by CONTROL 00.
+
+No NBBF term defined here may be reinterpreted, expanded, or narrowed
+inside NBBF contrary to this CONTROL, except by versioned replacement
+under CONTROL 00.
+
+Where ambiguity exists among NBBF uses of a term defined in this CONTROL,
+the most restrictive interpretation governing authority, spending, scope,
+duration, and secrecy SHALL prevail, provided that rule does not override
+CONTROL 00 or lawful governmental authority.
+
+==================================================
+2. CORE STRUCTURAL TERMS
+==================================================
+
+CONTROL 01 owns full Node ontology, including classification, relationships,
+lifecycle, ownership, structural behavior, and ontology mechanics.
+
+This CONTROL retains only concise identifying definitions.
+
+--------------------------------------------------
+
+2.1 Node
+
+A **Node** is the smallest indivisible unit of budget authority,
+obligation, or execution within NBBF.
+
+A Node has a single accountable human owner, a declared purpose, and
+bounded duration.
+
+Authoritative Node classification, relationships, lifecycle, ownership,
+and ontology mechanics: CONTROL 01.
+
+--------------------------------------------------
+
+2.2 Human Owner
+
+A **Human Owner** is a named individual responsible for a Node.
+
+Authoritative ownership, accountability, and removal mechanics: CONTROL 01.
+Executor and guardian principles: CONTROL 00.
+
+--------------------------------------------------
+
+2.3 Decision Node (Voting Node)
+
+A **Decision Node** is a Node that requires affirmative authorization by
+the applicable legislative or other constitutionally designated
+Decision-Node authority of that jurisdiction.
+
+A Decision Node establishes scope, purpose, duration, and funding ceiling
+for the authority it grants.
+
+Congress is an example of a Decision-Node authority in the United States
+federal legislative jurisdiction. Congress is not the universal or exclusive
+NBBF Decision Node.
+
+Authoritative Decision-Node ontology: CONTROL 01.
+Jurisdiction-specific application: CONTROL 03. CONTROL 03 remains reserved
+and is not drafted here.
+
+--------------------------------------------------
+
+2.4 Assembly Node
+
+An **Assembly Node** decomposes a Decision Node into executable structure.
+
+Assembly Nodes are not themselves the Decision-Node authorization.
+They exist to expose cost, obligations, and configuration.
+
+Authoritative classification and structural behavior: CONTROL 01.
+
+--------------------------------------------------
+
+2.5 Detail Node
+
+A **Detail Node** represents a reusable operational, logistical,
+or support element.
+
+Detail Nodes do not pool authority or funding. Pooling operating doctrine:
+CONTROL 00C.
+
+Authoritative classification and structural behavior: CONTROL 01.
+
+--------------------------------------------------
+
+2.6 Support Node
+
+A **Support Node** provides shared services or capabilities to one or more
+operational Nodes.
+
+Authoritative classification, funding references, and collapse behavior:
+CONTROL 01.
+Exit of consuming Nodes: CONTROL 00D.
+
+==================================================
+3. FINANCIAL AUTHORITY TERMS
+==================================================
+
+3.1 Scope
+
+**Scope** defines the bounded purpose, actions, geography, and operational
+limits of a Node.
+
+Actions outside declared scope are unauthorized.
+
+--------------------------------------------------
+
+3.2 Funding Ceiling
+
+A **Funding Ceiling** is the maximum authorized allocation for a Node
+within its authorized cycle.
+
+Ceilings SHALL NOT be exceeded, replenished, or rolled forward without
+reauthorization.
+
+--------------------------------------------------
+
+3.3 Four-Month Budget Cycle
+
+The **Four-Month Budget Cycle** is the existing NBBF vocabulary term for
+the standard authorization, defense, and review period.
+
+No funding persists beyond the cycle without affirmative renewal.
+
+Review-calendar mechanics: CONTROL 05. CONTROL 05 remains reserved and is
+not drafted here.
+
+--------------------------------------------------
+
+3.4 Reprogramming
+
+**Reprogramming** is the transfer or redirection of funds after
+Decision-Node authorization.
+
+Under NBBF:
+• Reprogramming is permitted only below a Decision Node
+• Cross–Decision-Node reprogramming requires re-authorization by the
+  applicable Decision-Node authority
+• Unauthorized reprogramming is void ab initio
+
+Federal legislative example: a Congressional re-vote may be the applicable
+Decision-Node re-authorization. That example does not define Decision-Node
+authority for every jurisdiction.
+
+==================================================
+4. SINKING FUND AND RESERVE TERMS
+==================================================
+
+These terms are preserved NBBF vocabulary. Cost and value mechanics:
+CONTROL 06. This CONTROL does not absorb CONTROL 06.
+
+--------------------------------------------------
+
+4.1 Sinking Fund Node
+
+A **Sinking Fund Node** is a pre-authorized Decision Node established to
+enable immediate executive action under defined crisis or defense conditions.
+
+A Sinking Fund Node has explicit activation triggers, a hard funding
+ceiling, and no automatic replenishment.
+
+Ontology and decomposition requirements: CONTROL 01.
+Cost treatment: CONTROL 06.
+
+--------------------------------------------------
+
+4.2 Activation Event
+
+An **Activation Event** occurs when funds are drawn from a Sinking Fund
+Node or Reserve Node.
+
+--------------------------------------------------
+
+4.3 Parked Balance (Debt-Offset State)
+
+A **Parked Balance** is an unused portion of a Sinking Fund Node placed
+in a non-spendable state for debt-offset purposes.
+
+Where a national treasury and national debt exist, parked balances may be
+described as temporarily loaned for retiring that debt. That description is
+an application example, not a universal jurisdictional requirement.
+
+Parked balances are not available for activation while parked, do not
+constitute spending, and SHALL NOT be leveraged, traded, or pledged.
+
+Cost and value mechanics: CONTROL 06.
+
+--------------------------------------------------
+
+4.4 Interest Savings Credit
+
+An **Interest Savings Credit** is the quantified reduction in interest
+expense resulting from parked balances.
+
+Interest-savings allocation mechanics: CONTROL 06.
+
+==================================================
+5. SIGNALING AND ACCOUNTABILITY TERMS
+==================================================
+
+5.1 Signal
+
+A **Signal** is any observable indication of performance, delivery,
+failure, or variance generated by or concerning a Node.
+
+This CONTROL owns that concise vocabulary definition.
+
+CONTROL 00B owns Signal operating rules, including reporting rights,
+reporting duties, suppression rules, escalation, evidence requirements,
+close-out, interference consequences, Signal lifecycle, and Signal review.
+
+This CONTROL SHALL NOT independently establish those operating rules.
+
+--------------------------------------------------
+
+5.2 Reporting Surface
+
+A **Reporting Surface** is the defined interface through which Signals
+are submitted, received, or persisted.
+
+Signal operating rules for reporting surfaces: CONTROL 00B.
+Node reporting-surface requirements: CONTROL 01.
+
+--------------------------------------------------
+
+5.3 Exit Condition
+
+An **Exit Condition** is a predefined trigger that terminates, suspends,
+or modifies a Node.
+
+Exit conditions may be time-based, performance-based, audit-based, or
+authority-based.
+
+Operating exit and disengagement: CONTROL 00D.
+Node ontology exit fields: CONTROL 01.
+Recovery and clawback mechanics: CONTROL 08. CONTROL 08 remains reserved
+and is not drafted here.
+
+==================================================
+6. SECRECY AND WAR-AUTHORITY TERMS
+==================================================
+
+6.1 Secret Node
+
+A **Secret Node** is a Node whose details are classified for legitimate
+national-security or other lawful secrecy reasons.
+
+Secret Nodes still have owners, costs, and exits.
+
+Classified-node reporting and visibility operating rules: CONTROL 00B.
+Ontology: CONTROL 01.
+
+--------------------------------------------------
+
+6.2 Declaration of War (Functional)
+
+A **Declaration of War (Functional)** occurs when the applicable
+Decision-Node authority authorizes and funds a Decision Node whose scope
+includes the use of military force.
+
+Federal legislative example: Congress authorizing and funding such a
+Decision Node. That example does not define war-authorization structure
+for every jurisdiction.
+
+Jurisdiction-specific application: CONTROL 03. CONTROL 03 remains reserved
+and is not drafted here.
+
+==================================================
+7. INTERPRETATION
+==================================================
+
+Interpretation of NBBF documents follows CONTROL 00:
+
+1. CONTROL 00 governs all NBBF documents.
+2. CONTROL 02 governs NBBF vocabulary.
+3. CONTROL 01 governs node definitions.
+4. Specialized CONTROLs govern only their assigned subject areas.
+
+ROOT WINS.
+
+CONTROL 00 is the sole authoritative owner of SHALL, SHALL NOT, SHOULD,
+MAY, and INFORMATIVE.
+
+This CONTROL MAY list those terms for navigation. It SHALL NOT redefine,
+weaken, nullify, or condition their Root meaning.
+
+Omission of a term from this CONTROL does not deprive a Root-defined term
+of binding meaning.
+
+These NBBF vocabulary definitions govern interpretation inside NBBF.
+They do not override customary legal usage, constitutional text, statute,
+charter, ordinance, or other lawful governmental authority.
+
+Where external legal terminology differs from NBBF vocabulary, this CONTROL
+MAY identify and map the difference. It SHALL NOT silently rewrite the law.
+
+==================================================
+8. ROOT NORMATIVE LANGUAGE — NAVIGATION ONLY
+==================================================
+
+The following terms are listed for vocabulary navigation.
+
+Authoritative meanings: CONTROL 00.
+
+SHALL
+SHALL NOT
+SHOULD
+MAY
+INFORMATIVE
+
+==================================================
+9. SPECIALIZED TERM BOUNDARIES
+==================================================
+
+The following terms may appear in NBBF vocabulary. This CONTROL does not
+own their operating mechanics.
+
+Pool / pooling — operating doctrine: CONTROL 00C.
+Exit / disengagement — operating home: CONTROL 00D.
+Audit / performance — CONTROL 07.
+Variance — audit definition and handling: CONTROL 07.
+Value / cost — CONTROL 06.
+Failure — Root principle; operating audit: CONTROL 07; localized
+recoverable failure: CONTROL 00D / CONTROL 07 / CONTROL 08 as applicable.
+CONTROL 08 remains reserved and is not drafted here.
+Taxpayer — Root pillar; property/pooling operating doctrine: CONTROL 00C.
+Authority — Root; this CONTROL does not own system authority.
+Executor / Guardian — CONTROL 00.
+Publication / API / ledger — CONTROL 11. CONTROL 11 remains reserved and
+is not drafted here.
+
+==================================================
+10. ENFORCEMENT
+==================================================
+
+Noncompliance with this CONTROL includes:
+
+• Using an NBBF term contrary to a definition declared here
+• Redefining, expanding, or narrowing a term defined here inside NBBF
+  except by versioned replacement under CONTROL 00
+• Treating this CONTROL as overriding CONTROL 00
+• Treating this CONTROL as overriding constitution, statute, charter,
+  ordinance, or other lawful governmental authority
+• Using this CONTROL to establish operating rules owned by another CONTROL
+
+Vocabulary noncompliance is an interpretation or authority defect.
+
+It may be detected or determined by:
+
+• Authorized NBBF CONTROL stewardship under CONTROL 00
+• Audit review under CONTROL 07 where the defect appears in a funded Node
+  or published CONTROL artifact
+
+Detailed audit procedure: CONTROL 07.
+This CONTROL does not create an enforcement office, tribunal, board,
+penalty schedule, or new enforcement power.
+
+==================================================
+11. EXIT AUTHORITY
+==================================================
+
+This CONTROL does not own Node exit or disengagement mechanics.
+
+CONTROL 00D owns Exit and Disengagement operating mechanics.
+
+Vocabulary in this CONTROL is withdrawn, replaced, or superseded only by
+a higher-version CONTROL 02 under CONTROL 00 versioned replacement.
+
+Obsolete terminology ceases by that replacement. It SHALL NOT be silently
+amended or silently superseded.
+
+==================================================
+12. VERSIONING AND LINEAGE
+==================================================
+
+Revision, replacement, and supersession of this CONTROL are governed by
+CONTROL 00.
+
+Once published, this CONTROL:
+
+• SHALL NOT be edited in place
+• SHALL NOT be silently superseded
+• SHALL NOT be silently amended
+• MAY be replaced only by a higher-version CONTROL
+• SHALL preserve historical lineage
+
+This CONTROL does not establish a separate amendment process.
+
+==================================================
+13. NORTH STAR
+==================================================
+
+Words define power.
+Power SHALL be bounded.
+Boundaries SHALL be explicit.
+
+This CONTROL is binding within the vocabulary authority delegated by
+CONTROL 00.
+
+CONTROL 00 remains the system-level Root lock.
+
+==================================================
+14. OWNED CONCEPTS
+==================================================
+
+This CONTROL is the canonical authority for concise NBBF vocabulary
+definitions within its delegated scope, including identifying definitions
+for Node terms, financial-authority terms, sinking-fund terms, Signal
+(term only), reporting surface (term only), exit condition (term only),
+Secret Node (term only), and Declaration of War (Functional) (term only).
+
+This CONTROL does not own Root normative language, Node ontology, Signal
+operating rules, jurisdiction structures, or specialized operating mechanics.
+
+==================================================
+15. CROSS REFERENCES
+==================================================
+
+00_Control — Root; SHALL-family; versioning; interpretation hierarchy
+00B_Signal_and_Non-Interference_Control — Signal operating rules
+00C_Property_Rights_and_Pooling_Control — pooling operating doctrine
+00D_Exit_and_Disengagement_Control — exit and disengagement
+01_Node_Ontology — Node ontology
+03_Republican_Government_Model — jurisdiction application (reserved)
+05_Authority_Review_and_Reauthorization_Cycle — review calendar (reserved)
+06_Cost_and_Value_Model — cost and value mechanics
+07_Audit_and_Performance_Standards — audit procedure
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback (reserved)
+11_Public_Transparency_API_and_Publishing — publication, API, and ledger
+  (reserved)
+
+END OF DOCUMENT

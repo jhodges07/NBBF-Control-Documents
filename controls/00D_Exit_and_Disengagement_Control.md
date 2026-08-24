@@ -1,0 +1,318 @@
+---
+publish_scope: canonical
+doc_id: nbbf-00d
+title: Exit and Disengagement Control
+slug: exit-and-disengagement
+version: v1.1.2
+status: canonical
+framework: NBBF
+parent: nbbf-00
+source_repo: NBBF-Control-Documents
+source_path: controls/00D_Exit_and_Disengagement_Control.md
+authority_level: foundational
+supersedes: null
+---
+
+00D_Exit_and_Disengagement_Control
+Node-Based Budget Framework (NBBF)
+
+Version: 1.1.2
+Status: Authoritative Control Document
+Classification: Canonical
+Scope: Exit, disengagement, authorized withdrawal, termination of
+participation, and procedural separation from a Node, pool, or relationship
+where applicable.
+
+Lineage:
+This CONTROL is the Human Engineer-authorized Root-alignment repair of
+CONTROL 00D v1.0, executed under NBBF-CWC #12 pursuant to NBBF-CWC #9
+decisions 11-C, 12-C, 14-C, 15-C, 16-C, 17-C, 18-C, 19-C, 20-C, and 21-C.
+Historical v1.0 remains in reconciliation-evidence/ and is not live
+CONTROL authority. NBBF-CWC #24 reconciled live-status cross-references
+for CONTROLs 03, 05, 08, and 10 without changing Exit operating doctrine.
+NBBF-CWC #28 reconciled live-status cross-references for CONTROLs 04, 09,
+and 11 without changing Exit operating doctrine.
+
+==================================================
+GOVERNING AUTHORITY
+==================================================
+
+This document is issued pursuant to the NBBF Root Control Document
+(CONTROL 00 / controls/00_Control.md) and derives its authority therefrom.
+
+CONTROL 00D owns NBBF Exit and Disengagement operating doctrine within the
+scope delegated by CONTROL 00.
+
+This CONTROL is not a second Root.
+
+This CONTROL SHALL NOT:
+
+• Override CONTROL 00
+• Override constitutional government, constitution, statute, charter,
+  ordinance, or other controlling lawful authority
+• Override another NBBF CONTROL within that CONTROL's authoritative home
+• Become a second property-rights CONTROL
+• Absorb Node ontology from CONTROL 01
+• Absorb Signal operating rules from CONTROL 00B
+• Invent recovery/clawback mechanics owned by CONTROL 08
+• Invent API, ledger, or publication mechanics owned by CONTROL 11
+
+Property-rights and pooling operating doctrine: CONTROL 00C.
+
+CONTROL 00 remains the NBBF Root lock.
+
+==================================================
+AUTHORITATIVE HOME
+==================================================
+
+This CONTROL answers:
+
+HOW AUTHORIZED EXIT AND DISENGAGEMENT OPERATE?
+
+CONTROL 00C answers:
+
+WHAT PROPERTY AND POOLING RIGHTS, LIMITATIONS, AND PROTECTIONS EXIST?
+
+Where exit or disengagement concerns pooled property, this CONTROL
+recognizes CONTROL 00C rights and SHALL NOT extinguish them contrary to
+CONTROL 00C.
+
+Concise vocabulary: CONTROL 02.
+Node ontology, including structural exit-condition fields: CONTROL 01.
+
+==================================================
+1. PURPOSE
+==================================================
+
+This document establishes mandatory exit and disengagement requirements
+within the Node-Based Budget Framework.
+
+Its purpose is to ensure that:
+• No authority persists by inertia
+• No obligation is permanent by default
+• Participation remains conditional and revocable
+• Authority expires unless affirmatively renewed
+
+Authority without an exit path constitutes coercion.
+
+==================================================
+2. EXIT PRINCIPLE (NON-NEGOTIABLE)
+==================================================
+
+Every funded Node SHALL include:
+• A defined termination condition
+• A disengagement mechanism
+• A revocation pathway
+• A sunset or renewal trigger
+
+A Node without an exit path is structurally invalid.
+
+Structural exit-condition fields: CONTROL 01.
+
+==================================================
+3. INDIVIDUAL DISENGAGEMENT RIGHTS
+==================================================
+
+Any individual downstream of a Node retains the right to disengage from:
+• Participation
+• Compliance obligations beyond lawful minimums
+• Non-essential processes or requirements
+
+Disengagement:
+• Does not require permission
+• Does not require justification
+• SHALL NOT be penalized beyond explicitly authorized consequences
+
+No authority may compel continued participation absent explicit consent.
+
+Where disengagement concerns pooled property, funds, labor, data, or risk,
+CONTROL 00C property-rights and pooling protections apply.
+
+==================================================
+4. NODE-LEVEL TERMINATION
+==================================================
+
+Each Node SHALL define:
+• Conditions for suspension
+• Conditions for termination
+• Conditions for replacement or restructuring
+
+If termination conditions are met:
+• Authority automatically ceases
+• Funding halts
+• Obligations dissolve except for lawful closeout
+
+No separate approval is required to end expired authority.
+
+Node types, hierarchy, and lifecycle ontology: CONTROL 01.
+
+==================================================
+5. EXIT VS. FAILURE DISTINCTION
+==================================================
+
+Exit is not failure.
+
+Exit is:
+• A designed system function
+• A corrective mechanism
+• Evidence of structural honesty
+
+Suppressing exit is system failure.
+
+Signal operating rules, including reporting rights, suppression,
+escalation, evidence, close-out, and lifecycle: CONTROL 00B.
+This CONTROL SHALL NOT duplicate those Signal mechanics.
+
+==================================================
+6. BUREAUCRATIC NON-ENTRENCHMENT
+==================================================
+
+No office, agency, or actor may:
+• Redefine exit conditions post hoc
+• Substitute procedural delay for termination
+• Extend authority through administrative interpretation
+• Convert temporary authority into permanent structure
+
+Persistence without renewal is prohibited.
+
+==================================================
+7. EXECUTING-AUTHORITY APPLICATION
+==================================================
+
+Execution authority:
+• Does not include the power to deny exit
+• Does not include the power to redefine disengagement
+• Does not include the power to delay termination
+
+Execution ends when authority ends.
+
+==================================================
+8. SEALED OR CLASSIFIED NODES
+==================================================
+
+Classified or sealed Nodes remain subject to exit controls.
+
+At minimum, such Nodes SHALL disclose:
+• Existence
+• Duration
+• Termination conditions
+• Renewal authority
+
+Secrecy limits visibility, not exit.
+
+Classified-node Signal and reporting operating rules: CONTROL 00B.
+Ontology of sealed or Legacy Nodes: CONTROL 01.
+
+==================================================
+9. VIOLATION CONSEQUENCES
+==================================================
+
+Violations of this CONTROL trigger:
+• Immediate invalidation of unauthorized extensions
+• Automatic escalation to oversight Nodes
+• Mandatory review in the next budget cycle
+• Potential removal of Node ownership or execution authority
+
+Blocking exit constitutes structural coercion.
+
+Recovery and clawback operating mechanics: CONTROL 08.
+This CONTROL does not invent CONTROL 08 doctrine.
+
+Signal treatment of blocked or suppressed exit: CONTROL 00B.
+
+==================================================
+10. ENFORCEMENT
+==================================================
+
+Noncompliance with this CONTROL includes:
+
+• Operating a funded Node without an exit path
+• Blocking, delaying, or redefining exit after authorization
+• Compelling continued participation absent explicit consent
+• Treating this CONTROL as property-rights or pooling operating doctrine
+• Treating this CONTROL as NBBF Root Authority
+
+Noncompliance MAY be identified by:
+
+• Authorized NBBF CONTROL stewardship under CONTROL 00
+• Signals under CONTROL 00B
+• Audit under CONTROL 07
+
+Detailed audit procedure: CONTROL 07.
+This CONTROL does not create an enforcement agency, tribunal, board,
+criminal penalty schedule, or new governmental power.
+
+==================================================
+11. EXIT AUTHORITY
+==================================================
+
+This CONTROL is the operating home for Exit and Disengagement.
+
+Distinguish:
+
+A. Operational exit and disengagement from a Node, pool, or relationship —
+   this CONTROL.
+B. Supersession of this CONTROL document — CONTROL 00 versioned replacement.
+
+==================================================
+12. VERSIONING AND LINEAGE
+==================================================
+
+Revision, replacement, and supersession of this CONTROL are governed by
+CONTROL 00.
+
+Once published, this CONTROL:
+
+• SHALL NOT be edited in place
+• SHALL NOT be silently superseded
+• SHALL NOT be silently amended
+• MAY be replaced only by a higher-version CONTROL
+• SHALL preserve historical lineage
+
+This CONTROL does not establish a separate amendment process.
+
+==================================================
+13. NORTH STAR
+==================================================
+
+Authority SHALL be temporary.
+Participation SHALL be voluntary.
+Exit SHALL be real.
+
+No authority survives without consent.
+No system traps its participants.
+No structure outlives its justification.
+
+This CONTROL is binding within the Exit and Disengagement authority
+delegated by CONTROL 00.
+
+CONTROL 00 remains the system-level Root lock.
+
+==================================================
+14. OWNED CONCEPTS
+==================================================
+
+This CONTROL is the canonical authority for Exit and Disengagement
+operating doctrine, including funded-Node exit paths, individual
+disengagement, Node-level termination, the exit-versus-failure distinction,
+non-entrenchment, executing-authority limits on exit, and exit of classified
+or sealed Nodes.
+
+This CONTROL does not own property-rights or pooling operating doctrine,
+Node ontology, Signal operating rules, recovery/clawback mechanics, or
+API/ledger implementation.
+
+==================================================
+15. CROSS REFERENCES
+==================================================
+
+00_Control — Root
+01_Node_Ontology — Node terminology, ontology, and structural exit fields
+02_Definitions_and_Terms — concise vocabulary
+00B_Signal_and_Non-Interference_Control — Signal operating rules
+00C_Property_Rights_and_Pooling_Control — property and pooling doctrine
+07_Audit_and_Performance_Standards — audit procedure
+08_Exit_Clawback_and_Recovery_Rules — recovery and clawback
+11_Public_Transparency_API_and_Publishing — publication, API, and ledger
+
+END OF DOCUMENT
