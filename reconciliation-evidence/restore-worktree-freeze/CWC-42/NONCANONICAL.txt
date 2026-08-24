@@ -1,0 +1,6 @@
+NONCANONICAL HISTORICAL EVIDENCE
+
+This CWC-42 package is not live NBBF CONTROL authority.
+Canonical CONTROL 00–12 remain on origin/main.
+Canonical CONTROL 12 is 12_Competitive_Node_Procurement.md.
+Do not promote files in this package.

@@ -1,0 +1,1611 @@
+NBBF_Master_Blueprint.txt
+
+Node-Based Budget Framework (NBBF)
+Master Specification Blueprint
+
+Version: 0.1.0
+Status: Internal Working Document — Non-Normative
+Purpose: Define the architecture, document responsibilities, dependencies, naming conventions, review cadence, and publication structure of the Node-Based Budget Framework before canonical drafting.
+
+======================================================================
+1. PURPOSE
+======================================================================
+
+This blueprint is the architect's drawing for the Node-Based Budget Framework.
+
+It is not an authoritative NBBF control document.
+
+It exists to prevent document overlap, terminology drift, contradictory rules,
+uncontrolled expansion, and unclear ownership of concepts during development
+of the canonical NBBF specification.
+
+Every proposed NBBF requirement shall have one primary document home.
+
+Documents may reference other documents.
+
+Documents shall not silently redefine concepts owned elsewhere.
+
+This blueprint governs the drafting process only.
+
+======================================================================
+2. WORKING DEFINITION OF NBBF
+======================================================================
+
+The Node-Based Budget Framework (NBBF) is a constitutional engineering
+specification for organizing, authorizing, executing, measuring, auditing,
+reviewing, and terminating public authority through accountable,
+human-owned nodes at every lawful level of republican government.
+
+NBBF is designed to preserve traceability from legislative authorization
+to the lowest human exercising operational judgment.
+
+======================================================================
+3. PRIMARY DESIGN OBJECTIVES
+======================================================================
+
+NBBF shall be designed to accomplish the following:
+
+1. Preserve Taxpayer Supremacy.
+
+2. Maintain a continuous chain of human accountability from legislative
+   authorization to operational execution.
+
+3. Decompose authority until responsibility reaches the lowest human
+   exercising direct judgment.
+
+4. Ensure every public dollar remains traceable through accountable nodes.
+
+5. Allow operational personnel to compare authorized resources and outcomes
+   with operational reality.
+
+6. Protect signals when authorization and reality do not match.
+
+7. Detect drift before it becomes institutionalized.
+
+8. Treat failure as expected information rather than something to conceal.
+
+9. Separate legislative governance from operational management.
+
+10. Require monthly operational review of applicable subordinate nodes.
+
+11. Require legislative reauthorization, modification, reduction, or
+    expiration of Decision Nodes at least every four months.
+
+12. Function across national, state, county, municipal, township,
+    school-district, special-district, and other lawful republican
+    jurisdictions.
+
+13. Preserve human responsibility regardless of automation, software,
+    artificial intelligence, or organizational complexity.
+
+14. Produce government structures that are measurable, auditable,
+    transparent, and understandable to ordinary taxpayers.
+
+======================================================================
+4. FOUNDATIONAL ENGINEERING AXIOMS — WORKING SET
+======================================================================
+
+AXIOM 1 — REALITY DISCIPLINES AUTHORITY
+
+Authority may authorize actions and resources.
+
+Reality determines whether the authorized result occurred.
+
+No administrative process, narrative, title, or hierarchy may substitute
+for observable reality.
+
+
+AXIOM 2 — REPUBLICAN GOVERNMENT EXISTS AT EVERY LAWFUL LEVEL
+
+Every lawful governing jurisdiction operating under NBBF shall function
+according to republican principles of representation, bounded authority,
+public accountability, human responsibility, and rule-based governance.
+
+The same structural principles shall scale from national government to
+local governing bodies.
+
+
+AXIOM 3 — DRIFT IS THE FIRST ENEMY OF LIBERTY
+
+Every unmanaged system tends to drift in authority, cost, mission,
+measurement, knowledge, ownership, and accountability.
+
+NBBF shall continuously expose and correct drift.
+
+
+AXIOM 4 — AUTHORITY EXISTS TO ACCOMPLISH A DEFINED PURPOSE
+
+Public authority shall exist for declared purposes and shall not perpetuate
+itself merely because it previously existed.
+
+
+AXIOM 5 — RECURSIVE HUMAN ACCOUNTABILITY
+
+Every node shall have one identifiable human owner.
+
+Authority and responsibility shall recursively decompose through subordinate
+nodes until every executable responsibility reaches the lowest human capable
+of directly exercising judgment over that responsibility.
+
+Every human owner shall be capable of reasonably understanding, supervising,
+defending, and answering for the node and subordinate nodes within that
+owner's span of accountability.
+
+When responsibility exceeds reasonable human capacity, the structure shall
+decompose further.
+
+No public responsibility may terminate in a committee, agency, algorithm,
+software system, artificial intelligence system, or anonymous organization.
+
+
+AXIOM 6 — EVERY HUMAN OWNER IS BOTH EXECUTOR AND GUARDIAN
+
+Every human owner shall compare lawful authorization with operational reality.
+
+Material variance shall generate a protected signal.
+
+The lowest operational owner possesses the same duty to question missing,
+excess, misdirected, or unusable resources as higher authorities.
+
+
+AXIOM 7 — LET'S FAIL
+
+Failure shall be expected.
+
+Systems shall therefore be designed so failure becomes visible, bounded,
+traceable, recoverable, and educational.
+
+Hidden failure is more dangerous than acknowledged failure.
+
+
+AXIOM 8 — MEASUREMENT REQUIRES STRUCTURE
+
+What cannot be defined cannot be reliably measured.
+
+What cannot be measured cannot be responsibly managed.
+
+NBBF therefore establishes structure before measurement.
+
+
+AXIOM 9 — KNOWLEDGE IS DISTRIBUTED
+
+No legislature, executive, agency, manager, expert, or information system
+possesses all relevant knowledge.
+
+NBBF shall preserve lawful downward authority while allowing operational
+knowledge and signals to travel upward.
+
+
+AXIOM 10 — STRUCTURE OUTLASTS PERSONALITIES
+
+NBBF shall rely on structural controls rather than confidence in particular
+politicians, administrators, parties, or personalities.
+
+
+AXIOM 11 — TRANSPARENCY IS A SYSTEM FUNCTION
+
+Public accountability shall arise from the structure of the system rather
+than depending upon scandals, investigative journalism, whistleblowers,
+or political initiative.
+
+
+AXIOM 12 — EVERY PUBLIC DOLLAR MUST ANSWER
+
+Every public dollar shall be attributable to lawful authorization,
+an accountable path, a responsible human owner, a declared purpose,
+and an observable disposition.
+
+======================================================================
+5. GOVERNANCE CADENCE
+======================================================================
+
+NBBF separates operational management from legislative governance.
+
+--------------------------------------------------
+5.1 Monthly Operational Review
+--------------------------------------------------
+
+Applicable non-legislative nodes shall be reviewed at least monthly by
+their immediate accountable parent or designated reviewing authority.
+
+Monthly review may include:
+
+- Authorized resources versus resources received
+- Budget versus actual expenditure
+- Performance
+- Readiness
+- Material variance
+- Unresolved signals
+- Staffing
+- Equipment
+- Deliverables
+- Risks
+- Corrective actions
+
+Monthly review does not require legislative action.
+
+
+--------------------------------------------------
+5.2 Immediate Signal Escalation
+--------------------------------------------------
+
+Material variance shall not wait for a monthly review.
+
+Signals involving significant shortages, excess resources, fraud,
+safety, constitutional conflict, operational failure, or other declared
+thresholds shall escalate according to their applicable signal rules
+when detected.
+
+
+--------------------------------------------------
+5.3 Four-Month Legislative Review / Die Date
+--------------------------------------------------
+
+Decision Nodes requiring legislative authority shall reach a formal review
+point no later than every four months.
+
+At that point the legislative authority shall affirmatively choose among:
+
+- Reauthorize
+- Modify
+- Reduce
+- Restructure
+- Suspend
+- Terminate
+
+Failure to affirmatively continue authority shall invoke the applicable
+expiration or Die Date rule.
+
+The four-month review is an authority decision.
+
+It is not legislative micromanagement of subordinate operational nodes.
+
+======================================================================
+6. DOCUMENT CLASSIFICATION
+======================================================================
+
+Every NBBF document shall belong primarily to one of four classes.
+
+FOUNDATIONAL
+
+Defines governing principles, ontology, vocabulary, and system-wide
+constraints.
+
+STRUCTURAL
+
+Defines relationships among jurisdictions, nodes, authority paths,
+reporting paths, and system architecture.
+
+OPERATIONAL
+
+Defines recurring execution, review, budgeting, audit, reporting,
+and lifecycle processes.
+
+INFORMATIVE
+
+Explains philosophy, intellectual lineage, examples, implementation guidance,
+publication practices, and educational material.
+
+Informative documents create no authority unless explicitly incorporated
+by a normative document.
+
+======================================================================
+7. CANONICAL DOCUMENT SET
+======================================================================
+
+----------------------------------------------------------------------
+NBBF DESIGN PHILOSOPHY
+----------------------------------------------------------------------
+
+Class:
+Informative
+
+Guiding Question:
+Why is NBBF designed this way?
+
+Problem Solved:
+Provides the conceptual explanation behind the normative specification.
+
+Depends On:
+None.
+
+Primary Audience:
+Citizens, policymakers, engineers, researchers, legislators, auditors,
+public administrators.
+
+Owns:
+Design philosophy only.
+
+Does Not Own:
+Binding definitions or operational requirements.
+
+
+----------------------------------------------------------------------
+00_Control.txt
+----------------------------------------------------------------------
+
+Working Title:
+NBBF Root Control
+
+Class:
+Foundational
+
+Guiding Question:
+What principles govern the entire Node-Based Budget Framework?
+
+Problem Solved:
+Prevents structural and doctrinal drift across the specification.
+
+Depends On:
+None.
+
+Used By:
+Every normative NBBF document.
+
+Primary Audience:
+All NBBF users.
+
+Owns:
+- NBBF identity
+- Scope
+- Specification hierarchy
+- Core axioms
+- Taxpayer Supremacy within NBBF
+- Republican application
+- Recursive human accountability
+- Relationship among normative documents
+- Interpretation hierarchy
+- Amendment authority
+- System-wide invariants
+
+Does Not Own:
+Detailed node taxonomy, budgeting procedures, audit procedures,
+or operational implementation.
+
+
+----------------------------------------------------------------------
+01_Node_Ontology.txt
+----------------------------------------------------------------------
+
+Class:
+Foundational
+
+Guiding Question:
+What is a node, and how does authority decompose into accountable units?
+
+Problem Solved:
+Eliminates anonymous or pooled responsibility.
+
+Depends On:
+00_Control
+
+Used By:
+All structural and operational documents.
+
+Primary Audience:
+Legislators, administrators, auditors, architects, engineers.
+
+Owns:
+- Node definition
+- Node classes
+- Human ownership
+- Parent-child relationships
+- Decision Nodes
+- Assembly Nodes
+- Detail Nodes
+- Operational Nodes
+- Support Nodes
+- Legacy Nodes
+- Root Nodes
+- Node lifecycle at ontology level
+- Node invariants
+- Recursive decomposition
+
+Key Principle:
+The node hierarchy continues until reaching the last human exercising
+direct operational judgment.
+
+
+----------------------------------------------------------------------
+02_Definitions_and_Terms.txt
+----------------------------------------------------------------------
+
+Class:
+Foundational
+
+Guiding Question:
+What do NBBF terms mean?
+
+Problem Solved:
+Prevents reinterpretation and vocabulary drift.
+
+Depends On:
+00_Control
+01_Node_Ontology
+
+Used By:
+Every NBBF document.
+
+Primary Audience:
+Everyone.
+
+Owns:
+All binding vocabulary unless another document is explicitly designated
+as the owner of a specialized term.
+
+Rule:
+Terms shall have one canonical definition.
+
+
+----------------------------------------------------------------------
+03_Republican_Government_Model.txt
+----------------------------------------------------------------------
+
+Class:
+Structural
+
+Guiding Question:
+How does NBBF apply republican structure at every lawful level of government?
+
+Problem Solved:
+Prevents NBBF from being limited to federal government and establishes
+scalable republican governance.
+
+Depends On:
+00_Control
+01_Node_Ontology
+02_Definitions_and_Terms
+
+Used By:
+04, 05, 10, 11 and implementation profiles.
+
+Primary Audience:
+Legislators, local officials, constitutional scholars, citizens.
+
+Owns:
+- Jurisdictional model
+- National republic
+- State republic
+- County republic
+- Municipal republic
+- Township republic
+- School district republic
+- Special district republic
+- Representation interfaces
+- Jurisdiction boundaries
+- Local control
+- Intergovernmental relationships at structural level
+
+
+----------------------------------------------------------------------
+04_System_Structure_Model.txt
+----------------------------------------------------------------------
+
+Class:
+Structural
+
+Guiding Question:
+How do NBBF nodes compose into a functioning governmental system?
+
+Problem Solved:
+Prevents organizational ambiguity and disconnected accountability.
+
+Depends On:
+00
+01
+02
+03
+
+Used By:
+05 through 11.
+
+Primary Audience:
+Government architects, administrators, legislators, auditors, software
+and digital-system designers.
+
+Owns:
+- Structural hierarchy
+- Decision paths
+- Execution paths
+- Reporting paths
+- Signal paths
+- Parent-child decomposition
+- Cross-node relationships
+- Shared support relationships
+- Structural boundaries
+- Accountability chain
+
+
+----------------------------------------------------------------------
+05_Authority_Review_and_Reauthorization_Cycle.txt
+----------------------------------------------------------------------
+
+Class:
+Operational
+
+Guiding Question:
+When and how does public authority continue, change, or die?
+
+Problem Solved:
+Prevents permanent authority through inertia.
+
+Depends On:
+00
+01
+02
+03
+04
+
+Used By:
+06
+07
+08
+09
+10
+
+Primary Audience:
+Legislators, governing boards, administrators, auditors.
+
+Owns:
+- Monthly operational review cadence
+- Four-month legislative review cadence
+- Die Date
+- Reauthorization
+- Modification
+- Reduction
+- Suspension
+- Termination
+- Review evidence package
+- Review timing
+- Decision recording
+
+Core Distinction:
+Monthly operational management is separate from four-month legislative
+authority review.
+
+
+----------------------------------------------------------------------
+06_Cost_and_Value_Model.txt
+----------------------------------------------------------------------
+
+Class:
+Operational
+
+Guiding Question:
+How does NBBF determine whether public spending produces sufficient value?
+
+Problem Solved:
+Eliminates baseline spending and habitual cost assumptions.
+
+Depends On:
+00
+01
+02
+04
+05
+
+Used By:
+07
+08
+09
+10
+
+Primary Audience:
+Legislators, budget officers, auditors, executives, taxpayers.
+
+Owns:
+- Cost claims
+- Funding ceilings
+- Opportunity cost
+- Value
+- Unit cost
+- Comparative cost
+- Restraint
+- Sinking-fund cost treatment
+- Parked balances where retained by NBBF
+- Cost-performance relationships
+
+
+----------------------------------------------------------------------
+07_Audit_and_Performance_Standards.txt
+----------------------------------------------------------------------
+
+Class:
+Operational
+
+Guiding Question:
+How does NBBF determine whether a node is performing as authorized?
+
+Problem Solved:
+Replaces episodic audit with continuous structural accountability.
+
+Depends On:
+00
+01
+02
+04
+05
+06
+
+Used By:
+08
+09
+10
+11
+
+Primary Audience:
+Auditors, legislators, executives, taxpayers.
+
+Owns:
+- Performance standards
+- Audit standards
+- Variance
+- Performance tiers
+- Corrective action
+- Independent audit
+- Signal-triggered review
+- Audit evidence
+- Failure classification
+
+
+----------------------------------------------------------------------
+08_Exit_Clawback_and_Recovery_Rules.txt
+----------------------------------------------------------------------
+
+Class:
+Operational
+
+Guiding Question:
+What happens when a node fails, abuses authority, loses purpose,
+or must terminate?
+
+Problem Solved:
+Prevents failed authority and misallocated funds from persisting.
+
+Depends On:
+00
+01
+02
+05
+06
+07
+
+Used By:
+09
+10
+11
+
+Primary Audience:
+Legislators, auditors, legal authorities, executives, taxpayers.
+
+Owns:
+- Node exit
+- Operational termination
+- Funding recovery
+- Clawback
+- Asset reconciliation
+- Unspent balance disposition
+- Responsibility transfer
+- Failure cleanup
+- Closure verification
+
+Note:
+This document governs NBBF operational exit mechanics and shall not duplicate
+broader AGCL philosophical controls where those remain separate.
+
+
+----------------------------------------------------------------------
+09_Legacy_and_Sealed_Nodes.txt
+----------------------------------------------------------------------
+
+Class:
+Operational / Structural
+
+Guiding Question:
+How does NBBF handle inherited obligations and completed historical activity?
+
+Problem Solved:
+Prevents legacy government from escaping accountability while preserving
+historical records.
+
+Depends On:
+00
+01
+02
+04
+05
+07
+08
+
+Used By:
+10
+11
+
+Primary Audience:
+Legislators, auditors, archivists, administrators.
+
+Owns:
+- Legacy nodes
+- Legacy obligations
+- Migration
+- Non-expansion of inherited scope
+- Sealed nodes
+- Historical record preservation
+- Completed node status
+- Legacy sunset
+- Archived accountability chains
+
+
+----------------------------------------------------------------------
+10_Legislative_Decision_Interface.txt
+----------------------------------------------------------------------
+
+Class:
+Operational
+
+Guiding Question:
+How do elected representative bodies interact with NBBF Decision Nodes?
+
+Problem Solved:
+Separates representative governance from administrative micromanagement.
+
+Depends On:
+00
+01
+02
+03
+04
+05
+06
+07
+08
+09
+
+Used By:
+11 and implementation profiles.
+
+Primary Audience:
+Congress, state legislatures, county commissions, city councils,
+school boards, special-district boards.
+
+Owns:
+- Decision Node voting interface
+- Legislative review packages
+- Recorded votes
+- Four-month reauthorization decisions
+- Funding ceilings at legislative level
+- Scope authorization
+- Conditions of continuation
+- Rejection
+- Modification
+- Termination
+- Governing-body equivalents across jurisdictions
+
+Core Rule:
+Legislative bodies vote on Decision Nodes.
+
+They do not micromanage subordinate operational nodes.
+
+
+----------------------------------------------------------------------
+11_Public_Transparency_API_and_Publishing.txt
+----------------------------------------------------------------------
+
+Class:
+Operational / Structural
+
+Guiding Question:
+How does the taxpayer see what government authorized, spent, delivered,
+and corrected?
+
+Problem Solved:
+Prevents accountability information from remaining trapped inside government.
+
+Depends On:
+00 through 10.
+
+Primary Audience:
+Taxpayers, journalists, researchers, software developers, auditors,
+legislators.
+
+Owns:
+- Public ledger interfaces
+- Human-readable publication
+- Machine-readable publication
+- APIs
+- Node status publication
+- Budget pathways
+- Authorization pathways
+- Public signals where lawful
+- Version visibility
+- Searchability
+- Public evidence references
+- Citizen-facing transparency
+
+======================================================================
+8. INFORMATIVE AND SUPPORTING DOCUMENTS
+======================================================================
+
+----------------------------------------------------------------------
+97_Structural_Foundations_and_Engineering_Lineage.txt
+----------------------------------------------------------------------
+
+Class:
+Informative
+
+Guiding Question:
+Which thinkers, disciplines, historical examples, and engineering traditions
+help explain the structural principles used by NBBF?
+
+Owns:
+Attribution and intellectual lineage.
+
+Potential Sources:
+- James Madison
+- Alexander Hamilton
+- Montesquieu
+- Friedrich Hayek
+- Ludwig von Mises
+- Thomas Sowell
+- Frédéric Bastiat
+- W. Edwards Deming
+- Frank Knight
+- Nassim Nicholas Taleb
+- Elinor Ostrom
+- Systems engineering
+- Lean management
+- Military command systems
+- Software decomposition
+- Other relevant experts
+
+Rule:
+Experts are credited for relevant ideas.
+
+They do not become sources of governing authority.
+
+
+----------------------------------------------------------------------
+97A_Structural_Scripture_References.txt
+----------------------------------------------------------------------
+
+Class:
+Informative
+
+Guiding Question:
+Where does Scripture contain structural observations relevant to NBBF?
+
+Purpose:
+Document structural parallels without using Scripture as a substitute
+for constitutional or engineering authority.
+
+Potential Topics:
+- Delegated responsibility — Exodus 18
+- Honest weights and measures
+- Dross and degradation of standards
+- Stewardship
+- Debt
+- Inheritance
+- Counsel
+- Distributed judgment
+- Accountability
+- Recordkeeping
+- Human limitations
+
+Rule:
+Scripture is cited for structural observation, historical lineage,
+or analogy.
+
+It is not used as a substitute for constitutional authority or empirical
+engineering requirements.
+
+
+----------------------------------------------------------------------
+99_Publication_and_Social_Format_Guide.txt
+----------------------------------------------------------------------
+
+Class:
+Informative / Publication Standard
+
+Guiding Question:
+How is NBBF presented publicly without changing its meaning?
+
+Owns:
+- Public excerpts
+- Document links
+- Section identifiers
+- Social-media formatting
+- Publication consistency
+- Public citation conventions
+
+======================================================================
+9. DOCUMENT DEPENDENCY GRAPH
+======================================================================
+
+NBBF_Design_Philosophy
+        |
+        | informative only
+        v
+00_Control
+        |
+        +----------------------+
+        |                      |
+        v                      v
+01_Node_Ontology        02_Definitions
+        |                      |
+        +----------+-----------+
+                   |
+                   v
+03_Republican_Government_Model
+                   |
+                   v
+04_System_Structure_Model
+                   |
+                   v
+05_Authority_Review_and_Reauthorization_Cycle
+                   |
+          +--------+--------+
+          |                 |
+          v                 v
+06_Cost_and_Value      07_Audit_and_Performance
+          |                 |
+          +--------+--------+
+                   |
+                   v
+08_Exit_Clawback_and_Recovery
+                   |
+                   v
+09_Legacy_and_Sealed_Nodes
+                   |
+                   v
+10_Legislative_Decision_Interface
+                   |
+                   v
+11_Public_Transparency_API_and_Publishing
+
+
+97 / 97A / 99 remain informative and may reference the normative system
+without creating authority.
+
+======================================================================
+10. ACCOUNTABILITY FLOW MODEL
+======================================================================
+
+NBBF shall distinguish authorization from execution.
+
+Illustrative military model:
+
+Congress
+    |
+    | Legislative Decision Node
+    v
+Department / Service Authority
+    |
+    v
+Major Command
+    |
+    v
+Subordinate Commands
+    |
+    v
+Unit
+    |
+    v
+Platoon
+    |
+    v
+Squad
+    |
+    v
+Fire Team
+    |
+    v
+Fire Team Leader
+    |
+    v
+Direct operational responsibility
+
+The Fire Team Leader does not report directly to Congress.
+
+The Fire Team Leader does possess the right and duty to ask:
+
+"Where is the equipment that was authorized for this node?"
+
+A protected signal shall be capable of traveling upward through the structure
+while retaining traceability to the original authorization.
+
+This same principle shall apply to civilian government.
+
+Example:
+
+County Commission
+    |
+Public Works
+    |
+Road Division
+    |
+Crew
+    |
+Crew Leader
+
+Every level answers for its own span of accountability.
+
+======================================================================
+11. CONCEPT OWNERSHIP
+======================================================================
+
+The following concepts shall have designated primary homes.
+
+NBBF identity:
+00_Control
+
+Taxpayer Supremacy within NBBF:
+00_Control
+
+Engineering axioms:
+00_Control
+
+Node:
+01_Node_Ontology
+
+Human Owner:
+01_Node_Ontology
+
+Recursive Human Accountability:
+00_Control establishes principle
+01_Node_Ontology defines implementation
+
+Decision Node:
+01_Node_Ontology
+
+Assembly Node:
+01_Node_Ontology
+
+Operational Node:
+01_Node_Ontology
+
+Support Node:
+01_Node_Ontology
+
+Legacy Node:
+01 defines
+09 governs
+
+Republican jurisdiction:
+03_Republican_Government_Model
+
+System composition:
+04_System_Structure_Model
+
+Monthly operational review:
+05_Authority_Review_and_Reauthorization_Cycle
+
+Four-month legislative review:
+05_Authority_Review_and_Reauthorization_Cycle
+
+Die Date:
+05_Authority_Review_and_Reauthorization_Cycle
+
+Cost:
+06_Cost_and_Value_Model
+
+Value:
+06_Cost_and_Value_Model
+
+Opportunity Cost:
+06_Cost_and_Value_Model
+
+Variance:
+07_Audit_and_Performance_Standards
+with canonical definition recorded in 02
+
+Audit:
+07_Audit_and_Performance_Standards
+
+Performance:
+07_Audit_and_Performance_Standards
+
+Signal:
+Canonical definition in 02
+structural implementation distributed through 01, 04, 07, and 11
+
+Exit:
+08_Exit_Clawback_and_Recovery_Rules
+
+Clawback:
+08_Exit_Clawback_and_Recovery_Rules
+
+Legacy:
+09_Legacy_and_Sealed_Nodes
+
+Sealed Node:
+09_Legacy_and_Sealed_Nodes
+
+Legislative Interface:
+10_Legislative_Decision_Interface
+
+Public Ledger:
+11_Public_Transparency_API_and_Publishing
+
+API:
+11_Public_Transparency_API_and_Publishing
+
+Structural intellectual lineage:
+97
+
+Structural Scripture references:
+97A
+
+Publication formatting:
+99
+
+======================================================================
+12. STANDARD DOCUMENT TEMPLATE
+======================================================================
+
+Every canonical normative NBBF document should contain, where applicable:
+
+DOCUMENT NUMBER AND TITLE
+
+Node-Based Budget Framework (NBBF)
+
+Version
+Date
+Status
+Classification
+Scope
+
+GOVERNING AUTHORITY
+
+GUIDING QUESTION
+
+1. PURPOSE
+
+2. PROBLEM STATEMENT
+
+3. SCOPE
+
+4. DEFINITIONS
+   Only specialized definitions.
+   Canonical vocabulary remains owned by 02.
+
+5. GOVERNING PRINCIPLES
+
+6. REQUIREMENTS
+
+7. STRUCTURAL RULES
+
+8. REPORTING / SIGNAL REQUIREMENTS
+
+9. REVIEW OR LIFECYCLE RULES
+
+10. FAILURE / EXIT CONDITIONS
+
+11. CROSS REFERENCES
+
+12. NORTH STAR
+
+REVISION HISTORY
+
+END OF DOCUMENT
+
+Not every document requires every section.
+
+Sections shall not be included merely to satisfy formatting.
+
+======================================================================
+13. NORMATIVE LANGUAGE
+======================================================================
+
+Normative documents should use controlled language.
+
+SHALL
+Mandatory requirement.
+
+SHALL NOT
+Mandatory prohibition.
+
+MAY
+Permitted action.
+
+SHOULD
+Preferred practice requiring justification if not followed.
+
+INFORMATIVE
+Explanation only.
+
+Terms such as "might," "probably," "hopefully," and similar ambiguous
+language should not appear in normative requirements.
+
+======================================================================
+14. VERSIONING STRATEGY
+======================================================================
+
+NBBF shall use semantic-style document versioning:
+
+MAJOR.MINOR.PATCH
+
+Example:
+
+2.0.0
+
+MAJOR
+Changes architecture, authority, meaning, or compatibility.
+
+MINOR
+Adds a compatible rule, feature, section, or clarification.
+
+PATCH
+Corrects wording, spelling, formatting, or non-substantive error.
+
+Examples:
+
+2.0.0
+Initial canonical Version 2 release.
+
+2.1.0
+Adds a compatible review mechanism.
+
+2.1.1
+Corrects wording without changing meaning.
+
+Historical versions shall remain available after publication.
+
+======================================================================
+15. FILE NAMING STANDARD
+======================================================================
+
+Canonical files shall use:
+
+NN_Title_With_Underscores.txt
+
+Examples:
+
+00_Control.txt
+
+01_Node_Ontology.txt
+
+03_Republican_Government_Model.txt
+
+05_Authority_Review_and_Reauthorization_Cycle.txt
+
+11_Public_Transparency_API_and_Publishing.txt
+
+Informative supporting files may use:
+
+97_
+97A_
+98_
+99_
+
+File names shall remain stable after canonical publication whenever practical.
+
+======================================================================
+16. SECTION IDENTIFICATION
+======================================================================
+
+Canonical sections should be externally citable.
+
+Preferred form:
+
+NBBF 06.4
+
+Meaning:
+
+Document 06
+Section 4
+
+Nested sections:
+
+NBBF 06.4.2
+
+Section numbering shall remain stable after canonical release whenever
+practical.
+
+Changes requiring renumbering shall be documented in the change log.
+
+======================================================================
+17. CROSS-REFERENCE RULE
+======================================================================
+
+A document may reference another document.
+
+It shall not duplicate an authoritative rule merely for convenience.
+
+Example:
+
+07_Audit_and_Performance_Standards may reference the definition of a Node
+from 01_Node_Ontology.
+
+It shall not create a second incompatible Node definition.
+
+Where conflict exists:
+
+00_Control prevails over all other NBBF documents.
+
+02_Definitions_and_Terms controls vocabulary unless explicitly superseded
+by 00_Control.
+
+Specialized documents govern their assigned subject area only within
+the boundaries created by higher-order documents.
+
+======================================================================
+18. EXPERT AND SOURCE ATTRIBUTION
+======================================================================
+
+NBBF shall give credit where credit is due.
+
+Expert attribution may appear:
+
+- In 97_Structural_Foundations_and_Engineering_Lineage
+- In explanatory notes
+- In informative appendices
+- In public educational material
+
+Attribution shall distinguish:
+
+What the expert actually taught.
+
+What NBBF derives or adapts from that principle.
+
+What NBBF independently adds.
+
+No expert shall be represented as endorsing NBBF unless such endorsement
+actually exists.
+
+======================================================================
+19. SCRIPTURAL STRUCTURAL ATTRIBUTION
+======================================================================
+
+Scripture may be cited where it contains structural observations relevant to:
+
+- Delegation
+- Span of responsibility
+- Honest measurement
+- Dross
+- Stewardship
+- Debt
+- Inheritance
+- Accountability
+- Counsel
+- Human limitations
+- Distributed governance
+
+Such references shall be used analytically and structurally.
+
+They shall not replace constitutional authority, statutory authority,
+empirical evidence, engineering analysis, or the normative requirements
+of NBBF.
+
+======================================================================
+20. RELATIONSHIP TO AGCL
+======================================================================
+
+NBBF and AGCL are separate standards.
+
+AGCL addresses broader constitutional philosophy, liberty, property,
+taxation, monetary integrity, authority limitations, and related principles.
+
+NBBF addresses the engineering of republican budgeting, execution,
+accountability, performance, reporting, and public-resource stewardship.
+
+NBBF may reference AGCL where applicable.
+
+NBBF shall not silently absorb or duplicate AGCL controls.
+
+Any future integration shall be explicit and versioned.
+
+======================================================================
+21. RELATIONSHIP TO CDT
+======================================================================
+
+The Constitutional Digital Twin (CDT) is a digital representation layer.
+
+NBBF defines the government structure and accountability relationships that
+a CDT may represent.
+
+CDT shall not create NBBF authority.
+
+A future CDT may expose:
+
+- Nodes
+- Human ownership
+- Authority
+- Budgets
+- Votes
+- Signals
+- Performance
+- Status
+- Die Dates
+- Public evidence
+
+======================================================================
+22. RELATIONSHIP TO UNBKE
+======================================================================
+
+UNBKE is a knowledge-engineering runtime capable of representing,
+retrieving, applying, verifying, and tracing structured knowledge.
+
+NBBF defines governance and budgeting requirements.
+
+UNBKE may eventually provide runtime capabilities for:
+
+- Requirement traceability
+- Evidence
+- Knowledge provenance
+- Control-document linkage
+- Standard work
+- Verification
+- Audit support
+- Digital twin knowledge
+
+UNBKE shall not replace accountable human ownership.
+
+======================================================================
+23. WORKING RELEASE PROCESS
+======================================================================
+
+During development:
+
+Drive
+    |
+    v
+Working Draft
+    |
+    v
+Internal Audit
+    |
+    v
+Cross-Reference Audit
+    |
+    v
+Terminology Audit
+    |
+    v
+Release Candidate
+    |
+    v
+GitHub
+    |
+    v
+Tagged Canonical Release
+    |
+    v
+GitHub Pages / BlueprintLiberty Publication
+
+GitHub is the publication and version-history platform.
+
+The Drive working directory remains the drafting environment until
+a release candidate is frozen.
+
+======================================================================
+24. RELEASE READINESS CHECKLIST
+======================================================================
+
+A document shall not move to Release Candidate until:
+
+[ ] Purpose is clear.
+
+[ ] Guiding Question is answered.
+
+[ ] Scope is bounded.
+
+[ ] Governing authority is identified.
+
+[ ] Terminology matches 02_Definitions_and_Terms.
+
+[ ] Concepts are located in their correct document.
+
+[ ] No incompatible duplication exists.
+
+[ ] Cross references are valid.
+
+[ ] Human ownership is explicit where required.
+
+[ ] Monthly operational review is addressed where applicable.
+
+[ ] Four-month legislative review is addressed where applicable.
+
+[ ] Signal paths exist where required.
+
+[ ] Failure modes are addressed where required.
+
+[ ] Exit or termination is addressed where required.
+
+[ ] Public transparency requirements are addressed where applicable.
+
+[ ] Expert attribution is accurate.
+
+[ ] Scriptural references are structural and properly characterized.
+
+[ ] Version number is present.
+
+[ ] Revision history is present.
+
+[ ] North Star is present.
+
+[ ] Final spelling and grammar review is complete.
+
+======================================================================
+25. CURRENT DRAFTING ORDER
+======================================================================
+
+The working drafting order is:
+
+1. NBBF_Design_Philosophy.txt
+   Status: Draft created.
+
+2. NBBF_Master_Blueprint.txt
+   Status: Current working document.
+
+3. 00_Control.txt
+   Next canonical document.
+
+4. 01_Node_Ontology.txt
+   Audit and revise.
+
+5. 02_Definitions_and_Terms.txt
+   Audit and revise.
+
+6. 03_Republican_Government_Model.txt
+   Create.
+
+7. 04_System_Structure_Model.txt
+   Create.
+
+8. 05_Authority_Review_and_Reauthorization_Cycle.txt
+   Create.
+
+9. 06_Cost_and_Value_Model.txt
+   Audit and revise.
+
+10. 07_Audit_and_Performance_Standards.txt
+    Audit and revise.
+
+11. 08_Exit_Clawback_and_Recovery_Rules.txt
+    Create.
+
+12. 09_Legacy_and_Sealed_Nodes.txt
+    Create.
+
+13. 10_Legislative_Decision_Interface.txt
+    Create.
+
+14. 11_Public_Transparency_API_and_Publishing.txt
+    Create.
+
+15. 97_Structural_Foundations_and_Engineering_Lineage.txt
+    Create after normative architecture stabilizes.
+
+16. 97A_Structural_Scripture_References.txt
+    Create after normative architecture stabilizes.
+
+17. 99_Publication_and_Social_Format_Guide.txt
+    Revise after document numbering and publication format are frozen.
+
+======================================================================
+26. MASTER NORTH STAR
+======================================================================
+
+NBBF shall engineer republican government so that lawful authority,
+taxpayer resources, human responsibility, operational reality,
+and public accountability remain continuously aligned.
+
+Every public dollar answers.
+
+Every authority has a boundary.
+
+Every Decision Node faces review.
+
+Every operational responsibility reaches a human owner.
+
+Every meaningful variance may become a protected signal.
+
+Every failure may be discovered before it becomes systemic.
+
+Every taxpayer may ultimately see how their republic works.
+
+Taxpayer Supremacy is preserved by structure.
+
+======================================================================
+END OF NBBF MASTER BLUEPRINT
+======================================================================
